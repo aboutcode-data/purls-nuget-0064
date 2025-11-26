@@ -1,0 +1,4 @@
+- pkg:nuget/source-generator-test@25.9.29.7
+- pkg:nuget/source-generator-test@25.9.29.7-rc
+- pkg:nuget/source-generator-test@25.9.29.8-rc1
+- pkg:nuget/source-generator-test@25.9.29.8-rc3
