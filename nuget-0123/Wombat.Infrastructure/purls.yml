@@ -24,6 +24,7 @@
 - pkg:nuget/Wombat.Infrastructure@2.0.21
 - pkg:nuget/Wombat.Infrastructure@2.0.22
 - pkg:nuget/Wombat.Infrastructure@2.0.23
+- pkg:nuget/Wombat.Infrastructure@2.0.25
 - pkg:nuget/Wombat.Infrastructure@2.0.3
 - pkg:nuget/Wombat.Infrastructure@2.0.4
 - pkg:nuget/Wombat.Infrastructure@2.0.5
