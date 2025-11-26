@@ -300,6 +300,7 @@
 - pkg:nuget/GS2.CSharp.Sdk@2025.1.8
 - pkg:nuget/GS2.CSharp.Sdk@2025.1.9
 - pkg:nuget/GS2.CSharp.Sdk@2025.10.2
+- pkg:nuget/GS2.CSharp.Sdk@2025.10.9
 - pkg:nuget/GS2.CSharp.Sdk@2025.2.1
 - pkg:nuget/GS2.CSharp.Sdk@2025.2.10
 - pkg:nuget/GS2.CSharp.Sdk@2025.2.11
