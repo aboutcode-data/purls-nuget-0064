@@ -1,0 +1,4 @@
+- pkg:nuget/Microsoft.Teams.Extensions.Graph@2.0.0-preview.10
+- pkg:nuget/Microsoft.Teams.Extensions.Graph@2.0.0-preview.11
+- pkg:nuget/Microsoft.Teams.Extensions.Graph@2.0.0-preview.9
+- pkg:nuget/Microsoft.Teams.Extensions.Graph@2.0.1
