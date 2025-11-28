@@ -17,3 +17,4 @@
 - pkg:nuget/AxonFlow.Flow@9.3.4
 - pkg:nuget/AxonFlow.Flow@9.3.5
 - pkg:nuget/AxonFlow.Flow@9.4.0
+- pkg:nuget/AxonFlow.Flow@9.5.1-preview
