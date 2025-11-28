@@ -26,3 +26,4 @@
 - pkg:nuget/Umbraco.Forms.Integrations.Crm.Hubspot@5.0.0
 - pkg:nuget/Umbraco.Forms.Integrations.Crm.Hubspot@6.0.0
 - pkg:nuget/Umbraco.Forms.Integrations.Crm.Hubspot@7.0.0
+- pkg:nuget/Umbraco.Forms.Integrations.Crm.Hubspot@8.0.0
