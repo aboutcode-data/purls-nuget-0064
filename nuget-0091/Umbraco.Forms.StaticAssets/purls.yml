@@ -144,3 +144,4 @@
 - pkg:nuget/Umbraco.Forms.StaticAssets@16.0.0-rc4
 - pkg:nuget/Umbraco.Forms.StaticAssets@16.0.0-rc5
 - pkg:nuget/Umbraco.Forms.StaticAssets@16.1.0
+- pkg:nuget/Umbraco.Forms.StaticAssets@17.0.1
