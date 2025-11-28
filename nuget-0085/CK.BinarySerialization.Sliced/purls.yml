@@ -1,6 +1,7 @@
 - pkg:nuget/CK.BinarySerialization.Sliced@10.0.0
 - pkg:nuget/CK.BinarySerialization.Sliced@11.0.0
 - pkg:nuget/CK.BinarySerialization.Sliced@11.0.1
+- pkg:nuget/CK.BinarySerialization.Sliced@12.1.1
 - pkg:nuget/CK.BinarySerialization.Sliced@4.1.0
 - pkg:nuget/CK.BinarySerialization.Sliced@4.2.0
 - pkg:nuget/CK.BinarySerialization.Sliced@4.2.1

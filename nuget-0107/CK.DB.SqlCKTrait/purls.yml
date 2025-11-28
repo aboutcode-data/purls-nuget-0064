@@ -45,6 +45,7 @@
 - pkg:nuget/CK.DB.SqlCKTrait@13.0.0
 - pkg:nuget/CK.DB.SqlCKTrait@13.0.1
 - pkg:nuget/CK.DB.SqlCKTrait@13.0.2
+- pkg:nuget/CK.DB.SqlCKTrait@14.1.1
 - pkg:nuget/CK.DB.SqlCKTrait@2.0.0
 - pkg:nuget/CK.DB.SqlCKTrait@3.0.0
 - pkg:nuget/CK.DB.SqlCKTrait@4.0.0

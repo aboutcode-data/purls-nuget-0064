@@ -340,6 +340,7 @@
 - pkg:nuget/Ecng.Net@1.0.408
 - pkg:nuget/Ecng.Net@1.0.41
 - pkg:nuget/Ecng.Net@1.0.42
+- pkg:nuget/Ecng.Net@1.0.428
 - pkg:nuget/Ecng.Net@1.0.43
 - pkg:nuget/Ecng.Net@1.0.44
 - pkg:nuget/Ecng.Net@1.0.45
