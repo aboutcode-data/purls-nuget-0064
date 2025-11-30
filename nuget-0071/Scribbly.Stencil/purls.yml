@@ -18,3 +18,4 @@
 - pkg:nuget/Scribbly.Stencil@0.3.2
 - pkg:nuget/Scribbly.Stencil@0.3.3
 - pkg:nuget/Scribbly.Stencil@0.3.3-34-initial-analyzer-and-code-fix-project-setup.1
+- pkg:nuget/Scribbly.Stencil@0.3.6
