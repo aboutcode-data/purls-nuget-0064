@@ -134,3 +134,5 @@
 - pkg:nuget/EnginePseudo3D.RayTracingLib@2.3.9
 - pkg:nuget/EnginePseudo3D.RayTracingLib@2.4.3
 - pkg:nuget/EnginePseudo3D.RayTracingLib@2.6.3
+- pkg:nuget/EnginePseudo3D.RayTracingLib@2.6.9
+- pkg:nuget/EnginePseudo3D.RayTracingLib@2.7.0
