@@ -1,1 +1,2 @@
 - pkg:nuget/AwsLambda.Host.Envelopes.Kinesis@1.0.1-beta.4
+- pkg:nuget/AwsLambda.Host.Envelopes.Kinesis@1.2.1
