@@ -1,5 +1,6 @@
 - pkg:nuget/Spire.Office@10.1.0
 - pkg:nuget/Spire.Office@10.1.2
+- pkg:nuget/Spire.Office@10.11.0
 - pkg:nuget/Spire.Office@10.2.0
 - pkg:nuget/Spire.Office@10.5.0
 - pkg:nuget/Spire.Office@10.6.0
