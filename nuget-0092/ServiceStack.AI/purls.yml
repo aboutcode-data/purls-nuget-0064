@@ -1,3 +1,4 @@
+- pkg:nuget/ServiceStack.AI@10.0.0
 - pkg:nuget/ServiceStack.AI@6.11.0
 - pkg:nuget/ServiceStack.AI@8.0.0
 - pkg:nuget/ServiceStack.AI@8.1.0
