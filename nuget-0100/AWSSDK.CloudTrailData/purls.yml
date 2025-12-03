@@ -493,6 +493,7 @@
 - pkg:nuget/AWSSDK.CloudTrailData@3.7.500.8
 - pkg:nuget/AWSSDK.CloudTrailData@3.7.500.9
 - pkg:nuget/AWSSDK.CloudTrailData@3.7.501.10
+- pkg:nuget/AWSSDK.CloudTrailData@3.7.501.14
 - pkg:nuget/AWSSDK.CloudTrailData@3.7.501.3
 - pkg:nuget/AWSSDK.CloudTrailData@4.0.0
 - pkg:nuget/AWSSDK.CloudTrailData@4.0.0-preview

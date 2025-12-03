@@ -736,6 +736,7 @@
 - pkg:nuget/AWSSDK.ChimeSDKIdentity@3.7.501.8
 - pkg:nuget/AWSSDK.ChimeSDKIdentity@3.7.501.9
 - pkg:nuget/AWSSDK.ChimeSDKIdentity@3.7.502.10
+- pkg:nuget/AWSSDK.ChimeSDKIdentity@3.7.502.12
 - pkg:nuget/AWSSDK.ChimeSDKIdentity@3.7.502.8
 - pkg:nuget/AWSSDK.ChimeSDKIdentity@4.0.0
 - pkg:nuget/AWSSDK.ChimeSDKIdentity@4.0.0-preview
