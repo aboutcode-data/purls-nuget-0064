@@ -26,6 +26,7 @@
 - pkg:nuget/LoreSoft.Blazor.Controls@11.5.0
 - pkg:nuget/LoreSoft.Blazor.Controls@11.5.1
 - pkg:nuget/LoreSoft.Blazor.Controls@12.2.8
+- pkg:nuget/LoreSoft.Blazor.Controls@13.2.1
 - pkg:nuget/LoreSoft.Blazor.Controls@2.0.0.13
 - pkg:nuget/LoreSoft.Blazor.Controls@2.0.0.14
 - pkg:nuget/LoreSoft.Blazor.Controls@2.0.0.20
