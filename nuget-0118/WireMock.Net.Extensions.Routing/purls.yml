@@ -6,3 +6,4 @@
 - pkg:nuget/WireMock.Net.Extensions.Routing@1.11.2
 - pkg:nuget/WireMock.Net.Extensions.Routing@1.12.0
 - pkg:nuget/WireMock.Net.Extensions.Routing@1.13.0
+- pkg:nuget/WireMock.Net.Extensions.Routing@1.18.0
