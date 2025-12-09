@@ -47,3 +47,4 @@
 - pkg:nuget/Contract.Signing.SDK.Test@1.4.6
 - pkg:nuget/Contract.Signing.SDK.Test@1.4.7
 - pkg:nuget/Contract.Signing.SDK.Test@1.5.1
+- pkg:nuget/Contract.Signing.SDK.Test@1.5.2

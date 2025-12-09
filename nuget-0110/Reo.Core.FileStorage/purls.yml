@@ -2760,6 +2760,7 @@
 - pkg:nuget/Reo.Core.FileStorage@8.0.72
 - pkg:nuget/Reo.Core.FileStorage@8.0.73
 - pkg:nuget/Reo.Core.FileStorage@8.0.74
+- pkg:nuget/Reo.Core.FileStorage@8.0.740
 - pkg:nuget/Reo.Core.FileStorage@8.0.75
 - pkg:nuget/Reo.Core.FileStorage@8.0.76
 - pkg:nuget/Reo.Core.FileStorage@8.0.77
