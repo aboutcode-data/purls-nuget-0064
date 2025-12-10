@@ -116,6 +116,7 @@
 - pkg:nuget/Microsoft.JavaScript.NodeApi@0.9.12
 - pkg:nuget/Microsoft.JavaScript.NodeApi@0.9.13
 - pkg:nuget/Microsoft.JavaScript.NodeApi@0.9.15
+- pkg:nuget/Microsoft.JavaScript.NodeApi@0.9.18
 - pkg:nuget/Microsoft.JavaScript.NodeApi@0.9.2
 - pkg:nuget/Microsoft.JavaScript.NodeApi@0.9.3
 - pkg:nuget/Microsoft.JavaScript.NodeApi@0.9.4
