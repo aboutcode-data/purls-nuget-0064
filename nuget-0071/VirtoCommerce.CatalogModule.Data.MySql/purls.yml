@@ -395,3 +395,4 @@
 - pkg:nuget/VirtoCommerce.CatalogModule.Data.MySql@3.892.0
 - pkg:nuget/VirtoCommerce.CatalogModule.Data.MySql@3.902.0
 - pkg:nuget/VirtoCommerce.CatalogModule.Data.MySql@3.903.0
+- pkg:nuget/VirtoCommerce.CatalogModule.Data.MySql@3.907.0
