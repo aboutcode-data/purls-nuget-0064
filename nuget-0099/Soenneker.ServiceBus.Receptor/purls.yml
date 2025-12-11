@@ -1958,3 +1958,4 @@
 - pkg:nuget/Soenneker.ServiceBus.Receptor@3.0.1756
 - pkg:nuget/Soenneker.ServiceBus.Receptor@4.0.1771
 - pkg:nuget/Soenneker.ServiceBus.Receptor@4.0.1774
+- pkg:nuget/Soenneker.ServiceBus.Receptor@4.0.1782
