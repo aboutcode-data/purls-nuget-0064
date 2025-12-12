@@ -239,6 +239,7 @@
 - pkg:nuget/SIL.Core@16.2.0-beta0040
 - pkg:nuget/SIL.Core@16.2.0-beta0043
 - pkg:nuget/SIL.Core@17.0.0-beta0079
+- pkg:nuget/SIL.Core@17.0.0-beta0091
 - pkg:nuget/SIL.Core@4.1.0
 - pkg:nuget/SIL.Core@4.2.0-alpha940
 - pkg:nuget/SIL.Core@7.0.0
