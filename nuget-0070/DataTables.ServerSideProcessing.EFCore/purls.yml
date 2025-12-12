@@ -52,3 +52,5 @@
 - pkg:nuget/DataTables.ServerSideProcessing.EFCore@4.3.0
 - pkg:nuget/DataTables.ServerSideProcessing.EFCore@4.3.1
 - pkg:nuget/DataTables.ServerSideProcessing.EFCore@4.3.2
+- pkg:nuget/DataTables.ServerSideProcessing.EFCore@5.4.0
+- pkg:nuget/DataTables.ServerSideProcessing.EFCore@5.4.1
