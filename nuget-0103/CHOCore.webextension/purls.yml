@@ -147,6 +147,7 @@
 - pkg:nuget/CHOCore.webextension@7.1.5
 - pkg:nuget/CHOCore.webextension@7.1.6
 - pkg:nuget/CHOCore.webextension@7.1.6.1
+- pkg:nuget/CHOCore.webextension@7.1.6.13
 - pkg:nuget/CHOCore.webextension@7.1.6.2
 - pkg:nuget/CHOCore.webextension@7.1.6.3
 - pkg:nuget/CHOCore.webextension@7.1.6.4
