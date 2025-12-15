@@ -2,6 +2,7 @@
 - pkg:nuget/Laraue.EfCoreTriggers.PostgreSql@1.0.1
 - pkg:nuget/Laraue.EfCoreTriggers.PostgreSql@1.1.0
 - pkg:nuget/Laraue.EfCoreTriggers.PostgreSql@1.1.1
+- pkg:nuget/Laraue.EfCoreTriggers.PostgreSql@10.3.1
 - pkg:nuget/Laraue.EfCoreTriggers.PostgreSql@5.2.0
 - pkg:nuget/Laraue.EfCoreTriggers.PostgreSql@5.2.0-alpha1
 - pkg:nuget/Laraue.EfCoreTriggers.PostgreSql@5.2.0-alpha2
@@ -45,6 +46,7 @@
 - pkg:nuget/Laraue.EfCoreTriggers.PostgreSql@5.6.0
 - pkg:nuget/Laraue.EfCoreTriggers.PostgreSql@5.6.1
 - pkg:nuget/Laraue.EfCoreTriggers.PostgreSql@5.6.2
+- pkg:nuget/Laraue.EfCoreTriggers.PostgreSql@5.8.1
 - pkg:nuget/Laraue.EfCoreTriggers.PostgreSql@6.0.0
 - pkg:nuget/Laraue.EfCoreTriggers.PostgreSql@6.0.1
 - pkg:nuget/Laraue.EfCoreTriggers.PostgreSql@6.0.2
@@ -65,6 +67,7 @@
 - pkg:nuget/Laraue.EfCoreTriggers.PostgreSql@6.4.2-alpha
 - pkg:nuget/Laraue.EfCoreTriggers.PostgreSql@6.4.3
 - pkg:nuget/Laraue.EfCoreTriggers.PostgreSql@6.5.0
+- pkg:nuget/Laraue.EfCoreTriggers.PostgreSql@6.6.1
 - pkg:nuget/Laraue.EfCoreTriggers.PostgreSql@7.0.0
 - pkg:nuget/Laraue.EfCoreTriggers.PostgreSql@7.0.0-alpha
 - pkg:nuget/Laraue.EfCoreTriggers.PostgreSql@7.0.0-alpha2
@@ -87,6 +90,7 @@
 - pkg:nuget/Laraue.EfCoreTriggers.PostgreSql@7.2.1
 - pkg:nuget/Laraue.EfCoreTriggers.PostgreSql@7.2.2
 - pkg:nuget/Laraue.EfCoreTriggers.PostgreSql@7.3.0
+- pkg:nuget/Laraue.EfCoreTriggers.PostgreSql@7.4.1
 - pkg:nuget/Laraue.EfCoreTriggers.PostgreSql@8.0.0
 - pkg:nuget/Laraue.EfCoreTriggers.PostgreSql@8.0.1
 - pkg:nuget/Laraue.EfCoreTriggers.PostgreSql@8.0.2
@@ -94,5 +98,7 @@
 - pkg:nuget/Laraue.EfCoreTriggers.PostgreSql@8.1.0
 - pkg:nuget/Laraue.EfCoreTriggers.PostgreSql@8.1.1
 - pkg:nuget/Laraue.EfCoreTriggers.PostgreSql@8.1.2
+- pkg:nuget/Laraue.EfCoreTriggers.PostgreSql@8.3.1
 - pkg:nuget/Laraue.EfCoreTriggers.PostgreSql@9.0.0
 - pkg:nuget/Laraue.EfCoreTriggers.PostgreSql@9.0.0-alpha1
+- pkg:nuget/Laraue.EfCoreTriggers.PostgreSql@9.2.1
