@@ -1202,6 +1202,7 @@
 - pkg:nuget/Portemis.Configuration@4.0.11
 - pkg:nuget/Portemis.Configuration@4.0.119
 - pkg:nuget/Portemis.Configuration@4.0.12
+- pkg:nuget/Portemis.Configuration@4.0.127
 - pkg:nuget/Portemis.Configuration@4.0.13
 - pkg:nuget/Portemis.Configuration@4.0.14
 - pkg:nuget/Portemis.Configuration@4.0.15
@@ -1250,3 +1251,4 @@
 - pkg:nuget/Portemis.Configuration@4.0.8
 - pkg:nuget/Portemis.Configuration@4.0.80
 - pkg:nuget/Portemis.Configuration@4.0.9
+- pkg:nuget/Portemis.Configuration@4.1.1
