@@ -1176,6 +1176,7 @@
 - pkg:nuget/AWSSDK.LexModelBuildingService@3.7.502.13
 - pkg:nuget/AWSSDK.LexModelBuildingService@3.7.502.15
 - pkg:nuget/AWSSDK.LexModelBuildingService@3.7.502.21
+- pkg:nuget/AWSSDK.LexModelBuildingService@3.7.502.22
 - pkg:nuget/AWSSDK.LexModelBuildingService@4.0.0
 - pkg:nuget/AWSSDK.LexModelBuildingService@4.0.0-preview
 - pkg:nuget/AWSSDK.LexModelBuildingService@4.0.0-preview.10

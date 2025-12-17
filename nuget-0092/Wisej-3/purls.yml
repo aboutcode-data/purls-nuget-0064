@@ -221,6 +221,7 @@
 - pkg:nuget/Wisej-3@3.5.22-preview.12
 - pkg:nuget/Wisej-3@3.5.23
 - pkg:nuget/Wisej-3@3.5.24-preview.2
+- pkg:nuget/Wisej-3@3.5.26-preview.5
 - pkg:nuget/Wisej-3@3.5.3
 - pkg:nuget/Wisej-3@3.5.3-preview.1
 - pkg:nuget/Wisej-3@3.5.3-preview.4
