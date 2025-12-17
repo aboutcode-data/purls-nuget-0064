@@ -29,6 +29,7 @@
 - pkg:nuget/RDKit2DotNetStandard@1.0.35
 - pkg:nuget/RDKit2DotNetStandard@1.0.36
 - pkg:nuget/RDKit2DotNetStandard@1.0.37
+- pkg:nuget/RDKit2DotNetStandard@1.0.42
 - pkg:nuget/RDKit2DotNetStandard@1.0.5-beta
 - pkg:nuget/RDKit2DotNetStandard@1.0.6
 - pkg:nuget/RDKit2DotNetStandard@1.0.7
