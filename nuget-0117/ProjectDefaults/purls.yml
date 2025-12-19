@@ -64,6 +64,7 @@
 - pkg:nuget/ProjectDefaults@1.0.160
 - pkg:nuget/ProjectDefaults@1.0.161
 - pkg:nuget/ProjectDefaults@1.0.162
+- pkg:nuget/ProjectDefaults@1.0.167
 - pkg:nuget/ProjectDefaults@1.0.17
 - pkg:nuget/ProjectDefaults@1.0.18
 - pkg:nuget/ProjectDefaults@1.0.19
