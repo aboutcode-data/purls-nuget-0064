@@ -1,1 +1,2 @@
 - pkg:nuget/Cloudflare.NET.Api@1.0.0
+- pkg:nuget/Cloudflare.NET.Api@2.1.2
