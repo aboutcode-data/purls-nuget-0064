@@ -7,6 +7,9 @@
 - pkg:nuget/NapalmCodes.Aspire.Hosting.Krakend@1.0.6
 - pkg:nuget/NapalmCodes.Aspire.Hosting.Krakend@1.0.7
 - pkg:nuget/NapalmCodes.Aspire.Hosting.Krakend@13.0.0
+- pkg:nuget/NapalmCodes.Aspire.Hosting.Krakend@13.1.0
+- pkg:nuget/NapalmCodes.Aspire.Hosting.Krakend@13.1.1
+- pkg:nuget/NapalmCodes.Aspire.Hosting.Krakend@13.1.2
 - pkg:nuget/NapalmCodes.Aspire.Hosting.Krakend@2.0.0
 - pkg:nuget/NapalmCodes.Aspire.Hosting.Krakend@2.0.1
 - pkg:nuget/NapalmCodes.Aspire.Hosting.Krakend@2.0.2
