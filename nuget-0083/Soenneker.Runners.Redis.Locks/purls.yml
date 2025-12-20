@@ -331,3 +331,4 @@
 - pkg:nuget/Soenneker.Runners.Redis.Locks@4.0.392
 - pkg:nuget/Soenneker.Runners.Redis.Locks@4.0.397
 - pkg:nuget/Soenneker.Runners.Redis.Locks@4.0.413
+- pkg:nuget/Soenneker.Runners.Redis.Locks@4.0.424
