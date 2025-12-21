@@ -53,6 +53,7 @@
 - pkg:nuget/CodePackage.Web.SignalR@17.4.0
 - pkg:nuget/CodePackage.Web.SignalR@17.4.1
 - pkg:nuget/CodePackage.Web.SignalR@17.4.4
+- pkg:nuget/CodePackage.Web.SignalR@18.0.5
 - pkg:nuget/CodePackage.Web.SignalR@9.2.1
 - pkg:nuget/CodePackage.Web.SignalR@9.3.0
 - pkg:nuget/CodePackage.Web.SignalR@9.4.0

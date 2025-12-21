@@ -68,6 +68,7 @@
 - pkg:nuget/RhoMicro.CodeAnalysis.UtilityGenerators@22.0.1
 - pkg:nuget/RhoMicro.CodeAnalysis.UtilityGenerators@22.0.2
 - pkg:nuget/RhoMicro.CodeAnalysis.UtilityGenerators@22.0.3
+- pkg:nuget/RhoMicro.CodeAnalysis.UtilityGenerators@23.0.0
 - pkg:nuget/RhoMicro.CodeAnalysis.UtilityGenerators@8.0.0
 - pkg:nuget/RhoMicro.CodeAnalysis.UtilityGenerators@8.0.2
 - pkg:nuget/RhoMicro.CodeAnalysis.UtilityGenerators@8.0.3
