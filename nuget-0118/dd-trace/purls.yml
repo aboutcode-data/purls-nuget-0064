@@ -132,6 +132,7 @@
 - pkg:nuget/dd-trace@3.26.3
 - pkg:nuget/dd-trace@3.3.0
 - pkg:nuget/dd-trace@3.3.1
+- pkg:nuget/dd-trace@3.34.0
 - pkg:nuget/dd-trace@3.4.0
 - pkg:nuget/dd-trace@3.4.1
 - pkg:nuget/dd-trace@3.5.0
