@@ -353,6 +353,7 @@
 - pkg:nuget/ThingsGateway.Plugin.DB@10.9.98
 - pkg:nuget/ThingsGateway.Plugin.DB@10.9.99
 - pkg:nuget/ThingsGateway.Plugin.DB@12.4.12
+- pkg:nuget/ThingsGateway.Plugin.DB@12.4.22
 - pkg:nuget/ThingsGateway.Plugin.DB@6.1.0.17
 - pkg:nuget/ThingsGateway.Plugin.DB@6.1.0.18
 - pkg:nuget/ThingsGateway.Plugin.DB@6.1.0.19
