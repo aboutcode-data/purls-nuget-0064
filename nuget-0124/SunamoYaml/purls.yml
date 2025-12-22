@@ -22,4 +22,5 @@
 - pkg:nuget/SunamoYaml@24.7.15.1
 - pkg:nuget/SunamoYaml@24.7.16.1
 - pkg:nuget/SunamoYaml@24.9.20.1
+- pkg:nuget/SunamoYaml@25.12.21.1
 - pkg:nuget/SunamoYaml@25.3.29.1
