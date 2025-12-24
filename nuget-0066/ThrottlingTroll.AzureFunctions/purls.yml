@@ -35,3 +35,4 @@
 - pkg:nuget/ThrottlingTroll.AzureFunctions@8.0.0-beta1
 - pkg:nuget/ThrottlingTroll.AzureFunctions@8.0.0-beta2
 - pkg:nuget/ThrottlingTroll.AzureFunctions@8.0.0-beta3
+- pkg:nuget/ThrottlingTroll.AzureFunctions@9.0.0
