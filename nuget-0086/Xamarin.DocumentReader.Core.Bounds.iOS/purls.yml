@@ -86,3 +86,4 @@
 - pkg:nuget/Xamarin.DocumentReader.Core.Bounds.iOS@8.4.921-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.Bounds.iOS@8.5.1346-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.Bounds.iOS@9.1.1498-rc
+- pkg:nuget/Xamarin.DocumentReader.Core.Bounds.iOS@9.1.1558-rc
