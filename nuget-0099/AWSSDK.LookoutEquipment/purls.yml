@@ -779,6 +779,7 @@
 - pkg:nuget/AWSSDK.LookoutEquipment@3.7.501.13
 - pkg:nuget/AWSSDK.LookoutEquipment@3.7.501.15
 - pkg:nuget/AWSSDK.LookoutEquipment@3.7.501.17
+- pkg:nuget/AWSSDK.LookoutEquipment@3.7.501.26
 - pkg:nuget/AWSSDK.LookoutEquipment@3.7.501.6
 - pkg:nuget/AWSSDK.LookoutEquipment@4.0.0
 - pkg:nuget/AWSSDK.LookoutEquipment@4.0.0-preview

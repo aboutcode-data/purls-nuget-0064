@@ -1095,6 +1095,7 @@
 - pkg:nuget/AWSSDK.MediaLive@3.7.505.4
 - pkg:nuget/AWSSDK.MediaLive@3.7.505.7
 - pkg:nuget/AWSSDK.MediaLive@3.7.509
+- pkg:nuget/AWSSDK.MediaLive@3.7.509.13
 - pkg:nuget/AWSSDK.MediaLive@3.7.509.2
 - pkg:nuget/AWSSDK.MediaLive@3.7.509.8
 - pkg:nuget/AWSSDK.MediaLive@3.7.509.9

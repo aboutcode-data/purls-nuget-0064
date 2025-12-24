@@ -171,6 +171,7 @@
 - pkg:nuget/AWSSDK.GeoRoutes@3.7.502.1
 - pkg:nuget/AWSSDK.GeoRoutes@3.7.502.13
 - pkg:nuget/AWSSDK.GeoRoutes@3.7.502.19
+- pkg:nuget/AWSSDK.GeoRoutes@3.7.502.26
 - pkg:nuget/AWSSDK.GeoRoutes@4.0.0
 - pkg:nuget/AWSSDK.GeoRoutes@4.0.0-preview.10
 - pkg:nuget/AWSSDK.GeoRoutes@4.0.0-preview.11
