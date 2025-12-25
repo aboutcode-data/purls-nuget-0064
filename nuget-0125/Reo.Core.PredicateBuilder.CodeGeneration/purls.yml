@@ -496,3 +496,5 @@
 - pkg:nuget/Reo.Core.PredicateBuilder.CodeGeneration@8.0.764
 - pkg:nuget/Reo.Core.PredicateBuilder.CodeGeneration@8.0.782
 - pkg:nuget/Reo.Core.PredicateBuilder.CodeGeneration@8.0.783
+- pkg:nuget/Reo.Core.PredicateBuilder.CodeGeneration@8.0.787
+- pkg:nuget/Reo.Core.PredicateBuilder.CodeGeneration@8.0.788
