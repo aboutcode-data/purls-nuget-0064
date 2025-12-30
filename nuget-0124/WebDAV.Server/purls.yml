@@ -59,6 +59,7 @@
 - pkg:nuget/WebDAV.Server@15.3.15268-Beta3
 - pkg:nuget/WebDAV.Server@15.3.15282-Beta3
 - pkg:nuget/WebDAV.Server@15.3.16041
+- pkg:nuget/WebDAV.Server@15.4.16086
 - pkg:nuget/WebDAV.Server@5.7.3602
 - pkg:nuget/WebDAV.Server@5.7.3609
 - pkg:nuget/WebDAV.Server@5.7.3625
