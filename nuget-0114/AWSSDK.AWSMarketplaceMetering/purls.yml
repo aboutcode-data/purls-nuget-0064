@@ -1190,6 +1190,7 @@
 - pkg:nuget/AWSSDK.AWSMarketplaceMetering@3.7.502.12
 - pkg:nuget/AWSSDK.AWSMarketplaceMetering@3.7.503.11
 - pkg:nuget/AWSSDK.AWSMarketplaceMetering@3.7.503.12
+- pkg:nuget/AWSSDK.AWSMarketplaceMetering@3.7.503.13
 - pkg:nuget/AWSSDK.AWSMarketplaceMetering@3.7.503.2
 - pkg:nuget/AWSSDK.AWSMarketplaceMetering@3.7.503.7
 - pkg:nuget/AWSSDK.AWSMarketplaceMetering@4.0.0
