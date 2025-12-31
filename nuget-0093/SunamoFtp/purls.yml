@@ -22,5 +22,6 @@
 - pkg:nuget/SunamoFtp@24.7.16.1
 - pkg:nuget/SunamoFtp@24.9.20.1
 - pkg:nuget/SunamoFtp@25.1.25.1
+- pkg:nuget/SunamoFtp@25.12.31.1
 - pkg:nuget/SunamoFtp@25.3.29.1
 - pkg:nuget/SunamoFtp@25.6.7.1
