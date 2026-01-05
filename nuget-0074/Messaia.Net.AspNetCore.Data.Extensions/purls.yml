@@ -1,4 +1,5 @@
 - pkg:nuget/Messaia.Net.AspNetCore.Data.Extensions@10.0.0-RC06
+- pkg:nuget/Messaia.Net.AspNetCore.Data.Extensions@10.0.0-RC08
 - pkg:nuget/Messaia.Net.AspNetCore.Data.Extensions@5.1.0
 - pkg:nuget/Messaia.Net.AspNetCore.Data.Extensions@5.1.0-rc01
 - pkg:nuget/Messaia.Net.AspNetCore.Data.Extensions@5.1.1
