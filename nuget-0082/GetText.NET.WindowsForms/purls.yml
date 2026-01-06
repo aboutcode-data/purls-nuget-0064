@@ -20,4 +20,5 @@
 - pkg:nuget/GetText.NET.WindowsForms@1.7.14
 - pkg:nuget/GetText.NET.WindowsForms@1.8.7
 - pkg:nuget/GetText.NET.WindowsForms@1.9.14
+- pkg:nuget/GetText.NET.WindowsForms@10.0.1
 - pkg:nuget/GetText.NET.WindowsForms@8.0.5
