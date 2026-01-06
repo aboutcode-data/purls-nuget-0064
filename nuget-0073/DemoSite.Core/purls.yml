@@ -361,6 +361,8 @@
 - pkg:nuget/DemoSite.Core@13.0.260
 - pkg:nuget/DemoSite.Core@13.0.27
 - pkg:nuget/DemoSite.Core@13.0.273
+- pkg:nuget/DemoSite.Core@13.0.278
+- pkg:nuget/DemoSite.Core@13.0.279
 - pkg:nuget/DemoSite.Core@13.0.28
 - pkg:nuget/DemoSite.Core@13.0.29
 - pkg:nuget/DemoSite.Core@13.0.3
