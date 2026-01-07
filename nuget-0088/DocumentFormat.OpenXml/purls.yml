@@ -43,3 +43,4 @@
 - pkg:nuget/DocumentFormat.OpenXml@3.1.1
 - pkg:nuget/DocumentFormat.OpenXml@3.2.0
 - pkg:nuget/DocumentFormat.OpenXml@3.3.0
+- pkg:nuget/DocumentFormat.OpenXml@3.4.1
