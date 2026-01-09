@@ -5,4 +5,5 @@
 - pkg:nuget/QueryByShape.GraphQLClient@1.0.14-beta
 - pkg:nuget/QueryByShape.GraphQLClient@1.0.15
 - pkg:nuget/QueryByShape.GraphQLClient@1.0.16
+- pkg:nuget/QueryByShape.GraphQLClient@1.0.17
 - pkg:nuget/QueryByShape.GraphQLClient@1.0.9-beta
