@@ -3,3 +3,5 @@
 - pkg:nuget/MicrosoftClass@1.2.0
 - pkg:nuget/MicrosoftClass@2.0.0
 - pkg:nuget/MicrosoftClass@2.1.0
+- pkg:nuget/MicrosoftClass@2.2.0
+- pkg:nuget/MicrosoftClass@2.3.0
