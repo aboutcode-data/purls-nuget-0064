@@ -239,6 +239,7 @@
 - pkg:nuget/Microsoft.DotNet.Common.ItemTemplates@8.0.119
 - pkg:nuget/Microsoft.DotNet.Common.ItemTemplates@8.0.120
 - pkg:nuget/Microsoft.DotNet.Common.ItemTemplates@8.0.121
+- pkg:nuget/Microsoft.DotNet.Common.ItemTemplates@8.0.123
 - pkg:nuget/Microsoft.DotNet.Common.ItemTemplates@8.0.200
 - pkg:nuget/Microsoft.DotNet.Common.ItemTemplates@8.0.202
 - pkg:nuget/Microsoft.DotNet.Common.ItemTemplates@8.0.203
