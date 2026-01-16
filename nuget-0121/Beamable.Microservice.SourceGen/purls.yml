@@ -459,3 +459,4 @@
 - pkg:nuget/Beamable.Microservice.SourceGen@6.0.0-PREVIEW.RC2
 - pkg:nuget/Beamable.Microservice.SourceGen@7.0.0-PREVIEW.RC1
 - pkg:nuget/Beamable.Microservice.SourceGen@7.0.0-PREVIEW.RC2
+- pkg:nuget/Beamable.Microservice.SourceGen@7.0.0-PREVIEW.RC3
