@@ -27,3 +27,6 @@
 - pkg:nuget/VijayAnand.MauiToolkit.Pro@3.1.0%2Bsha.deeaf11
 - pkg:nuget/VijayAnand.MauiToolkit.Pro@3.2.0%2Bsha.9d7bc91
 - pkg:nuget/VijayAnand.MauiToolkit.Pro@4.0.0%2Bsha.9d7bc91
+- pkg:nuget/VijayAnand.MauiToolkit.Pro@4.1.0%2Bsha.e81dfad
+- pkg:nuget/VijayAnand.MauiToolkit.Pro@4.2.0%2Bsha.c7a0c3f
+- pkg:nuget/VijayAnand.MauiToolkit.Pro@4.3.0%2Bsha.63bb767
