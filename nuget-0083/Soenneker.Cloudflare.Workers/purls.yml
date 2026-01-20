@@ -140,3 +140,4 @@
 - pkg:nuget/Soenneker.Cloudflare.Workers@4.0.249
 - pkg:nuget/Soenneker.Cloudflare.Workers@4.0.273
 - pkg:nuget/Soenneker.Cloudflare.Workers@4.0.281
+- pkg:nuget/Soenneker.Cloudflare.Workers@4.0.283
