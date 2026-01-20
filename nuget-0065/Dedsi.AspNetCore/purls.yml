@@ -22,6 +22,7 @@
 - pkg:nuget/Dedsi.AspNetCore@1.0.9.7
 - pkg:nuget/Dedsi.AspNetCore@1.0.9.8
 - pkg:nuget/Dedsi.AspNetCore@1.0.9.9
+- pkg:nuget/Dedsi.AspNetCore@10.0.5
 - pkg:nuget/Dedsi.AspNetCore@8.0.0
 - pkg:nuget/Dedsi.AspNetCore@8.0.1
 - pkg:nuget/Dedsi.AspNetCore@8.1.0
