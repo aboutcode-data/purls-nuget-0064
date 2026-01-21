@@ -159,6 +159,7 @@
 - pkg:nuget/AWSSDK.NotificationsContacts@3.7.502.13
 - pkg:nuget/AWSSDK.NotificationsContacts@3.7.502.24
 - pkg:nuget/AWSSDK.NotificationsContacts@3.7.502.27
+- pkg:nuget/AWSSDK.NotificationsContacts@3.7.502.34
 - pkg:nuget/AWSSDK.NotificationsContacts@4.0.0
 - pkg:nuget/AWSSDK.NotificationsContacts@4.0.0-preview.10
 - pkg:nuget/AWSSDK.NotificationsContacts@4.0.0-preview.11

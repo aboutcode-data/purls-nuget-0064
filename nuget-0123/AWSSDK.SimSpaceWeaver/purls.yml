@@ -534,6 +534,7 @@
 - pkg:nuget/AWSSDK.SimSpaceWeaver@3.7.502.12
 - pkg:nuget/AWSSDK.SimSpaceWeaver@3.7.502.17
 - pkg:nuget/AWSSDK.SimSpaceWeaver@3.7.502.21
+- pkg:nuget/AWSSDK.SimSpaceWeaver@3.7.502.31
 - pkg:nuget/AWSSDK.SimSpaceWeaver@3.7.502.8
 - pkg:nuget/AWSSDK.SimSpaceWeaver@4.0.0
 - pkg:nuget/AWSSDK.SimSpaceWeaver@4.0.0-preview
