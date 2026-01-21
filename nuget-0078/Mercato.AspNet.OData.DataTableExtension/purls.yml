@@ -17,3 +17,5 @@
 - pkg:nuget/Mercato.AspNet.OData.DataTableExtension@1.2.7
 - pkg:nuget/Mercato.AspNet.OData.DataTableExtension@1.2.8
 - pkg:nuget/Mercato.AspNet.OData.DataTableExtension@1.2.9
+- pkg:nuget/Mercato.AspNet.OData.DataTableExtension@2.0.0-pre
+- pkg:nuget/Mercato.AspNet.OData.DataTableExtension@2.0.0-pre1
