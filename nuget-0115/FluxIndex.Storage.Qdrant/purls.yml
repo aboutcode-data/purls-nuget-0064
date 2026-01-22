@@ -1,1 +1,2 @@
 - pkg:nuget/FluxIndex.Storage.Qdrant@0.5.4
+- pkg:nuget/FluxIndex.Storage.Qdrant@0.5.8
