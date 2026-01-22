@@ -64,3 +64,4 @@
 - pkg:nuget/Beckhoff.TwinCAT.Ads.SymbolicServer@6.2.387
 - pkg:nuget/Beckhoff.TwinCAT.Ads.SymbolicServer@6.2.467
 - pkg:nuget/Beckhoff.TwinCAT.Ads.SymbolicServer@6.2.485
+- pkg:nuget/Beckhoff.TwinCAT.Ads.SymbolicServer@7.0.152
