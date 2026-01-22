@@ -3,6 +3,7 @@
 - pkg:nuget/EFCore.NamingConventions@1.1.0
 - pkg:nuget/EFCore.NamingConventions@1.1.1
 - pkg:nuget/EFCore.NamingConventions@10.0.0-rc.1
+- pkg:nuget/EFCore.NamingConventions@10.0.1
 - pkg:nuget/EFCore.NamingConventions@5.0.0
 - pkg:nuget/EFCore.NamingConventions@5.0.0-preview5
 - pkg:nuget/EFCore.NamingConventions@5.0.0-preview8
