@@ -59,3 +59,4 @@
 - pkg:nuget/NpgsqlRest@2.8.4
 - pkg:nuget/NpgsqlRest@2.8.5
 - pkg:nuget/NpgsqlRest@2.9.0
+- pkg:nuget/NpgsqlRest@3.4.8
