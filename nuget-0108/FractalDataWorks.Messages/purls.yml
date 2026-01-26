@@ -4,6 +4,7 @@
 - pkg:nuget/FractalDataWorks.Messages@0.1.4-alpha-gbae2e75cc2
 - pkg:nuget/FractalDataWorks.Messages@0.1.46-alpha-g4eea8a7f8d
 - pkg:nuget/FractalDataWorks.Messages@0.1.6-alpha-ge5bc6f36b3
+- pkg:nuget/FractalDataWorks.Messages@0.2.4-preview.2
 - pkg:nuget/FractalDataWorks.Messages@0.30.0-alpha.1224
 - pkg:nuget/FractalDataWorks.Messages@0.7.0-alpha.1006
 - pkg:nuget/FractalDataWorks.Messages@0.7.0-alpha.1008
