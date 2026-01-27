@@ -24,6 +24,7 @@
 - pkg:nuget/Albatross.Hosting@1.6.7
 - pkg:nuget/Albatross.Hosting@1.6.8
 - pkg:nuget/Albatross.Hosting@1.6.9
+- pkg:nuget/Albatross.Hosting@10.1.0%2B171cd68
 - pkg:nuget/Albatross.Hosting@2.3.6
 - pkg:nuget/Albatross.Hosting@2.8.0
 - pkg:nuget/Albatross.Hosting@4.0.2
