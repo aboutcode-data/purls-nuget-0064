@@ -131,3 +131,4 @@
 - pkg:nuget/DriverFramework@1.25.8
 - pkg:nuget/DriverFramework@1.25.9
 - pkg:nuget/DriverFramework@1.26.0
+- pkg:nuget/DriverFramework@1.30.1
