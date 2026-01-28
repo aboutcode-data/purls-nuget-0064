@@ -1,1 +1,2 @@
 - pkg:nuget/DataAccessClient.EntityFrameworkCore.Relational@10.0.1
+- pkg:nuget/DataAccessClient.EntityFrameworkCore.Relational@10.1.1
