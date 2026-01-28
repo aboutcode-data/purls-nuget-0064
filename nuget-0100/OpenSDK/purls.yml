@@ -1,2 +1,5 @@
 - pkg:nuget/OpenSDK@1.0.66
 - pkg:nuget/OpenSDK@1.0.94
+- pkg:nuget/OpenSDK@1.1.18
+- pkg:nuget/OpenSDK@1.1.19
+- pkg:nuget/OpenSDK@1.1.20
