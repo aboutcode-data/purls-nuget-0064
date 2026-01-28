@@ -21,4 +21,5 @@
 - pkg:nuget/Sinch.Functions.Runtime@0.1.35-beta
 - pkg:nuget/Sinch.Functions.Runtime@0.1.37-beta
 - pkg:nuget/Sinch.Functions.Runtime@0.1.4-beta
+- pkg:nuget/Sinch.Functions.Runtime@0.1.41-beta
 - pkg:nuget/Sinch.Functions.Runtime@0.1.5-beta
