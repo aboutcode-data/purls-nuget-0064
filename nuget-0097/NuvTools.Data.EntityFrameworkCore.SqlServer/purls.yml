@@ -1,3 +1,4 @@
+- pkg:nuget/NuvTools.Data.EntityFrameworkCore.SqlServer@10.1.0
 - pkg:nuget/NuvTools.Data.EntityFrameworkCore.SqlServer@6.5.0
 - pkg:nuget/NuvTools.Data.EntityFrameworkCore.SqlServer@7.0.0
 - pkg:nuget/NuvTools.Data.EntityFrameworkCore.SqlServer@7.0.1
