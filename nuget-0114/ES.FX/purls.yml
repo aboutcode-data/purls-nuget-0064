@@ -57,6 +57,7 @@
 - pkg:nuget/ES.FX@1.1.87
 - pkg:nuget/ES.FX@1.1.88
 - pkg:nuget/ES.FX@1.1.89
+- pkg:nuget/ES.FX@10.0.3
 - pkg:nuget/ES.FX@2.0.6
 - pkg:nuget/ES.FX@2.0.8
 - pkg:nuget/ES.FX@2.0.9
