@@ -126,6 +126,7 @@
 - pkg:nuget/Myriad.ECS@4.8.0
 - pkg:nuget/Myriad.ECS@41.1.0
 - pkg:nuget/Myriad.ECS@41.6.0
+- pkg:nuget/Myriad.ECS@44.0.0
 - pkg:nuget/Myriad.ECS@5.0.0
 - pkg:nuget/Myriad.ECS@5.0.1
 - pkg:nuget/Myriad.ECS@5.0.2
