@@ -47,6 +47,7 @@
 - pkg:nuget/OCI.DotNetSDK.Identity@12.0.0
 - pkg:nuget/OCI.DotNetSDK.Identity@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Identity@121.1.0
+- pkg:nuget/OCI.DotNetSDK.Identity@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Identity@13.0.0
 - pkg:nuget/OCI.DotNetSDK.Identity@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Identity@14.1.0

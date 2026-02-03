@@ -47,6 +47,7 @@
 - pkg:nuget/OCI.DotNetSDK.Limits@12.0.0
 - pkg:nuget/OCI.DotNetSDK.Limits@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Limits@121.1.0
+- pkg:nuget/OCI.DotNetSDK.Limits@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Limits@13.0.0
 - pkg:nuget/OCI.DotNetSDK.Limits@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Limits@14.1.0
