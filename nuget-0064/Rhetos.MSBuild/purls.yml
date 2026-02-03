@@ -9,4 +9,5 @@
 - pkg:nuget/Rhetos.MSBuild@5.3.0
 - pkg:nuget/Rhetos.MSBuild@5.4.0
 - pkg:nuget/Rhetos.MSBuild@5.5.0
+- pkg:nuget/Rhetos.MSBuild@5.6.0
 - pkg:nuget/Rhetos.MSBuild@6.0.0
