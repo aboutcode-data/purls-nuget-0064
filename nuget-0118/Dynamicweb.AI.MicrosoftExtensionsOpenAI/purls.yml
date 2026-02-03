@@ -7,3 +7,4 @@
 - pkg:nuget/Dynamicweb.AI.MicrosoftExtensionsOpenAI@10.19.6
 - pkg:nuget/Dynamicweb.AI.MicrosoftExtensionsOpenAI@10.20.0-PreRelease
 - pkg:nuget/Dynamicweb.AI.MicrosoftExtensionsOpenAI@10.21.2-PreRelease
+- pkg:nuget/Dynamicweb.AI.MicrosoftExtensionsOpenAI@10.22.8
