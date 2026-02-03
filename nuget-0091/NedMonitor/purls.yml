@@ -7,6 +7,7 @@
 - pkg:nuget/NedMonitor@1.0.6
 - pkg:nuget/NedMonitor@1.0.7
 - pkg:nuget/NedMonitor@1.0.8
+- pkg:nuget/NedMonitor@2.0.2
 - pkg:nuget/NedMonitor@9.0.0
 - pkg:nuget/NedMonitor@9.0.1
 - pkg:nuget/NedMonitor@9.0.10

@@ -8,6 +8,8 @@
 - pkg:nuget/NedMonitor.Http@1.0.7
 - pkg:nuget/NedMonitor.Http@1.0.8
 - pkg:nuget/NedMonitor.Http@1.0.9
+- pkg:nuget/NedMonitor.Http@2.0.2
+- pkg:nuget/NedMonitor.Http@2.0.3
 - pkg:nuget/NedMonitor.Http@9.0.0
 - pkg:nuget/NedMonitor.Http@9.0.1
 - pkg:nuget/NedMonitor.Http@9.0.2
