@@ -1,2 +1,4 @@
 - pkg:nuget/Mythetech.Framework.WebAssembly@0.10.0
+- pkg:nuget/Mythetech.Framework.WebAssembly@0.11.0
+- pkg:nuget/Mythetech.Framework.WebAssembly@0.11.0-preview.2
 - pkg:nuget/Mythetech.Framework.WebAssembly@0.9.1
