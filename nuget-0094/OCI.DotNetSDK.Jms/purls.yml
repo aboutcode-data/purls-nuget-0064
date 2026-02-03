@@ -41,6 +41,7 @@
 - pkg:nuget/OCI.DotNetSDK.Jms@119.1.0
 - pkg:nuget/OCI.DotNetSDK.Jms@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Jms@121.1.0
+- pkg:nuget/OCI.DotNetSDK.Jms@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Jms@19.2.0
 - pkg:nuget/OCI.DotNetSDK.Jms@20.0.0
 - pkg:nuget/OCI.DotNetSDK.Jms@20.1.0

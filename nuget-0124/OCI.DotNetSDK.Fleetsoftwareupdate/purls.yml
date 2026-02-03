@@ -41,6 +41,7 @@
 - pkg:nuget/OCI.DotNetSDK.Fleetsoftwareupdate@119.1.0
 - pkg:nuget/OCI.DotNetSDK.Fleetsoftwareupdate@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Fleetsoftwareupdate@121.1.0
+- pkg:nuget/OCI.DotNetSDK.Fleetsoftwareupdate@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Fleetsoftwareupdate@68.0.0
 - pkg:nuget/OCI.DotNetSDK.Fleetsoftwareupdate@69.0.0
 - pkg:nuget/OCI.DotNetSDK.Fleetsoftwareupdate@69.1.0
