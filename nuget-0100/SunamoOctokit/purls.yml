@@ -30,3 +30,4 @@
 - pkg:nuget/SunamoOctokit@24.9.20.1
 - pkg:nuget/SunamoOctokit@25.3.16.1
 - pkg:nuget/SunamoOctokit@25.3.29.1
+- pkg:nuget/SunamoOctokit@26.2.4.1
