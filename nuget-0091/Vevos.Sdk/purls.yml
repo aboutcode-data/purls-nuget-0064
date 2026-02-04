@@ -1,3 +1,8 @@
 - pkg:nuget/Vevos.Sdk@0.36.0-alpha.1
 - pkg:nuget/Vevos.Sdk@0.36.2
+- pkg:nuget/Vevos.Sdk@0.36.4
 - pkg:nuget/Vevos.Sdk@0.36.4-alpha.14
+- pkg:nuget/Vevos.Sdk@0.37.0
+- pkg:nuget/Vevos.Sdk@1.0.0-alpha.1
+- pkg:nuget/Vevos.Sdk@1.0.0-alpha.2
+- pkg:nuget/Vevos.Sdk@1.0.0-alpha.3
