@@ -13,6 +13,7 @@
 - pkg:nuget/BoldReports.Data.GoogleBigQuery@11.1.10
 - pkg:nuget/BoldReports.Data.GoogleBigQuery@11.1.11
 - pkg:nuget/BoldReports.Data.GoogleBigQuery@11.1.15
+- pkg:nuget/BoldReports.Data.GoogleBigQuery@12.2.9
 - pkg:nuget/BoldReports.Data.GoogleBigQuery@6.3.16
 - pkg:nuget/BoldReports.Data.GoogleBigQuery@6.3.17
 - pkg:nuget/BoldReports.Data.GoogleBigQuery@6.3.18

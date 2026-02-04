@@ -13,6 +13,7 @@
 - pkg:nuget/BoldReports.WPF.Extensions.BarcodeCRI@11.1.10
 - pkg:nuget/BoldReports.WPF.Extensions.BarcodeCRI@11.1.11
 - pkg:nuget/BoldReports.WPF.Extensions.BarcodeCRI@11.1.15
+- pkg:nuget/BoldReports.WPF.Extensions.BarcodeCRI@12.2.9
 - pkg:nuget/BoldReports.WPF.Extensions.BarcodeCRI@3.1.101
 - pkg:nuget/BoldReports.WPF.Extensions.BarcodeCRI@3.3.41
 - pkg:nuget/BoldReports.WPF.Extensions.BarcodeCRI@3.3.42
