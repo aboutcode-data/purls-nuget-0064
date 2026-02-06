@@ -95,3 +95,4 @@
 - pkg:nuget/Crping.EFCore@5.5.0
 - pkg:nuget/Crping.EFCore@5.6.0
 - pkg:nuget/Crping.EFCore@5.7.0
+- pkg:nuget/Crping.EFCore@6.8.0
