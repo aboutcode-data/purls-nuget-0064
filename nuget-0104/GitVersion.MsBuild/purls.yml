@@ -43,3 +43,4 @@
 - pkg:nuget/GitVersion.MsBuild@6.2.0
 - pkg:nuget/GitVersion.MsBuild@6.3.0
 - pkg:nuget/GitVersion.MsBuild@6.4.0
+- pkg:nuget/GitVersion.MsBuild@6.6.0

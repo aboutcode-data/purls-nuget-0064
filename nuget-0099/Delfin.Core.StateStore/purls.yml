@@ -220,4 +220,6 @@
 - pkg:nuget/Delfin.Core.StateStore@2.0.10
 - pkg:nuget/Delfin.Core.StateStore@2.0.14
 - pkg:nuget/Delfin.Core.StateStore@2.0.29
+- pkg:nuget/Delfin.Core.StateStore@2.0.40
+- pkg:nuget/Delfin.Core.StateStore@2.0.49
 - pkg:nuget/Delfin.Core.StateStore@2.0.7

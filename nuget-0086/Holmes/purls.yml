@@ -334,6 +334,7 @@
 - pkg:nuget/Holmes@5.0.106
 - pkg:nuget/Holmes@5.0.11
 - pkg:nuget/Holmes@5.0.12
+- pkg:nuget/Holmes@5.0.123
 - pkg:nuget/Holmes@5.0.13
 - pkg:nuget/Holmes@5.0.14
 - pkg:nuget/Holmes@5.0.15

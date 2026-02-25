@@ -57,3 +57,4 @@
 - pkg:nuget/SharpCompress@0.40.0
 - pkg:nuget/SharpCompress@0.45.0-beta.128
 - pkg:nuget/SharpCompress@0.45.0-beta.132
+- pkg:nuget/SharpCompress@0.45.0-beta.428

@@ -947,3 +947,4 @@
 - pkg:nuget/Radzen.Blazor@8.3.0
 - pkg:nuget/Radzen.Blazor@8.4.3
 - pkg:nuget/Radzen.Blazor@8.7.3
+- pkg:nuget/Radzen.Blazor@9.0.0

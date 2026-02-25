@@ -619,6 +619,7 @@
 - pkg:nuget/VirtoCommerce.OrdersModule.Core@3.858.0
 - pkg:nuget/VirtoCommerce.OrdersModule.Core@3.859.0
 - pkg:nuget/VirtoCommerce.OrdersModule.Core@3.862.0-alpha.1367-vcps-locking-order-during-payment
+- pkg:nuget/VirtoCommerce.OrdersModule.Core@3.869.0
 - pkg:nuget/VirtoCommerce.OrdersModule.Core@3.9.0
 - pkg:nuget/VirtoCommerce.OrdersModule.Core@3.9.0-alpha.781
 - pkg:nuget/VirtoCommerce.OrdersModule.Core@3.9.0-alpha.782

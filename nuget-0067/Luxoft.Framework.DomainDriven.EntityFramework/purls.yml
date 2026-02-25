@@ -13,3 +13,4 @@
 - pkg:nuget/Luxoft.Framework.DomainDriven.EntityFramework@24.1.3
 - pkg:nuget/Luxoft.Framework.DomainDriven.EntityFramework@25.3.0
 - pkg:nuget/Luxoft.Framework.DomainDriven.EntityFramework@25.4.1
+- pkg:nuget/Luxoft.Framework.DomainDriven.EntityFramework@25.5.0
