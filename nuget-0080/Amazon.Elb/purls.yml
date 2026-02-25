@@ -29,6 +29,7 @@
 - pkg:nuget/Amazon.Elb@0.31.0
 - pkg:nuget/Amazon.Elb@0.33.0
 - pkg:nuget/Amazon.Elb@0.34.0
+- pkg:nuget/Amazon.Elb@0.35.0
 - pkg:nuget/Amazon.Elb@0.5.0
 - pkg:nuget/Amazon.Elb@0.5.1
 - pkg:nuget/Amazon.Elb@0.5.2

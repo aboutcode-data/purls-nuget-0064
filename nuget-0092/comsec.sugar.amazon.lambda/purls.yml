@@ -34,5 +34,6 @@
 - pkg:nuget/comsec.sugar.amazon.lambda@2.0.143
 - pkg:nuget/comsec.sugar.amazon.lambda@2.0.145
 - pkg:nuget/comsec.sugar.amazon.lambda@2.0.147
+- pkg:nuget/comsec.sugar.amazon.lambda@2.0.154
 - pkg:nuget/comsec.sugar.amazon.lambda@2.0.96
 - pkg:nuget/comsec.sugar.amazon.lambda@2.0.98

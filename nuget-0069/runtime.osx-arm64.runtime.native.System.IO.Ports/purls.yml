@@ -9,6 +9,7 @@
 - pkg:nuget/runtime.osx-arm64.runtime.native.System.IO.Ports@10.0.0-rc.2.25502.107
 - pkg:nuget/runtime.osx-arm64.runtime.native.System.IO.Ports@10.0.1
 - pkg:nuget/runtime.osx-arm64.runtime.native.System.IO.Ports@10.0.2
+- pkg:nuget/runtime.osx-arm64.runtime.native.System.IO.Ports@10.0.3
 - pkg:nuget/runtime.osx-arm64.runtime.native.System.IO.Ports@6.0.0
 - pkg:nuget/runtime.osx-arm64.runtime.native.System.IO.Ports@6.0.2-mauipre.1.22054.8
 - pkg:nuget/runtime.osx-arm64.runtime.native.System.IO.Ports@6.0.2-mauipre.1.22102.15
