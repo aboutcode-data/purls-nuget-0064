@@ -170,6 +170,7 @@
 - pkg:nuget/Spidey@5.0.99
 - pkg:nuget/Spidey@6.0.0
 - pkg:nuget/Spidey@6.0.1
+- pkg:nuget/Spidey@6.0.11
 - pkg:nuget/Spidey@6.0.2
 - pkg:nuget/Spidey@6.0.3
 - pkg:nuget/Spidey@6.0.4

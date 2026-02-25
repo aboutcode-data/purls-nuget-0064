@@ -13,3 +13,4 @@
 - pkg:nuget/Juice.SimpleModule@8.4.3
 - pkg:nuget/Juice.SimpleModule@8.5.0
 - pkg:nuget/Juice.SimpleModule@9.0.0-beta.11
+- pkg:nuget/Juice.SimpleModule@9.0.1
