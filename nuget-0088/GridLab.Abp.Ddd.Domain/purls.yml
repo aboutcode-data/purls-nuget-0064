@@ -1,4 +1,7 @@
 - pkg:nuget/GridLab.Abp.Ddd.Domain@10.1.0.410
+- pkg:nuget/GridLab.Abp.Ddd.Domain@10.1.0.427
+- pkg:nuget/GridLab.Abp.Ddd.Domain@10.1.0.455
+- pkg:nuget/GridLab.Abp.Ddd.Domain@10.1.0.471
 - pkg:nuget/GridLab.Abp.Ddd.Domain@9.2.2.232
 - pkg:nuget/GridLab.Abp.Ddd.Domain@9.2.2.236
 - pkg:nuget/GridLab.Abp.Ddd.Domain@9.2.2.258
