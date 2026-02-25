@@ -1,3 +1,4 @@
+- pkg:nuget/APIVerve.API.RSStoJSON@1.1.14
 - pkg:nuget/APIVerve.API.RSStoJSON@1.1.7
 - pkg:nuget/APIVerve.API.RSStoJSON@1.1.8
 - pkg:nuget/APIVerve.API.RSStoJSON@1.1.9
