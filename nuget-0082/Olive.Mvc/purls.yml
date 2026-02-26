@@ -286,3 +286,4 @@
 - pkg:nuget/Olive.Mvc@8.0.1
 - pkg:nuget/Olive.Mvc@8.1.0
 - pkg:nuget/Olive.Mvc@8.1.1
+- pkg:nuget/Olive.Mvc@8.2.0
