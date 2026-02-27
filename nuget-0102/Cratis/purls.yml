@@ -2,6 +2,7 @@
 - pkg:nuget/Cratis@18.7.23
 - pkg:nuget/Cratis@18.8.7
 - pkg:nuget/Cratis@19.2.0
+- pkg:nuget/Cratis@19.6.6
 - pkg:nuget/Cratis@2.0.0
 - pkg:nuget/Cratis@2.1.0
 - pkg:nuget/Cratis@2.1.1
