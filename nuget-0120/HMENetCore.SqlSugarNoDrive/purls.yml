@@ -1,4 +1,5 @@
 - pkg:nuget/HMENetCore.SqlSugarNoDrive@10.0.7
+- pkg:nuget/HMENetCore.SqlSugarNoDrive@10.0.8
 - pkg:nuget/HMENetCore.SqlSugarNoDrive@6.0.11
 - pkg:nuget/HMENetCore.SqlSugarNoDrive@6.0.12
 - pkg:nuget/HMENetCore.SqlSugarNoDrive@6.0.13
@@ -25,3 +26,4 @@
 - pkg:nuget/HMENetCore.SqlSugarNoDrive@6.0.52
 - pkg:nuget/HMENetCore.SqlSugarNoDrive@6.0.53
 - pkg:nuget/HMENetCore.SqlSugarNoDrive@6.1.0
+- pkg:nuget/HMENetCore.SqlSugarNoDrive@6.1.9
