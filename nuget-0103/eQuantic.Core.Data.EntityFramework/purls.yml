@@ -18,6 +18,7 @@
 - pkg:nuget/eQuantic.Core.Data.EntityFramework@1.5.3.1
 - pkg:nuget/eQuantic.Core.Data.EntityFramework@1.5.4
 - pkg:nuget/eQuantic.Core.Data.EntityFramework@1.5.4.1
+- pkg:nuget/eQuantic.Core.Data.EntityFramework@10.0.2
 - pkg:nuget/eQuantic.Core.Data.EntityFramework@2.0.0
 - pkg:nuget/eQuantic.Core.Data.EntityFramework@2.1.0
 - pkg:nuget/eQuantic.Core.Data.EntityFramework@2.1.0.1
@@ -53,6 +54,7 @@
 - pkg:nuget/eQuantic.Core.Data.EntityFramework@4.3.7
 - pkg:nuget/eQuantic.Core.Data.EntityFramework@4.3.8
 - pkg:nuget/eQuantic.Core.Data.EntityFramework@4.3.9
+- pkg:nuget/eQuantic.Core.Data.EntityFramework@4.4.2
 - pkg:nuget/eQuantic.Core.Data.EntityFramework@6.0.0
 - pkg:nuget/eQuantic.Core.Data.EntityFramework@6.0.1
 - pkg:nuget/eQuantic.Core.Data.EntityFramework@6.0.2
@@ -63,6 +65,7 @@
 - pkg:nuget/eQuantic.Core.Data.EntityFramework@6.0.7
 - pkg:nuget/eQuantic.Core.Data.EntityFramework@6.0.8
 - pkg:nuget/eQuantic.Core.Data.EntityFramework@6.0.9
+- pkg:nuget/eQuantic.Core.Data.EntityFramework@6.1.2
 - pkg:nuget/eQuantic.Core.Data.EntityFramework@7.0.0
 - pkg:nuget/eQuantic.Core.Data.EntityFramework@7.0.1
 - pkg:nuget/eQuantic.Core.Data.EntityFramework@7.0.2
@@ -71,6 +74,7 @@
 - pkg:nuget/eQuantic.Core.Data.EntityFramework@7.0.5
 - pkg:nuget/eQuantic.Core.Data.EntityFramework@7.0.6
 - pkg:nuget/eQuantic.Core.Data.EntityFramework@7.0.7
+- pkg:nuget/eQuantic.Core.Data.EntityFramework@7.1.2
 - pkg:nuget/eQuantic.Core.Data.EntityFramework@8.0.0
 - pkg:nuget/eQuantic.Core.Data.EntityFramework@8.0.1
 - pkg:nuget/eQuantic.Core.Data.EntityFramework@8.0.10
@@ -83,5 +87,7 @@
 - pkg:nuget/eQuantic.Core.Data.EntityFramework@8.0.7
 - pkg:nuget/eQuantic.Core.Data.EntityFramework@8.0.8
 - pkg:nuget/eQuantic.Core.Data.EntityFramework@8.0.9
+- pkg:nuget/eQuantic.Core.Data.EntityFramework@8.1.2
 - pkg:nuget/eQuantic.Core.Data.EntityFramework@9.0.0
 - pkg:nuget/eQuantic.Core.Data.EntityFramework@9.0.1
+- pkg:nuget/eQuantic.Core.Data.EntityFramework@9.1.2
