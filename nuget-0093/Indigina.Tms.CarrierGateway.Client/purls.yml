@@ -63,6 +63,7 @@
 - pkg:nuget/Indigina.Tms.CarrierGateway.Client@1.0.20
 - pkg:nuget/Indigina.Tms.CarrierGateway.Client@1.0.208
 - pkg:nuget/Indigina.Tms.CarrierGateway.Client@1.0.21
+- pkg:nuget/Indigina.Tms.CarrierGateway.Client@1.0.210
 - pkg:nuget/Indigina.Tms.CarrierGateway.Client@1.0.22
 - pkg:nuget/Indigina.Tms.CarrierGateway.Client@1.0.23
 - pkg:nuget/Indigina.Tms.CarrierGateway.Client@1.0.24
