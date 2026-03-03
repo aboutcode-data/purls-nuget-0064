@@ -1,4 +1,5 @@
 - pkg:nuget/Volo.Abp.Http.Client.IdentityModel.WebAssembly@10.0.0-rc.1
+- pkg:nuget/Volo.Abp.Http.Client.IdentityModel.WebAssembly@10.1.1
 - pkg:nuget/Volo.Abp.Http.Client.IdentityModel.WebAssembly@3.2.0
 - pkg:nuget/Volo.Abp.Http.Client.IdentityModel.WebAssembly@3.2.0-rc.1
 - pkg:nuget/Volo.Abp.Http.Client.IdentityModel.WebAssembly@3.2.0-rc.2

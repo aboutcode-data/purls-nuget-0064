@@ -12,6 +12,7 @@
 - pkg:nuget/Volo.ClientSimulation@1.1.0
 - pkg:nuget/Volo.ClientSimulation@1.1.1
 - pkg:nuget/Volo.ClientSimulation@1.1.2
+- pkg:nuget/Volo.ClientSimulation@10.1.1
 - pkg:nuget/Volo.ClientSimulation@2.0.0
 - pkg:nuget/Volo.ClientSimulation@2.0.1
 - pkg:nuget/Volo.ClientSimulation@2.1.0
