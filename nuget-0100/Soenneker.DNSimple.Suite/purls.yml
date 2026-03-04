@@ -794,6 +794,8 @@
 - pkg:nuget/Soenneker.DNSimple.Suite@4.0.1283
 - pkg:nuget/Soenneker.DNSimple.Suite@4.0.1317
 - pkg:nuget/Soenneker.DNSimple.Suite@4.0.1318
+- pkg:nuget/Soenneker.DNSimple.Suite@4.0.1320
+- pkg:nuget/Soenneker.DNSimple.Suite@4.0.1321
 - pkg:nuget/Soenneker.DNSimple.Suite@4.0.832
 - pkg:nuget/Soenneker.DNSimple.Suite@4.0.837
 - pkg:nuget/Soenneker.DNSimple.Suite@4.0.838
