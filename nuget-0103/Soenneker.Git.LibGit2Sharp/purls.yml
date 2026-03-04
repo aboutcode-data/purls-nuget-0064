@@ -42,6 +42,7 @@
 - pkg:nuget/Soenneker.Git.LibGit2Sharp@4.0.124
 - pkg:nuget/Soenneker.Git.LibGit2Sharp@4.0.128
 - pkg:nuget/Soenneker.Git.LibGit2Sharp@4.0.133
+- pkg:nuget/Soenneker.Git.LibGit2Sharp@4.0.154
 - pkg:nuget/Soenneker.Git.LibGit2Sharp@4.0.44
 - pkg:nuget/Soenneker.Git.LibGit2Sharp@4.0.51
 - pkg:nuget/Soenneker.Git.LibGit2Sharp@4.0.52
