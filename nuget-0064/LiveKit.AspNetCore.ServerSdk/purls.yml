@@ -1,0 +1,3 @@
+- pkg:nuget/LiveKit.AspNetCore.ServerSdk@1.1.2
+- pkg:nuget/LiveKit.AspNetCore.ServerSdk@1.1.3
+- pkg:nuget/LiveKit.AspNetCore.ServerSdk@1.2.0
