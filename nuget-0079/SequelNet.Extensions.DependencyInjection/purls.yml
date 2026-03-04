@@ -46,6 +46,7 @@
 - pkg:nuget/SequelNet.Extensions.DependencyInjection@3.0.145
 - pkg:nuget/SequelNet.Extensions.DependencyInjection@3.0.146
 - pkg:nuget/SequelNet.Extensions.DependencyInjection@3.0.147
+- pkg:nuget/SequelNet.Extensions.DependencyInjection@3.0.156
 - pkg:nuget/SequelNet.Extensions.DependencyInjection@3.0.92
 - pkg:nuget/SequelNet.Extensions.DependencyInjection@3.0.93
 - pkg:nuget/SequelNet.Extensions.DependencyInjection@3.0.94
