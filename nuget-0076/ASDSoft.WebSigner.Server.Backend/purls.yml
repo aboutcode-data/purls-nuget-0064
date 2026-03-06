@@ -1,1 +1,4 @@
 - pkg:nuget/ASDSoft.WebSigner.Server.Backend@2.5.0
+- pkg:nuget/ASDSoft.WebSigner.Server.Backend@2.6.0
+- pkg:nuget/ASDSoft.WebSigner.Server.Backend@2.6.0-fix1
+- pkg:nuget/ASDSoft.WebSigner.Server.Backend@2.6.0.1
