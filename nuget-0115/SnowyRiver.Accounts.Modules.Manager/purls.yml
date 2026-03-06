@@ -11,6 +11,7 @@
 - pkg:nuget/SnowyRiver.Accounts.Modules.Manager@1.0.7
 - pkg:nuget/SnowyRiver.Accounts.Modules.Manager@1.0.8
 - pkg:nuget/SnowyRiver.Accounts.Modules.Manager@1.0.9
+- pkg:nuget/SnowyRiver.Accounts.Modules.Manager@10.0.14
 - pkg:nuget/SnowyRiver.Accounts.Modules.Manager@9.0.12
 - pkg:nuget/SnowyRiver.Accounts.Modules.Manager@9.0.13
 - pkg:nuget/SnowyRiver.Accounts.Modules.Manager@9.0.14
