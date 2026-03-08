@@ -16,6 +16,7 @@
 - pkg:nuget/Zoo.S3.Files.Logic@1.1.6
 - pkg:nuget/Zoo.S3.Files.Logic@1.2.0
 - pkg:nuget/Zoo.S3.Files.Logic@1.2.1
+- pkg:nuget/Zoo.S3.Files.Logic@10.0.10
 - pkg:nuget/Zoo.S3.Files.Logic@2.0.0
 - pkg:nuget/Zoo.S3.Files.Logic@2.1.0
 - pkg:nuget/Zoo.S3.Files.Logic@2.10.0

@@ -2,6 +2,7 @@
 - pkg:nuget/Zoo.Ecc.TelegramBot.Logic@1.0.1
 - pkg:nuget/Zoo.Ecc.TelegramBot.Logic@1.1.0
 - pkg:nuget/Zoo.Ecc.TelegramBot.Logic@1.2.0
+- pkg:nuget/Zoo.Ecc.TelegramBot.Logic@10.0.12
 - pkg:nuget/Zoo.Ecc.TelegramBot.Logic@2.1.0
 - pkg:nuget/Zoo.Ecc.TelegramBot.Logic@2.2.0
 - pkg:nuget/Zoo.Ecc.TelegramBot.Logic@2.3.0
