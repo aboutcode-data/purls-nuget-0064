@@ -1,1 +1,2 @@
+- pkg:nuget/Soenneker.Sets.Concurrent.SlidingWindow@4.0.10
 - pkg:nuget/Soenneker.Sets.Concurrent.SlidingWindow@4.0.2
