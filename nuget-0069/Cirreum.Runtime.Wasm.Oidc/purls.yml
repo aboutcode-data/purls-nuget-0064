@@ -1,1 +1,2 @@
 - pkg:nuget/Cirreum.Runtime.Wasm.Oidc@1.0.0
+- pkg:nuget/Cirreum.Runtime.Wasm.Oidc@1.0.5
