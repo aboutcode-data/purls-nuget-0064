@@ -351,6 +351,7 @@
 - pkg:nuget/ThingsGateway.Gateway.Razor@10.9.97
 - pkg:nuget/ThingsGateway.Gateway.Razor@10.9.98
 - pkg:nuget/ThingsGateway.Gateway.Razor@10.9.99
+- pkg:nuget/ThingsGateway.Gateway.Razor@12.4.100
 - pkg:nuget/ThingsGateway.Gateway.Razor@12.4.14
 - pkg:nuget/ThingsGateway.Gateway.Razor@12.4.30
 - pkg:nuget/ThingsGateway.Gateway.Razor@12.4.32
