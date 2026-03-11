@@ -782,3 +782,5 @@
 - pkg:nuget/Soenneker.Blazor.Google.Analytics@4.0.876
 - pkg:nuget/Soenneker.Blazor.Google.Analytics@4.0.877
 - pkg:nuget/Soenneker.Blazor.Google.Analytics@4.0.895
+- pkg:nuget/Soenneker.Blazor.Google.Analytics@4.0.898
+- pkg:nuget/Soenneker.Blazor.Google.Analytics@4.0.900

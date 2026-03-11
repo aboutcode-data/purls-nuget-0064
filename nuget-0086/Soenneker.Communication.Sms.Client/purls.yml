@@ -1510,3 +1510,5 @@
 - pkg:nuget/Soenneker.Communication.Sms.Client@4.0.1607
 - pkg:nuget/Soenneker.Communication.Sms.Client@4.0.1613
 - pkg:nuget/Soenneker.Communication.Sms.Client@4.0.1614
+- pkg:nuget/Soenneker.Communication.Sms.Client@4.0.1620
+- pkg:nuget/Soenneker.Communication.Sms.Client@4.0.1621
