@@ -1,2 +1,3 @@
 - pkg:nuget/Trax.Scheduler.Tests.ArrayLogger@1.1.0
+- pkg:nuget/Trax.Scheduler.Tests.ArrayLogger@1.14.0
 - pkg:nuget/Trax.Scheduler.Tests.ArrayLogger@1.6.0
