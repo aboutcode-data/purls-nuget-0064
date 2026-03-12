@@ -10,6 +10,7 @@
 - pkg:nuget/Testcontainers.Kusto@4.1.0
 - pkg:nuget/Testcontainers.Kusto@4.1.0-beta.11746011829
 - pkg:nuget/Testcontainers.Kusto@4.1.0-beta.12035377103
+- pkg:nuget/Testcontainers.Kusto@4.11.0
 - pkg:nuget/Testcontainers.Kusto@4.2.0
 - pkg:nuget/Testcontainers.Kusto@4.3.0
 - pkg:nuget/Testcontainers.Kusto@4.4.0
