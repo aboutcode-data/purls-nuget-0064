@@ -54,6 +54,7 @@
 - pkg:nuget/Soenneker.Dtos.BranchEnvironment@3.0.8
 - pkg:nuget/Soenneker.Dtos.BranchEnvironment@3.0.9
 - pkg:nuget/Soenneker.Dtos.BranchEnvironment@4.0.103
+- pkg:nuget/Soenneker.Dtos.BranchEnvironment@4.0.106
 - pkg:nuget/Soenneker.Dtos.BranchEnvironment@4.0.60
 - pkg:nuget/Soenneker.Dtos.BranchEnvironment@4.0.61
 - pkg:nuget/Soenneker.Dtos.BranchEnvironment@4.0.83
