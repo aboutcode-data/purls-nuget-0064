@@ -46,3 +46,4 @@
 - pkg:nuget/Soenneker.Middlewares.LocalIpAddress@4.0.47
 - pkg:nuget/Soenneker.Middlewares.LocalIpAddress@4.0.50
 - pkg:nuget/Soenneker.Middlewares.LocalIpAddress@4.0.51
+- pkg:nuget/Soenneker.Middlewares.LocalIpAddress@4.0.55

@@ -94,6 +94,7 @@
 - pkg:nuget/Soenneker.Extensions.Strings.Jwt@4.0.118
 - pkg:nuget/Soenneker.Extensions.Strings.Jwt@4.0.126
 - pkg:nuget/Soenneker.Extensions.Strings.Jwt@4.0.148
+- pkg:nuget/Soenneker.Extensions.Strings.Jwt@4.0.160
 - pkg:nuget/Soenneker.Extensions.Strings.Jwt@4.0.92
 - pkg:nuget/Soenneker.Extensions.Strings.Jwt@4.0.95
 - pkg:nuget/Soenneker.Extensions.Strings.Jwt@4.0.97
