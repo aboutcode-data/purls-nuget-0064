@@ -1124,6 +1124,7 @@
 - pkg:nuget/AWSSDK.LicenseManager@3.7.502.3
 - pkg:nuget/AWSSDK.LicenseManager@3.7.502.34
 - pkg:nuget/AWSSDK.LicenseManager@3.7.502.40
+- pkg:nuget/AWSSDK.LicenseManager@3.7.502.41
 - pkg:nuget/AWSSDK.LicenseManager@3.7.502.7
 - pkg:nuget/AWSSDK.LicenseManager@3.7.502.8
 - pkg:nuget/AWSSDK.LicenseManager@4.0.0
@@ -1167,4 +1168,5 @@
 - pkg:nuget/AWSSDK.LicenseManager@4.0.2.8
 - pkg:nuget/AWSSDK.LicenseManager@4.0.2.9
 - pkg:nuget/AWSSDK.LicenseManager@4.0.3
+- pkg:nuget/AWSSDK.LicenseManager@4.0.4.12
 - pkg:nuget/AWSSDK.LicenseManager@4.0.4.5

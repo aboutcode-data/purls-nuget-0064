@@ -1211,6 +1211,7 @@
 - pkg:nuget/AWSSDK.WAF@3.7.502.30
 - pkg:nuget/AWSSDK.WAF@3.7.502.35
 - pkg:nuget/AWSSDK.WAF@3.7.502.46
+- pkg:nuget/AWSSDK.WAF@3.7.502.47
 - pkg:nuget/AWSSDK.WAF@3.7.502.5
 - pkg:nuget/AWSSDK.WAF@3.7.502.7
 - pkg:nuget/AWSSDK.WAF@4.0.0
@@ -1252,3 +1253,4 @@
 - pkg:nuget/AWSSDK.WAF@4.0.1.2
 - pkg:nuget/AWSSDK.WAF@4.0.1.4
 - pkg:nuget/AWSSDK.WAF@4.0.1.8
+- pkg:nuget/AWSSDK.WAF@4.0.2.16
