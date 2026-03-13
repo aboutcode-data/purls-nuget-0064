@@ -10,3 +10,4 @@
 - pkg:nuget/IdentityServer4Plus.AspNetIdentity@8.0.20
 - pkg:nuget/IdentityServer4Plus.AspNetIdentity@8.0.7
 - pkg:nuget/IdentityServer4Plus.AspNetIdentity@8.0.8
+- pkg:nuget/IdentityServer4Plus.AspNetIdentity@9.0.14
