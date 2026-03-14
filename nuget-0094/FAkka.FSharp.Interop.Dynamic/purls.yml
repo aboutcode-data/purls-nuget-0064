@@ -2,3 +2,6 @@
 - pkg:nuget/FAkka.FSharp.Interop.Dynamic@1.0.9
 - pkg:nuget/FAkka.FSharp.Interop.Dynamic@1.5.30.1
 - pkg:nuget/FAkka.FSharp.Interop.Dynamic@1.5.30.300
+- pkg:nuget/FAkka.FSharp.Interop.Dynamic@1.562.10.103-dgx.2
+- pkg:nuget/FAkka.FSharp.Interop.Dynamic@1.562.10.103-dgx.3
+- pkg:nuget/FAkka.FSharp.Interop.Dynamic@10.0.105.1-dgx
