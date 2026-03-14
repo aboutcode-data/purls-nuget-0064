@@ -3,3 +3,4 @@
 - pkg:nuget/Azure.Monitor.OpenTelemetry.Profiler@1.0.0-beta3
 - pkg:nuget/Azure.Monitor.OpenTelemetry.Profiler@1.0.0-beta4
 - pkg:nuget/Azure.Monitor.OpenTelemetry.Profiler@1.0.0-beta5
+- pkg:nuget/Azure.Monitor.OpenTelemetry.Profiler@1.0.0-beta8
