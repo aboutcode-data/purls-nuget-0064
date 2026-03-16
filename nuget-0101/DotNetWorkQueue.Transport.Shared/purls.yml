@@ -25,3 +25,4 @@
 - pkg:nuget/DotNetWorkQueue.Transport.Shared@0.7.4
 - pkg:nuget/DotNetWorkQueue.Transport.Shared@0.7.5
 - pkg:nuget/DotNetWorkQueue.Transport.Shared@0.7.6
+- pkg:nuget/DotNetWorkQueue.Transport.Shared@0.9.5
