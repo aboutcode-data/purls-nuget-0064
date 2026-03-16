@@ -243,6 +243,7 @@
 - pkg:nuget/TripleSix.Core@7.6.9
 - pkg:nuget/TripleSix.Core@9.0.0
 - pkg:nuget/TripleSix.Core@9.0.1
+- pkg:nuget/TripleSix.Core@9.0.12
 - pkg:nuget/TripleSix.Core@9.0.2
 - pkg:nuget/TripleSix.Core@9.0.3
 - pkg:nuget/TripleSix.Core@9.0.4
