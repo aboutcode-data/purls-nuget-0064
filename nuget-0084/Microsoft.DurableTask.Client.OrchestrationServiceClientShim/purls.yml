@@ -8,6 +8,7 @@
 - pkg:nuget/Microsoft.DurableTask.Client.OrchestrationServiceClientShim@1.12.0
 - pkg:nuget/Microsoft.DurableTask.Client.OrchestrationServiceClientShim@1.13.0
 - pkg:nuget/Microsoft.DurableTask.Client.OrchestrationServiceClientShim@1.14.0
+- pkg:nuget/Microsoft.DurableTask.Client.OrchestrationServiceClientShim@1.23.0
 - pkg:nuget/Microsoft.DurableTask.Client.OrchestrationServiceClientShim@1.6.0
 - pkg:nuget/Microsoft.DurableTask.Client.OrchestrationServiceClientShim@1.7.0
 - pkg:nuget/Microsoft.DurableTask.Client.OrchestrationServiceClientShim@1.8.0
