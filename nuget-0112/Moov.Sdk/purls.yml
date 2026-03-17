@@ -1,3 +1,4 @@
+- pkg:nuget/Moov.Sdk@0.0.0-dev.12
 - pkg:nuget/Moov.Sdk@0.1.11
 - pkg:nuget/Moov.Sdk@0.1.7
 - pkg:nuget/Moov.Sdk@24.1.2
@@ -13,5 +14,6 @@
 - pkg:nuget/Moov.Sdk@25.7.5
 - pkg:nuget/Moov.Sdk@26.1.2
 - pkg:nuget/Moov.Sdk@26.1.5
+- pkg:nuget/Moov.Sdk@26.4.0-dev.15
 - pkg:nuget/Moov.Sdk@26.4.0-dev.2
 - pkg:nuget/Moov.Sdk@26.4.0-dev.5
