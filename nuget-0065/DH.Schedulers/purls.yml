@@ -1,4 +1,6 @@
 - pkg:nuget/DH.Schedulers@10.0.2026.13000013
+- pkg:nuget/DH.Schedulers@10.0.2026.31700016
+- pkg:nuget/DH.Schedulers@10.0.2026.31700017
 - pkg:nuget/DH.Schedulers@3.5.2024.3300207
 - pkg:nuget/DH.Schedulers@3.5.2024.4010208
 - pkg:nuget/DH.Schedulers@3.5.2024.4020209

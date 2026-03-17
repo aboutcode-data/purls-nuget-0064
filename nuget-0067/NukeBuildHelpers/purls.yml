@@ -335,4 +335,5 @@
 - pkg:nuget/NukeBuildHelpers@9.0.0-prerelease.4%2Bbuild.20250829023539.c05deac
 - pkg:nuget/NukeBuildHelpers@9.0.0-prerelease.5%2Bbuild.20250829094016.5bd7014
 - pkg:nuget/NukeBuildHelpers@9.0.1%2Bbuild.20250923142133.ee81b29
+- pkg:nuget/NukeBuildHelpers@9.0.10%2Bbuild.20260317143416.f42867c
 - pkg:nuget/NukeBuildHelpers@9.0.2%2Bbuild.20250930005545.3210180
