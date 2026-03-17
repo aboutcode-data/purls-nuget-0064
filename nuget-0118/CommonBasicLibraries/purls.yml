@@ -1,3 +1,4 @@
+- pkg:nuget/CommonBasicLibraries@10.0.33
 - pkg:nuget/CommonBasicLibraries@4.0.1
 - pkg:nuget/CommonBasicLibraries@4.0.2
 - pkg:nuget/CommonBasicLibraries@4.0.3
