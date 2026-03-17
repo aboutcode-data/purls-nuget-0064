@@ -1,4 +1,5 @@
 - pkg:nuget/SkuckCardGame@1.0.1
+- pkg:nuget/SkuckCardGame@10.0.5
 - pkg:nuget/SkuckCardGame@2.0.1
 - pkg:nuget/SkuckCardGame@2.0.2
 - pkg:nuget/SkuckCardGame@7.0.1
