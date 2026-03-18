@@ -28,3 +28,4 @@
 - pkg:nuget/Atc.XamlToolkit@1.5.41
 - pkg:nuget/Atc.XamlToolkit@1.5.42
 - pkg:nuget/Atc.XamlToolkit@1.5.7
+- pkg:nuget/Atc.XamlToolkit@3.0.18
