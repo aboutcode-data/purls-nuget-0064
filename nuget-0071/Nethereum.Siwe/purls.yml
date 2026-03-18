@@ -32,3 +32,4 @@
 - pkg:nuget/Nethereum.Siwe@4.8.0
 - pkg:nuget/Nethereum.Siwe@4.9.0
 - pkg:nuget/Nethereum.Siwe@5.0.0
+- pkg:nuget/Nethereum.Siwe@6.0.4

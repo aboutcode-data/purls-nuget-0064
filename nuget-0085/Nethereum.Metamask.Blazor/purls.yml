@@ -27,3 +27,4 @@
 - pkg:nuget/Nethereum.Metamask.Blazor@4.8.0
 - pkg:nuget/Nethereum.Metamask.Blazor@4.9.0
 - pkg:nuget/Nethereum.Metamask.Blazor@5.0.0
+- pkg:nuget/Nethereum.Metamask.Blazor@6.0.4

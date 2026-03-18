@@ -76,3 +76,4 @@
 - pkg:nuget/Nethereum.Geth@4.8.0
 - pkg:nuget/Nethereum.Geth@4.9.0
 - pkg:nuget/Nethereum.Geth@5.0.0
+- pkg:nuget/Nethereum.Geth@6.0.4
