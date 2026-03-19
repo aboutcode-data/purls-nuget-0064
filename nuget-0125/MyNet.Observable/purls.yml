@@ -4,6 +4,7 @@
 - pkg:nuget/MyNet.Observable@13.0.0
 - pkg:nuget/MyNet.Observable@13.1.0
 - pkg:nuget/MyNet.Observable@14.1.0
+- pkg:nuget/MyNet.Observable@17.0.1
 - pkg:nuget/MyNet.Observable@2.0.0
 - pkg:nuget/MyNet.Observable@3.0.0
 - pkg:nuget/MyNet.Observable@3.1.0
