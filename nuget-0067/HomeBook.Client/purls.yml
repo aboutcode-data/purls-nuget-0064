@@ -13,6 +13,7 @@
 - pkg:nuget/HomeBook.Client@1.0.144
 - pkg:nuget/HomeBook.Client@1.0.145
 - pkg:nuget/HomeBook.Client@1.0.15
+- pkg:nuget/HomeBook.Client@1.0.153
 - pkg:nuget/HomeBook.Client@1.0.16
 - pkg:nuget/HomeBook.Client@1.0.17
 - pkg:nuget/HomeBook.Client@1.0.22

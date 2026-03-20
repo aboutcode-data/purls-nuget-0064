@@ -1209,6 +1209,7 @@
 - pkg:nuget/AWSSDK.ServiceCatalog@3.7.501.36
 - pkg:nuget/AWSSDK.ServiceCatalog@3.7.501.40
 - pkg:nuget/AWSSDK.ServiceCatalog@3.7.501.48
+- pkg:nuget/AWSSDK.ServiceCatalog@3.7.501.51
 - pkg:nuget/AWSSDK.ServiceCatalog@3.7.501.6
 - pkg:nuget/AWSSDK.ServiceCatalog@3.7.501.8
 - pkg:nuget/AWSSDK.ServiceCatalog@4.0.0
