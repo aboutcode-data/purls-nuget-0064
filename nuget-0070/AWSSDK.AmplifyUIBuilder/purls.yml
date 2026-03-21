@@ -688,6 +688,7 @@
 - pkg:nuget/AWSSDK.AmplifyUIBuilder@3.7.502.50
 - pkg:nuget/AWSSDK.AmplifyUIBuilder@3.7.502.51
 - pkg:nuget/AWSSDK.AmplifyUIBuilder@3.7.502.54
+- pkg:nuget/AWSSDK.AmplifyUIBuilder@3.7.502.55
 - pkg:nuget/AWSSDK.AmplifyUIBuilder@3.7.502.9
 - pkg:nuget/AWSSDK.AmplifyUIBuilder@4.0.0
 - pkg:nuget/AWSSDK.AmplifyUIBuilder@4.0.0-preview
