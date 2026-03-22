@@ -43,5 +43,7 @@
 - pkg:nuget/TickerQ.EntityFrameworkCore@2.5.3
 - pkg:nuget/TickerQ.EntityFrameworkCore@2.5.3-preview
 - pkg:nuget/TickerQ.EntityFrameworkCore@8.0.1
+- pkg:nuget/TickerQ.EntityFrameworkCore@8.2.3
 - pkg:nuget/TickerQ.EntityFrameworkCore@9.0.0-beta.12
 - pkg:nuget/TickerQ.EntityFrameworkCore@9.0.1
+- pkg:nuget/TickerQ.EntityFrameworkCore@9.2.3
