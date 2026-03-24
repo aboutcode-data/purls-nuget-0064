@@ -249,3 +249,4 @@
 - pkg:nuget/Syncfusion.Blazor.LinearGauge@32.1.23
 - pkg:nuget/Syncfusion.Blazor.LinearGauge@32.2.4
 - pkg:nuget/Syncfusion.Blazor.LinearGauge@32.2.9
+- pkg:nuget/Syncfusion.Blazor.LinearGauge@33.1.45
