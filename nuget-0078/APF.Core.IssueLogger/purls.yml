@@ -25,6 +25,7 @@
 - pkg:nuget/APF.Core.IssueLogger@8.0.0.10-Beta
 - pkg:nuget/APF.Core.IssueLogger@8.0.0.11
 - pkg:nuget/APF.Core.IssueLogger@8.0.0.11-Beta-02
+- pkg:nuget/APF.Core.IssueLogger@8.0.0.12-Beta-01
 - pkg:nuget/APF.Core.IssueLogger@8.0.0.12-beta-migration
 - pkg:nuget/APF.Core.IssueLogger@8.0.0.2
 - pkg:nuget/APF.Core.IssueLogger@8.0.0.23-migration-01

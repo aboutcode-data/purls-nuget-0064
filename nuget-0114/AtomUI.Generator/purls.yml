@@ -14,4 +14,6 @@
 - pkg:nuget/AtomUI.Generator@1.0.0-alpha.4
 - pkg:nuget/AtomUI.Generator@5.0.1
 - pkg:nuget/AtomUI.Generator@5.0.1-build.3
+- pkg:nuget/AtomUI.Generator@5.1.5-build.12
 - pkg:nuget/AtomUI.Generator@5.1.5-build.2
+- pkg:nuget/AtomUI.Generator@5.2.0-build.1

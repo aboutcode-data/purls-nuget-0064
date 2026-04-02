@@ -56,3 +56,4 @@
 - pkg:nuget/Grpc.AspNetCore.HealthChecks@2.71.0
 - pkg:nuget/Grpc.AspNetCore.HealthChecks@2.71.0-pre1
 - pkg:nuget/Grpc.AspNetCore.HealthChecks@2.76.0-pre1
+- pkg:nuget/Grpc.AspNetCore.HealthChecks@2.80.0-pre1
