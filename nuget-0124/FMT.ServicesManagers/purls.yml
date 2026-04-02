@@ -44,3 +44,6 @@
 - pkg:nuget/FMT.ServicesManagers@2025.9.28.8001
 - pkg:nuget/FMT.ServicesManagers@2025.9.29.11001
 - pkg:nuget/FMT.ServicesManagers@2025.9.29.7001
+- pkg:nuget/FMT.ServicesManagers@2026.2.1
+- pkg:nuget/FMT.ServicesManagers@2026.3.0
+- pkg:nuget/FMT.ServicesManagers@2026.4.0

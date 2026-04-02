@@ -92,3 +92,6 @@
 - pkg:nuget/WizardWrx.Core@9.0.359
 - pkg:nuget/WizardWrx.Core@9.0.361
 - pkg:nuget/WizardWrx.Core@9.0.384
+- pkg:nuget/WizardWrx.Core@9.0.390
+- pkg:nuget/WizardWrx.Core@9.0.391
+- pkg:nuget/WizardWrx.Core@9.0.392

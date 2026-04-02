@@ -37,3 +37,5 @@
 - pkg:nuget/Sds.Borrower.Api.Contract@1.2.2-CI-20250912-114539
 - pkg:nuget/Sds.Borrower.Api.Contract@1.2.2-CI-20250923-134157
 - pkg:nuget/Sds.Borrower.Api.Contract@1.2.2-CI-20251030-111615
+- pkg:nuget/Sds.Borrower.Api.Contract@1.2.2-CI-20260401-142450
+- pkg:nuget/Sds.Borrower.Api.Contract@1.2.2-CI-20260401-142855

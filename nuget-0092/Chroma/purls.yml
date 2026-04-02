@@ -102,6 +102,8 @@
 - pkg:nuget/Chroma@0.65.1
 - pkg:nuget/Chroma@0.65.2
 - pkg:nuget/Chroma@0.66.0
+- pkg:nuget/Chroma@0.67.1
+- pkg:nuget/Chroma@0.68.0
 - pkg:nuget/Chroma@0.7.0-alpha
 - pkg:nuget/Chroma@0.8.0-alpha
 - pkg:nuget/Chroma@0.8.1-alpha

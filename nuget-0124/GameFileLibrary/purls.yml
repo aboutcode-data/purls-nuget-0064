@@ -1,5 +1,7 @@
 - pkg:nuget/GameFileLibrary@1.0.0
 - pkg:nuget/GameFileLibrary@1.1.0
+- pkg:nuget/GameFileLibrary@1.10.6
+- pkg:nuget/GameFileLibrary@1.10.7
 - pkg:nuget/GameFileLibrary@1.2.0
 - pkg:nuget/GameFileLibrary@1.3.0
 - pkg:nuget/GameFileLibrary@1.4.0

@@ -16,3 +16,5 @@
 - pkg:nuget/SecretAPI@2.0.0-beta4
 - pkg:nuget/SecretAPI@2.0.0-beta5
 - pkg:nuget/SecretAPI@2.0.1
+- pkg:nuget/SecretAPI@3.0.0-beta1
+- pkg:nuget/SecretAPI@3.0.0-beta2

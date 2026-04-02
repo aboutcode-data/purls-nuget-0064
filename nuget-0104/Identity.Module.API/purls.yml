@@ -32,6 +32,8 @@
 - pkg:nuget/Identity.Module.API@2.5.42
 - pkg:nuget/Identity.Module.API@2.5.427
 - pkg:nuget/Identity.Module.API@2.5.434
+- pkg:nuget/Identity.Module.API@2.5.437
+- pkg:nuget/Identity.Module.API@2.5.438
 - pkg:nuget/Identity.Module.API@2.5.54
 - pkg:nuget/Identity.Module.API@2.5.55
 - pkg:nuget/Identity.Module.API@2.5.58

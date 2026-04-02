@@ -39,3 +39,4 @@
 - pkg:nuget/BIA.Net.Core.WorkerService@5.1.0
 - pkg:nuget/BIA.Net.Core.WorkerService@6.1.0
 - pkg:nuget/BIA.Net.Core.WorkerService@6.1.1
+- pkg:nuget/BIA.Net.Core.WorkerService@7.0.1
