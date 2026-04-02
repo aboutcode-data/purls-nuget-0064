@@ -26,3 +26,4 @@
 - pkg:nuget/BasisTheory.Client@3.3.0
 - pkg:nuget/BasisTheory.Client@4.0.0
 - pkg:nuget/BasisTheory.Client@4.1.0
+- pkg:nuget/BasisTheory.Client@6.4.0

@@ -30,3 +30,7 @@
 - pkg:nuget/Watson.Core@6.3.6
 - pkg:nuget/Watson.Core@6.3.7
 - pkg:nuget/Watson.Core@6.3.9
+- pkg:nuget/Watson.Core@7.0.0
+- pkg:nuget/Watson.Core@7.0.1
+- pkg:nuget/Watson.Core@7.0.2
+- pkg:nuget/Watson.Core@7.0.3

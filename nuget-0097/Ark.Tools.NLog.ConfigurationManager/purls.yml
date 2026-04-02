@@ -186,3 +186,4 @@
 - pkg:nuget/Ark.Tools.NLog.ConfigurationManager@5.3.1
 - pkg:nuget/Ark.Tools.NLog.ConfigurationManager@5.4.0
 - pkg:nuget/Ark.Tools.NLog.ConfigurationManager@5.5.0
+- pkg:nuget/Ark.Tools.NLog.ConfigurationManager@6.0.0

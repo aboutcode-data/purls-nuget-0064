@@ -54,3 +54,5 @@
 - pkg:nuget/DbEx@2.7.1
 - pkg:nuget/DbEx@2.8.0
 - pkg:nuget/DbEx@2.8.1
+- pkg:nuget/DbEx@3.0.0-preview-1
+- pkg:nuget/DbEx@3.0.0-preview-2

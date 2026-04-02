@@ -39,3 +39,4 @@
 - pkg:nuget/LogicBuilder.EntityFrameworkCore.SqlServer@6.0.2
 - pkg:nuget/LogicBuilder.EntityFrameworkCore.SqlServer@6.0.3
 - pkg:nuget/LogicBuilder.EntityFrameworkCore.SqlServer@7.0.0
+- pkg:nuget/LogicBuilder.EntityFrameworkCore.SqlServer@8.0.0

@@ -24,3 +24,4 @@
 - pkg:nuget/Linger.Ldap.ActiveDirectory@0.9.1-preview
 - pkg:nuget/Linger.Ldap.ActiveDirectory@0.9.5
 - pkg:nuget/Linger.Ldap.ActiveDirectory@0.9.8
+- pkg:nuget/Linger.Ldap.ActiveDirectory@1.2.0-preview

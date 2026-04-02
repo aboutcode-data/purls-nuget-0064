@@ -82,3 +82,4 @@
 - pkg:nuget/S3Server@6.0.7
 - pkg:nuget/S3Server@6.0.8
 - pkg:nuget/S3Server@6.0.9
+- pkg:nuget/S3Server@7.0.1
