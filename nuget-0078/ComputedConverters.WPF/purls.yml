@@ -28,3 +28,4 @@
 - pkg:nuget/ComputedConverters.WPF@0.4.9
 - pkg:nuget/ComputedConverters.WPF@0.5.0
 - pkg:nuget/ComputedConverters.WPF@0.5.1
+- pkg:nuget/ComputedConverters.WPF@0.5.5

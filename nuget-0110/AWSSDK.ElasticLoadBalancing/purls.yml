@@ -1210,6 +1210,7 @@
 - pkg:nuget/AWSSDK.ElasticLoadBalancing@3.7.502.51
 - pkg:nuget/AWSSDK.ElasticLoadBalancing@3.7.502.54
 - pkg:nuget/AWSSDK.ElasticLoadBalancing@3.7.502.55
+- pkg:nuget/AWSSDK.ElasticLoadBalancing@3.7.502.56
 - pkg:nuget/AWSSDK.ElasticLoadBalancing@3.7.502.9
 - pkg:nuget/AWSSDK.ElasticLoadBalancing@4.0.0
 - pkg:nuget/AWSSDK.ElasticLoadBalancing@4.0.0-preview
@@ -1251,3 +1252,7 @@
 - pkg:nuget/AWSSDK.ElasticLoadBalancing@4.0.1.4
 - pkg:nuget/AWSSDK.ElasticLoadBalancing@4.0.1.8
 - pkg:nuget/AWSSDK.ElasticLoadBalancing@4.0.2.10
+- pkg:nuget/AWSSDK.ElasticLoadBalancing@4.0.2.19
+- pkg:nuget/AWSSDK.ElasticLoadBalancing@4.0.2.20
+- pkg:nuget/AWSSDK.ElasticLoadBalancing@4.0.2.21
+- pkg:nuget/AWSSDK.ElasticLoadBalancing@4.0.2.22

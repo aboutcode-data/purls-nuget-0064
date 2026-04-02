@@ -38,6 +38,7 @@
 - pkg:nuget/Apaya.Connector.Clients.AmazonPaymentServices@1.8.16
 - pkg:nuget/Apaya.Connector.Clients.AmazonPaymentServices@1.8.17
 - pkg:nuget/Apaya.Connector.Clients.AmazonPaymentServices@1.8.18
+- pkg:nuget/Apaya.Connector.Clients.AmazonPaymentServices@1.8.19
 - pkg:nuget/Apaya.Connector.Clients.AmazonPaymentServices@1.8.2
 - pkg:nuget/Apaya.Connector.Clients.AmazonPaymentServices@1.8.3
 - pkg:nuget/Apaya.Connector.Clients.AmazonPaymentServices@1.8.4

@@ -121,6 +121,7 @@
 - pkg:nuget/Lightrun@1.68.0
 - pkg:nuget/Lightrun@1.68.1
 - pkg:nuget/Lightrun@1.80.1
+- pkg:nuget/Lightrun@1.81.0
 - pkg:nuget/Lightrun@1.9.0-alpha1
 - pkg:nuget/Lightrun@1.9.0-beta
 - pkg:nuget/Lightrun@1.9.0-beta.1

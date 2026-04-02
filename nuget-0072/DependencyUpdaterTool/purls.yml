@@ -37,3 +37,5 @@
 - pkg:nuget/DependencyUpdaterTool@1.0.52
 - pkg:nuget/DependencyUpdaterTool@1.0.53
 - pkg:nuget/DependencyUpdaterTool@1.0.54
+- pkg:nuget/DependencyUpdaterTool@1.0.57
+- pkg:nuget/DependencyUpdaterTool@1.0.59

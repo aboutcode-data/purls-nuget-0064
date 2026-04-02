@@ -8,6 +8,11 @@
 - pkg:nuget/TheCloudTheory.Topaz.ResourceManager@1.0.186-alpha
 - pkg:nuget/TheCloudTheory.Topaz.ResourceManager@1.0.188-alpha
 - pkg:nuget/TheCloudTheory.Topaz.ResourceManager@1.0.464-alpha
+- pkg:nuget/TheCloudTheory.Topaz.ResourceManager@1.0.493-alpha
+- pkg:nuget/TheCloudTheory.Topaz.ResourceManager@1.0.510-alpha
+- pkg:nuget/TheCloudTheory.Topaz.ResourceManager@1.0.515-alpha
+- pkg:nuget/TheCloudTheory.Topaz.ResourceManager@1.0.520-alpha
+- pkg:nuget/TheCloudTheory.Topaz.ResourceManager@1.0.564-beta
 - pkg:nuget/TheCloudTheory.Topaz.ResourceManager@1.0.73-alpha
 - pkg:nuget/TheCloudTheory.Topaz.ResourceManager@1.0.74-alpha
 - pkg:nuget/TheCloudTheory.Topaz.ResourceManager@1.0.75-alpha

@@ -2,5 +2,15 @@
 - pkg:nuget/Mistral@0.0.0-dev.119
 - pkg:nuget/Mistral@0.0.0-dev.121
 - pkg:nuget/Mistral@0.0.0-dev.155
+- pkg:nuget/Mistral@0.0.0-dev.164
+- pkg:nuget/Mistral@0.0.0-dev.165
+- pkg:nuget/Mistral@0.0.0-dev.169
+- pkg:nuget/Mistral@0.0.0-dev.170
+- pkg:nuget/Mistral@0.0.0-dev.171
+- pkg:nuget/Mistral@0.0.0-dev.172
+- pkg:nuget/Mistral@0.0.0-dev.174
+- pkg:nuget/Mistral@0.0.0-dev.179
+- pkg:nuget/Mistral@0.0.0-dev.180
+- pkg:nuget/Mistral@0.0.0-dev.183
 - pkg:nuget/Mistral@0.0.0-dev.45
 - pkg:nuget/Mistral@0.0.0-dev.9

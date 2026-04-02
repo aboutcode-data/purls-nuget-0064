@@ -45,3 +45,5 @@
 - pkg:nuget/Silmoon@1.8.6
 - pkg:nuget/Silmoon@1.8.7
 - pkg:nuget/Silmoon@2.0.0
+- pkg:nuget/Silmoon@3.0.1
+- pkg:nuget/Silmoon@3.0.2

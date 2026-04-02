@@ -2042,3 +2042,6 @@
 - pkg:nuget/Soenneker.Blob.Client@4.0.2040
 - pkg:nuget/Soenneker.Blob.Client@4.0.2051
 - pkg:nuget/Soenneker.Blob.Client@4.0.2056
+- pkg:nuget/Soenneker.Blob.Client@4.0.2058
+- pkg:nuget/Soenneker.Blob.Client@4.0.2059
+- pkg:nuget/Soenneker.Blob.Client@4.0.2060

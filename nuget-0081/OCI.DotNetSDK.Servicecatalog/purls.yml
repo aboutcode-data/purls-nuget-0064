@@ -43,6 +43,7 @@
 - pkg:nuget/OCI.DotNetSDK.Servicecatalog@121.1.0
 - pkg:nuget/OCI.DotNetSDK.Servicecatalog@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Servicecatalog@129.1.0
+- pkg:nuget/OCI.DotNetSDK.Servicecatalog@130.0.0
 - pkg:nuget/OCI.DotNetSDK.Servicecatalog@18.3.0
 - pkg:nuget/OCI.DotNetSDK.Servicecatalog@18.4.0
 - pkg:nuget/OCI.DotNetSDK.Servicecatalog@18.5.0

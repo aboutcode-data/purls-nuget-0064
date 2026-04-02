@@ -23,6 +23,7 @@
 - pkg:nuget/Meziantou.Framework.WPF@1.5.15
 - pkg:nuget/Meziantou.Framework.WPF@1.5.16
 - pkg:nuget/Meziantou.Framework.WPF@1.5.2
+- pkg:nuget/Meziantou.Framework.WPF@1.5.24
 - pkg:nuget/Meziantou.Framework.WPF@1.5.3
 - pkg:nuget/Meziantou.Framework.WPF@1.5.4
 - pkg:nuget/Meziantou.Framework.WPF@1.5.5

@@ -1,1 +1,4 @@
 - pkg:nuget/ArchPillar.Extensions.Mapper@1.0.4
+- pkg:nuget/ArchPillar.Extensions.Mapper@1.0.5
+- pkg:nuget/ArchPillar.Extensions.Mapper@1.1.0
+- pkg:nuget/ArchPillar.Extensions.Mapper@1.2.0

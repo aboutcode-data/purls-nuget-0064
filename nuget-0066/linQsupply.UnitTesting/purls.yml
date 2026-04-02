@@ -180,6 +180,10 @@
 - pkg:nuget/linQsupply.UnitTesting@8.0.3
 - pkg:nuget/linQsupply.UnitTesting@8.0.4
 - pkg:nuget/linQsupply.UnitTesting@8.0.5
+- pkg:nuget/linQsupply.UnitTesting@8.0.56
+- pkg:nuget/linQsupply.UnitTesting@8.0.57
+- pkg:nuget/linQsupply.UnitTesting@8.0.58
+- pkg:nuget/linQsupply.UnitTesting@8.0.59
 - pkg:nuget/linQsupply.UnitTesting@8.0.6
 - pkg:nuget/linQsupply.UnitTesting@8.0.7
 - pkg:nuget/linQsupply.UnitTesting@8.0.8

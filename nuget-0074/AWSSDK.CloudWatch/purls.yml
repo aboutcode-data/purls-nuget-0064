@@ -1193,6 +1193,7 @@
 - pkg:nuget/AWSSDK.CloudWatch@3.7.505.9
 - pkg:nuget/AWSSDK.CloudWatch@3.7.506.3
 - pkg:nuget/AWSSDK.CloudWatch@3.7.507.10
+- pkg:nuget/AWSSDK.CloudWatch@3.7.507.11
 - pkg:nuget/AWSSDK.CloudWatch@3.7.507.5
 - pkg:nuget/AWSSDK.CloudWatch@3.7.507.6
 - pkg:nuget/AWSSDK.CloudWatch@3.7.507.9
@@ -1276,3 +1277,7 @@
 - pkg:nuget/AWSSDK.CloudWatch@4.0.4.1
 - pkg:nuget/AWSSDK.CloudWatch@4.0.4.5
 - pkg:nuget/AWSSDK.CloudWatch@4.0.6.3
+- pkg:nuget/AWSSDK.CloudWatch@4.0.8.4
+- pkg:nuget/AWSSDK.CloudWatch@4.0.8.5
+- pkg:nuget/AWSSDK.CloudWatch@4.0.8.6
+- pkg:nuget/AWSSDK.CloudWatch@4.0.8.7

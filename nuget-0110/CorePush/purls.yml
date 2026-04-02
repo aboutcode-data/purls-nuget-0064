@@ -31,3 +31,4 @@
 - pkg:nuget/CorePush@4.2.1
 - pkg:nuget/CorePush@4.3.0
 - pkg:nuget/CorePush@4.4.0
+- pkg:nuget/CorePush@5.0.1

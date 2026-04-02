@@ -43,6 +43,7 @@
 - pkg:nuget/OCI.DotNetSDK.Cloudmigrations@121.1.0
 - pkg:nuget/OCI.DotNetSDK.Cloudmigrations@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Cloudmigrations@129.1.0
+- pkg:nuget/OCI.DotNetSDK.Cloudmigrations@130.0.0
 - pkg:nuget/OCI.DotNetSDK.Cloudmigrations@45.0.0
 - pkg:nuget/OCI.DotNetSDK.Cloudmigrations@45.1.0
 - pkg:nuget/OCI.DotNetSDK.Cloudmigrations@46.0.0

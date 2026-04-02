@@ -224,3 +224,6 @@
 - pkg:nuget/Soenneker.Libraries.Whisper.CTranslate@4.0.475
 - pkg:nuget/Soenneker.Libraries.Whisper.CTranslate@4.0.5
 - pkg:nuget/Soenneker.Libraries.Whisper.CTranslate@4.0.564
+- pkg:nuget/Soenneker.Libraries.Whisper.CTranslate@4.0.582
+- pkg:nuget/Soenneker.Libraries.Whisper.CTranslate@4.0.583
+- pkg:nuget/Soenneker.Libraries.Whisper.CTranslate@4.0.599

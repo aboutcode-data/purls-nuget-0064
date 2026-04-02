@@ -827,6 +827,7 @@
 - pkg:nuget/AWSSDK.PrometheusService@3.7.506.48
 - pkg:nuget/AWSSDK.PrometheusService@3.7.506.49
 - pkg:nuget/AWSSDK.PrometheusService@3.7.506.5
+- pkg:nuget/AWSSDK.PrometheusService@3.7.506.50
 - pkg:nuget/AWSSDK.PrometheusService@3.7.506.7
 - pkg:nuget/AWSSDK.PrometheusService@4.0.0
 - pkg:nuget/AWSSDK.PrometheusService@4.0.0-preview
@@ -869,3 +870,7 @@
 - pkg:nuget/AWSSDK.PrometheusService@4.0.4.3
 - pkg:nuget/AWSSDK.PrometheusService@4.0.4.7
 - pkg:nuget/AWSSDK.PrometheusService@4.0.5
+- pkg:nuget/AWSSDK.PrometheusService@4.0.7.15
+- pkg:nuget/AWSSDK.PrometheusService@4.0.7.16
+- pkg:nuget/AWSSDK.PrometheusService@4.0.7.17
+- pkg:nuget/AWSSDK.PrometheusService@4.0.7.18

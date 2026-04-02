@@ -6,3 +6,6 @@
 - pkg:nuget/BitPantry.CommandLine.Remote.SignalR.Server@1.1.0
 - pkg:nuget/BitPantry.CommandLine.Remote.SignalR.Server@1.1.1
 - pkg:nuget/BitPantry.CommandLine.Remote.SignalR.Server@1.2.1
+- pkg:nuget/BitPantry.CommandLine.Remote.SignalR.Server@1.5.0
+- pkg:nuget/BitPantry.CommandLine.Remote.SignalR.Server@1.5.1
+- pkg:nuget/BitPantry.CommandLine.Remote.SignalR.Server@1.5.2

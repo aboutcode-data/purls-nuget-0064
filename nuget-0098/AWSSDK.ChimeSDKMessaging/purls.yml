@@ -749,6 +749,7 @@
 - pkg:nuget/AWSSDK.ChimeSDKMessaging@3.7.502.51
 - pkg:nuget/AWSSDK.ChimeSDKMessaging@3.7.502.54
 - pkg:nuget/AWSSDK.ChimeSDKMessaging@3.7.502.55
+- pkg:nuget/AWSSDK.ChimeSDKMessaging@3.7.502.56
 - pkg:nuget/AWSSDK.ChimeSDKMessaging@3.7.502.9
 - pkg:nuget/AWSSDK.ChimeSDKMessaging@4.0.0
 - pkg:nuget/AWSSDK.ChimeSDKMessaging@4.0.0-preview
@@ -790,3 +791,7 @@
 - pkg:nuget/AWSSDK.ChimeSDKMessaging@4.0.1.3
 - pkg:nuget/AWSSDK.ChimeSDKMessaging@4.0.1.6
 - pkg:nuget/AWSSDK.ChimeSDKMessaging@4.0.2.17
+- pkg:nuget/AWSSDK.ChimeSDKMessaging@4.0.2.19
+- pkg:nuget/AWSSDK.ChimeSDKMessaging@4.0.2.20
+- pkg:nuget/AWSSDK.ChimeSDKMessaging@4.0.2.21
+- pkg:nuget/AWSSDK.ChimeSDKMessaging@4.0.2.22

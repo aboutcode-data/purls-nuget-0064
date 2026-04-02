@@ -696,6 +696,7 @@
 - pkg:nuget/AWSSDK.Inspector2@3.7.506.11
 - pkg:nuget/AWSSDK.Inspector2@3.7.506.14
 - pkg:nuget/AWSSDK.Inspector2@3.7.506.15
+- pkg:nuget/AWSSDK.Inspector2@3.7.506.16
 - pkg:nuget/AWSSDK.Inspector2@4.0.0
 - pkg:nuget/AWSSDK.Inspector2@4.0.0-preview
 - pkg:nuget/AWSSDK.Inspector2@4.0.0-preview.10
@@ -739,3 +740,7 @@
 - pkg:nuget/AWSSDK.Inspector2@4.0.5.4
 - pkg:nuget/AWSSDK.Inspector2@4.0.5.8
 - pkg:nuget/AWSSDK.Inspector2@4.0.9.3
+- pkg:nuget/AWSSDK.Inspector2@4.0.9.5
+- pkg:nuget/AWSSDK.Inspector2@4.0.9.6
+- pkg:nuget/AWSSDK.Inspector2@4.0.9.7
+- pkg:nuget/AWSSDK.Inspector2@4.0.9.8

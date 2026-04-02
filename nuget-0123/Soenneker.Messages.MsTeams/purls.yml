@@ -190,3 +190,5 @@
 - pkg:nuget/Soenneker.Messages.MsTeams@4.0.282
 - pkg:nuget/Soenneker.Messages.MsTeams@4.0.287
 - pkg:nuget/Soenneker.Messages.MsTeams@4.0.296
+- pkg:nuget/Soenneker.Messages.MsTeams@4.0.298
+- pkg:nuget/Soenneker.Messages.MsTeams@4.0.299

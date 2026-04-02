@@ -355,6 +355,9 @@
 - pkg:nuget/Ecng.Net@1.0.5
 - pkg:nuget/Ecng.Net@1.0.50
 - pkg:nuget/Ecng.Net@1.0.504
+- pkg:nuget/Ecng.Net@1.0.506
+- pkg:nuget/Ecng.Net@1.0.507
+- pkg:nuget/Ecng.Net@1.0.508
 - pkg:nuget/Ecng.Net@1.0.51
 - pkg:nuget/Ecng.Net@1.0.52
 - pkg:nuget/Ecng.Net@1.0.53

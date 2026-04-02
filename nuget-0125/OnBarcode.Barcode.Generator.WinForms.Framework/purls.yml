@@ -25,5 +25,6 @@
 - pkg:nuget/OnBarcode.Barcode.Generator.WinForms.Framework@10.3.1.7
 - pkg:nuget/OnBarcode.Barcode.Generator.WinForms.Framework@10.3.1.8
 - pkg:nuget/OnBarcode.Barcode.Generator.WinForms.Framework@10.3.1.9
+- pkg:nuget/OnBarcode.Barcode.Generator.WinForms.Framework@10.5.0.10
 - pkg:nuget/OnBarcode.Barcode.Generator.WinForms.Framework@10.5.0.6
 - pkg:nuget/OnBarcode.Barcode.Generator.WinForms.Framework@10.5.0.8

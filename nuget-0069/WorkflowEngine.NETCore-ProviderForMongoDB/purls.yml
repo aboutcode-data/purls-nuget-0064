@@ -34,6 +34,7 @@
 - pkg:nuget/WorkflowEngine.NETCore-ProviderForMongoDB@18.0.0
 - pkg:nuget/WorkflowEngine.NETCore-ProviderForMongoDB@18.1.0
 - pkg:nuget/WorkflowEngine.NETCore-ProviderForMongoDB@20.0.0
+- pkg:nuget/WorkflowEngine.NETCore-ProviderForMongoDB@20.0.8
 - pkg:nuget/WorkflowEngine.NETCore-ProviderForMongoDB@3.3.0
 - pkg:nuget/WorkflowEngine.NETCore-ProviderForMongoDB@3.3.1
 - pkg:nuget/WorkflowEngine.NETCore-ProviderForMongoDB@3.3.2

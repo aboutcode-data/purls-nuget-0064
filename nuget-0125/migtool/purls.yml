@@ -22,3 +22,12 @@
 - pkg:nuget/migtool@1.0.4
 - pkg:nuget/migtool@2.7.2
 - pkg:nuget/migtool@4.1.2
+- pkg:nuget/migtool@5.0.0
+- pkg:nuget/migtool@5.0.1
+- pkg:nuget/migtool@5.1.0
+- pkg:nuget/migtool@5.2.0
+- pkg:nuget/migtool@5.2.1
+- pkg:nuget/migtool@5.2.2
+- pkg:nuget/migtool@5.2.3
+- pkg:nuget/migtool@5.2.4
+- pkg:nuget/migtool@5.2.5

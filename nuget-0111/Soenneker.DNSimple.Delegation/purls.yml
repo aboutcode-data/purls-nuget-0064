@@ -327,3 +327,6 @@
 - pkg:nuget/Soenneker.DNSimple.Delegation@4.0.488
 - pkg:nuget/Soenneker.DNSimple.Delegation@4.0.491
 - pkg:nuget/Soenneker.DNSimple.Delegation@4.0.503
+- pkg:nuget/Soenneker.DNSimple.Delegation@4.0.509
+- pkg:nuget/Soenneker.DNSimple.Delegation@4.0.510
+- pkg:nuget/Soenneker.DNSimple.Delegation@4.0.511

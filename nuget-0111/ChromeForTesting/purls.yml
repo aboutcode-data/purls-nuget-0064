@@ -98,3 +98,4 @@
 - pkg:nuget/ChromeForTesting@140.0.7339.82038
 - pkg:nuget/ChromeForTesting@141.0.7390.54038
 - pkg:nuget/ChromeForTesting@144.0.7559.133045
+- pkg:nuget/ChromeForTesting@147.0.7727.50045
