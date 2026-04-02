@@ -1,1 +1,2 @@
 - pkg:nuget/NuVatis.Extensions.DependencyInjection@2.5.0
+- pkg:nuget/NuVatis.Extensions.DependencyInjection@2.6.0

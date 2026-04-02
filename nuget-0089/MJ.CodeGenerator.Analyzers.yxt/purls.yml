@@ -1,4 +1,6 @@
+- pkg:nuget/MJ.CodeGenerator.Analyzers.yxt@1.0.10
 - pkg:nuget/MJ.CodeGenerator.Analyzers.yxt@1.0.2
 - pkg:nuget/MJ.CodeGenerator.Analyzers.yxt@1.0.3
 - pkg:nuget/MJ.CodeGenerator.Analyzers.yxt@1.0.6
 - pkg:nuget/MJ.CodeGenerator.Analyzers.yxt@1.0.7
+- pkg:nuget/MJ.CodeGenerator.Analyzers.yxt@1.0.9
