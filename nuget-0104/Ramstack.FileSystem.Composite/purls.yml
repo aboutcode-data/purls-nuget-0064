@@ -16,3 +16,5 @@
 - pkg:nuget/Ramstack.FileSystem.Composite@1.4.0
 - pkg:nuget/Ramstack.FileSystem.Composite@1.4.1
 - pkg:nuget/Ramstack.FileSystem.Composite@1.5.0
+- pkg:nuget/Ramstack.FileSystem.Composite@1.6.2
+- pkg:nuget/Ramstack.FileSystem.Composite@1.6.3

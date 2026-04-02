@@ -1,1 +1,4 @@
 - pkg:nuget/Dell.CloudIq.Api@1.0.52
+- pkg:nuget/Dell.CloudIq.Api@1.0.68
+- pkg:nuget/Dell.CloudIq.Api@1.0.69
+- pkg:nuget/Dell.CloudIq.Api@1.0.70

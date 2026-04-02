@@ -12,3 +12,4 @@
 - pkg:nuget/Atc.Kusto@2.6.1
 - pkg:nuget/Atc.Kusto@2.7.0
 - pkg:nuget/Atc.Kusto@2.8.0
+- pkg:nuget/Atc.Kusto@3.4.0
