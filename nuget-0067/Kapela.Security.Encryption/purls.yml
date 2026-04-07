@@ -5,5 +5,7 @@
 - pkg:nuget/Kapela.Security.Encryption@1.1.0
 - pkg:nuget/Kapela.Security.Encryption@1.1.1
 - pkg:nuget/Kapela.Security.Encryption@1.1.2
+- pkg:nuget/Kapela.Security.Encryption@10.0.1
+- pkg:nuget/Kapela.Security.Encryption@10.0.2
 - pkg:nuget/Kapela.Security.Encryption@8.1.2
 - pkg:nuget/Kapela.Security.Encryption@8.2.0
