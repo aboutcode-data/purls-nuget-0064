@@ -226,3 +226,4 @@
 - pkg:nuget/Pulumi.Sdwan@0.8.0-alpha.1774761483
 - pkg:nuget/Pulumi.Sdwan@0.8.0-alpha.1774890663
 - pkg:nuget/Pulumi.Sdwan@0.8.0-alpha.1774930404
+- pkg:nuget/Pulumi.Sdwan@0.8.1
