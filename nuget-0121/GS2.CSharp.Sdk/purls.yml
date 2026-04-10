@@ -403,3 +403,4 @@
 - pkg:nuget/GS2.CSharp.Sdk@2025.9.6
 - pkg:nuget/GS2.CSharp.Sdk@2025.9.7
 - pkg:nuget/GS2.CSharp.Sdk@2026.3.2
+- pkg:nuget/GS2.CSharp.Sdk@2026.3.3
