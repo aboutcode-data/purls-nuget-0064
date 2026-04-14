@@ -15,4 +15,5 @@
 - pkg:nuget/ThingsGateway.Gateway.Razor.Common@12.5.14
 - pkg:nuget/ThingsGateway.Gateway.Razor.Common@12.5.15
 - pkg:nuget/ThingsGateway.Gateway.Razor.Common@12.5.2
+- pkg:nuget/ThingsGateway.Gateway.Razor.Common@12.5.20
 - pkg:nuget/ThingsGateway.Gateway.Razor.Common@12.5.9
