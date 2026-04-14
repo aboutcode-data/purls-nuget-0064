@@ -1,1 +1,2 @@
+- pkg:nuget/Microsoft.NETCore.App.Runtime.tvossimulator-x64@11.0.0-preview.3.26207.106
 - pkg:nuget/Microsoft.NETCore.App.Runtime.tvossimulator-x64@6.0.0-preview.3.21201.4
