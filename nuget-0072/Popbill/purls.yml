@@ -45,6 +45,7 @@
 - pkg:nuget/Popbill@1.58.1
 - pkg:nuget/Popbill@1.59.0
 - pkg:nuget/Popbill@1.6.0
+- pkg:nuget/Popbill@1.63.0
 - pkg:nuget/Popbill@1.7.0
 - pkg:nuget/Popbill@1.8.0
 - pkg:nuget/Popbill@1.8.1
