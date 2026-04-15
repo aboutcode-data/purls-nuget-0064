@@ -1,1 +1,2 @@
 - pkg:nuget/Hexalith.EventStore.Client@1.2.6
+- pkg:nuget/Hexalith.EventStore.Client@1.4.0
