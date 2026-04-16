@@ -73,6 +73,7 @@
 - pkg:nuget/CrystalData@0.39.2
 - pkg:nuget/CrystalData@0.39.3
 - pkg:nuget/CrystalData@0.42.1
+- pkg:nuget/CrystalData@0.42.3
 - pkg:nuget/CrystalData@0.8.1
 - pkg:nuget/CrystalData@0.9.0
 - pkg:nuget/CrystalData@0.9.1
