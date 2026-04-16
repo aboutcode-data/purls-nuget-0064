@@ -15,3 +15,5 @@
 - pkg:nuget/SharpCoder@0.7.0
 - pkg:nuget/SharpCoder@0.7.0-beta.43
 - pkg:nuget/SharpCoder@0.7.0-beta.44
+- pkg:nuget/SharpCoder@0.8.0-beta.59
+- pkg:nuget/SharpCoder@0.8.1-beta.60
