@@ -86,3 +86,6 @@
 - pkg:nuget/Pilz.Net@2.6.8
 - pkg:nuget/Pilz.Net@2.6.9
 - pkg:nuget/Pilz.Net@3.0.3
+- pkg:nuget/Pilz.Net@4.0.10
+- pkg:nuget/Pilz.Net@4.0.8
+- pkg:nuget/Pilz.Net@4.0.9
