@@ -37,6 +37,7 @@
 - pkg:nuget/Gemstone.Configuration@1.0.143
 - pkg:nuget/Gemstone.Configuration@1.0.157
 - pkg:nuget/Gemstone.Configuration@1.0.167
+- pkg:nuget/Gemstone.Configuration@1.0.171
 - pkg:nuget/Gemstone.Configuration@1.0.40
 - pkg:nuget/Gemstone.Configuration@1.0.41
 - pkg:nuget/Gemstone.Configuration@1.0.42
