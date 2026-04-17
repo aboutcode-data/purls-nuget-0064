@@ -21,6 +21,7 @@
 - pkg:nuget/Ascon.Pilot.BimConverters.Core@22.18.5-alpha
 - pkg:nuget/Ascon.Pilot.BimConverters.Core@23.22.6-alpha
 - pkg:nuget/Ascon.Pilot.BimConverters.Core@23.40.7-alpha
+- pkg:nuget/Ascon.Pilot.BimConverters.Core@25.18.2-alpha
 - pkg:nuget/Ascon.Pilot.BimConverters.Core@25.3.8-alpha
 - pkg:nuget/Ascon.Pilot.BimConverters.Core@25.4.10-alpha
 - pkg:nuget/Ascon.Pilot.BimConverters.Core@25.4.9-alpha
