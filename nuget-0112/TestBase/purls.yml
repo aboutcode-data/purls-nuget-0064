@@ -81,6 +81,7 @@
 - pkg:nuget/TestBase@5.0.3-preview
 - pkg:nuget/TestBase@5.0.4-preview
 - pkg:nuget/TestBase@5.0.5-preview
+- pkg:nuget/TestBase@5.0.6
 - pkg:nuget/TestBase@5.0.6-preview
 - pkg:nuget/TestBase@6.0.0.1
 - pkg:nuget/TestBase@6.0.0.1-preview-1
