@@ -10,3 +10,4 @@
 - pkg:nuget/FSharp.TypeProviders.Templates@8.0.2
 - pkg:nuget/FSharp.TypeProviders.Templates@8.1.0
 - pkg:nuget/FSharp.TypeProviders.Templates@8.4.0
+- pkg:nuget/FSharp.TypeProviders.Templates@8.6.0
