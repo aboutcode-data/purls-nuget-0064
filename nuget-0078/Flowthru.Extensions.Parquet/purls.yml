@@ -1,1 +1,2 @@
 - pkg:nuget/Flowthru.Extensions.Parquet@0.1.32
+- pkg:nuget/Flowthru.Extensions.Parquet@0.6.0
