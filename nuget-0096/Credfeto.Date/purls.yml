@@ -531,6 +531,8 @@
 - pkg:nuget/Credfeto.Date@1.1.15.277
 - pkg:nuget/Credfeto.Date@1.1.150.1660-main
 - pkg:nuget/Credfeto.Date@1.1.150.1661-main
+- pkg:nuget/Credfeto.Date@1.1.150.1665-main
+- pkg:nuget/Credfeto.Date@1.1.150.1666-main
 - pkg:nuget/Credfeto.Date@1.1.16.278-main
 - pkg:nuget/Credfeto.Date@1.1.16.279-main
 - pkg:nuget/Credfeto.Date@1.1.16.280-main
