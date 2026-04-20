@@ -6,6 +6,7 @@
 - pkg:nuget/DHI.Services.TimeSeries.WebApi@1.16.0
 - pkg:nuget/DHI.Services.TimeSeries.WebApi@1.17.0
 - pkg:nuget/DHI.Services.TimeSeries.WebApi@16.0.0
+- pkg:nuget/DHI.Services.TimeSeries.WebApi@16.0.1
 - pkg:nuget/DHI.Services.TimeSeries.WebApi@2.0.0
 - pkg:nuget/DHI.Services.TimeSeries.WebApi@3.0.0
 - pkg:nuget/DHI.Services.TimeSeries.WebApi@3.0.0-rc1
