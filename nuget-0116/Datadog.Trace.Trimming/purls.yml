@@ -67,6 +67,7 @@
 - pkg:nuget/Datadog.Trace.Trimming@3.4.1-prerelease
 - pkg:nuget/Datadog.Trace.Trimming@3.40.0-prerelease
 - pkg:nuget/Datadog.Trace.Trimming@3.41.0-prerelease
+- pkg:nuget/Datadog.Trace.Trimming@3.42.0-prerelease
 - pkg:nuget/Datadog.Trace.Trimming@3.5.0-prerelease
 - pkg:nuget/Datadog.Trace.Trimming@3.6.0-prerelease
 - pkg:nuget/Datadog.Trace.Trimming@3.6.1-prerelease
