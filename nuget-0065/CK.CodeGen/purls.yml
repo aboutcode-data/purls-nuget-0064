@@ -23,6 +23,7 @@
 - pkg:nuget/CK.CodeGen@13.0.0
 - pkg:nuget/CK.CodeGen@14.0.0
 - pkg:nuget/CK.CodeGen@14.0.1
+- pkg:nuget/CK.CodeGen@15.0.0
 - pkg:nuget/CK.CodeGen@2.0.0
 - pkg:nuget/CK.CodeGen@2.1.0
 - pkg:nuget/CK.CodeGen@3.0.0
