@@ -1,1 +1,3 @@
 - pkg:nuget/DotnetFleet.Tool@0.0.10
+- pkg:nuget/DotnetFleet.Tool@0.0.29
+- pkg:nuget/DotnetFleet.Tool@0.0.30
