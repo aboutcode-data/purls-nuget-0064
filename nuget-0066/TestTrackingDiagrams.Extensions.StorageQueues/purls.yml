@@ -1,2 +1,3 @@
 - pkg:nuget/TestTrackingDiagrams.Extensions.StorageQueues@2.15.0
 - pkg:nuget/TestTrackingDiagrams.Extensions.StorageQueues@2.19.0
+- pkg:nuget/TestTrackingDiagrams.Extensions.StorageQueues@2.22.19
