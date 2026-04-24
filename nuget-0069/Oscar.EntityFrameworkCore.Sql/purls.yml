@@ -3,6 +3,7 @@
 - pkg:nuget/Oscar.EntityFrameworkCore.Sql@7.0.0
 - pkg:nuget/Oscar.EntityFrameworkCore.Sql@8.0.0
 - pkg:nuget/Oscar.EntityFrameworkCore.Sql@8.0.1
+- pkg:nuget/Oscar.EntityFrameworkCore.Sql@8.0.10
 - pkg:nuget/Oscar.EntityFrameworkCore.Sql@8.0.2
 - pkg:nuget/Oscar.EntityFrameworkCore.Sql@8.0.3
 - pkg:nuget/Oscar.EntityFrameworkCore.Sql@8.0.4
