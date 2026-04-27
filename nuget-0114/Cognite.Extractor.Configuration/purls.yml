@@ -115,6 +115,7 @@
 - pkg:nuget/Cognite.Extractor.Configuration@1.4.0
 - pkg:nuget/Cognite.Extractor.Configuration@1.4.1
 - pkg:nuget/Cognite.Extractor.Configuration@1.4.2
+- pkg:nuget/Cognite.Extractor.Configuration@1.43.0
 - pkg:nuget/Cognite.Extractor.Configuration@1.5.0
 - pkg:nuget/Cognite.Extractor.Configuration@1.5.1
 - pkg:nuget/Cognite.Extractor.Configuration@1.6.0
