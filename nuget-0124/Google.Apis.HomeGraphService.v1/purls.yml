@@ -103,3 +103,4 @@
 - pkg:nuget/Google.Apis.HomeGraphService.v1@1.68.0.3109
 - pkg:nuget/Google.Apis.HomeGraphService.v1@1.69.0.3752
 - pkg:nuget/Google.Apis.HomeGraphService.v1@1.70.0.3849
+- pkg:nuget/Google.Apis.HomeGraphService.v1@1.73.0.4121

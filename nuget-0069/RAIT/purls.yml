@@ -89,3 +89,4 @@
 - pkg:nuget/RAIT@1.7.0
 - pkg:nuget/RAIT@1.7.1
 - pkg:nuget/RAIT@1.8.0
+- pkg:nuget/RAIT@4.0.1
