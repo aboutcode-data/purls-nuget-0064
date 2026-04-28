@@ -1,1 +1,3 @@
 - pkg:nuget/KarizmaInventory.Infrastructure@0.7.0
+- pkg:nuget/KarizmaInventory.Infrastructure@0.8.3
+- pkg:nuget/KarizmaInventory.Infrastructure@0.8.4
