@@ -167,3 +167,4 @@
 - pkg:nuget/Google.Apis.AlertCenter.v1beta1@1.68.0.3588
 - pkg:nuget/Google.Apis.AlertCenter.v1beta1@1.69.0.3742
 - pkg:nuget/Google.Apis.AlertCenter.v1beta1@1.69.0.3756
+- pkg:nuget/Google.Apis.AlertCenter.v1beta1@1.73.0.4120
