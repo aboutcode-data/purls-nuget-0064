@@ -147,6 +147,7 @@
 - pkg:nuget/Radzen.Blazor@10.0.7
 - pkg:nuget/Radzen.Blazor@10.1.0
 - pkg:nuget/Radzen.Blazor@10.2.0
+- pkg:nuget/Radzen.Blazor@10.3.2
 - pkg:nuget/Radzen.Blazor@2.0.0
 - pkg:nuget/Radzen.Blazor@2.0.1
 - pkg:nuget/Radzen.Blazor@2.0.10

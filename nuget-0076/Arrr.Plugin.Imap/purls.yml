@@ -1,3 +1,4 @@
+- pkg:nuget/Arrr.Plugin.Imap@1.10.0
 - pkg:nuget/Arrr.Plugin.Imap@1.4.1
 - pkg:nuget/Arrr.Plugin.Imap@1.5.0
 - pkg:nuget/Arrr.Plugin.Imap@1.7.0
