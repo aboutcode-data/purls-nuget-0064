@@ -1,1 +1,2 @@
 - pkg:nuget/Integration.Test.Host@8.0.1
+- pkg:nuget/Integration.Test.Host@8.0.2-alpha
