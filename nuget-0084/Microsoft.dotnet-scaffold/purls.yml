@@ -1,4 +1,5 @@
 - pkg:nuget/Microsoft.dotnet-scaffold@10.0.0-rc.1.25458.5
+- pkg:nuget/Microsoft.dotnet-scaffold@20.0.0-preview.1.26230.3
 - pkg:nuget/Microsoft.dotnet-scaffold@7.0.0-preview.7.22404.3
 - pkg:nuget/Microsoft.dotnet-scaffold@7.0.0-rc.1.22452.2
 - pkg:nuget/Microsoft.dotnet-scaffold@7.0.0-rc.2.22510.1
