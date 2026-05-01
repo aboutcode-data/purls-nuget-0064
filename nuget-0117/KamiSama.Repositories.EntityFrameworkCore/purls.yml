@@ -11,6 +11,7 @@
 - pkg:nuget/KamiSama.Repositories.EntityFrameworkCore@1.2.6
 - pkg:nuget/KamiSama.Repositories.EntityFrameworkCore@1.2.8
 - pkg:nuget/KamiSama.Repositories.EntityFrameworkCore@10.0.0
+- pkg:nuget/KamiSama.Repositories.EntityFrameworkCore@10.0.7
 - pkg:nuget/KamiSama.Repositories.EntityFrameworkCore@2.0.2
 - pkg:nuget/KamiSama.Repositories.EntityFrameworkCore@2.1.0
 - pkg:nuget/KamiSama.Repositories.EntityFrameworkCore@2.1.1
