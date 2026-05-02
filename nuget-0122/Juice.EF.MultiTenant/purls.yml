@@ -1,3 +1,4 @@
+- pkg:nuget/Juice.EF.MultiTenant@10.1.1
 - pkg:nuget/Juice.EF.MultiTenant@7.0.0-beta.1
 - pkg:nuget/Juice.EF.MultiTenant@7.0.2
 - pkg:nuget/Juice.EF.MultiTenant@7.0.3
