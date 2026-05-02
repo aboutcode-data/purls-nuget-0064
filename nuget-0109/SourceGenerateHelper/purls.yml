@@ -6,3 +6,4 @@
 - pkg:nuget/SourceGenerateHelper@1.2.1
 - pkg:nuget/SourceGenerateHelper@1.5.1
 - pkg:nuget/SourceGenerateHelper@1.5.2
+- pkg:nuget/SourceGenerateHelper@1.7.0
