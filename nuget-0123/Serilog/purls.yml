@@ -583,3 +583,4 @@
 - pkg:nuget/Serilog@4.3.1-dev-02383
 - pkg:nuget/Serilog@4.3.1-dev-02385
 - pkg:nuget/Serilog@4.3.1-dev-02387
+- pkg:nuget/Serilog@4.3.2-dev-02430
