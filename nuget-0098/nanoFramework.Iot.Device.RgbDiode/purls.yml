@@ -18,3 +18,4 @@
 - pkg:nuget/nanoFramework.Iot.Device.RgbDiode@1.0.7
 - pkg:nuget/nanoFramework.Iot.Device.RgbDiode@1.0.8
 - pkg:nuget/nanoFramework.Iot.Device.RgbDiode@1.0.85
+- pkg:nuget/nanoFramework.Iot.Device.RgbDiode@2.0.0-preview.49
