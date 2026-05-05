@@ -10,6 +10,7 @@
 - pkg:nuget/DevExpress.XAF.ProjectTemplates@24.1.9
 - pkg:nuget/DevExpress.XAF.ProjectTemplates@24.2.1-alpha
 - pkg:nuget/DevExpress.XAF.ProjectTemplates@24.2.10
+- pkg:nuget/DevExpress.XAF.ProjectTemplates@24.2.15
 - pkg:nuget/DevExpress.XAF.ProjectTemplates@24.2.2-beta-24330
 - pkg:nuget/DevExpress.XAF.ProjectTemplates@24.2.3
 - pkg:nuget/DevExpress.XAF.ProjectTemplates@24.2.5
