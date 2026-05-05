@@ -15,3 +15,5 @@
 - pkg:nuget/DIR.Lib@1.7.271%2B6db3472060fed912da56d206a2bbea9a1cf17b26
 - pkg:nuget/DIR.Lib@2.4.531%2B374d92232f1f0e11eb189d510bd3f9d99b82f6ee
 - pkg:nuget/DIR.Lib@2.5.561%2B7b511fb7c5fc72ca3f4a40f2fca0e4fc6d75d02a
+- pkg:nuget/DIR.Lib@2.6.571%2B0844ad0b8cbbad6fd2c9c3b989cb010399de53ff
+- pkg:nuget/DIR.Lib@2.6.591%2B3519ab43ae0cd25617ffae71f5377529d2b3624f
