@@ -1,1 +1,9 @@
 - pkg:nuget/Translazor@0.1.0
+- pkg:nuget/Translazor@1.0.0-preview3.0.14
+- pkg:nuget/Translazor@1.0.0-preview3.0.15
+- pkg:nuget/Translazor@1.0.0-preview3.0.16
+- pkg:nuget/Translazor@1.0.0-preview3.0.17
+- pkg:nuget/Translazor@1.0.0-preview3.0.18
+- pkg:nuget/Translazor@1.0.0-preview3.0.19
+- pkg:nuget/Translazor@1.0.0-preview3.0.20
+- pkg:nuget/Translazor@1.0.0-preview3.0.21
