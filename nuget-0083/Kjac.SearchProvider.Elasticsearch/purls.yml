@@ -1,1 +1,2 @@
 - pkg:nuget/Kjac.SearchProvider.Elasticsearch@1.0.0-alpha.1
+- pkg:nuget/Kjac.SearchProvider.Elasticsearch@1.0.0-alpha.8
