@@ -4,3 +4,4 @@
 - pkg:nuget/IVSoftware.WinOS.MSTest.Extensions@1.0.6-prerelease
 - pkg:nuget/IVSoftware.WinOS.MSTest.Extensions@1.0.7
 - pkg:nuget/IVSoftware.WinOS.MSTest.Extensions@1.0.8
+- pkg:nuget/IVSoftware.WinOS.MSTest.Extensions@2.0.0-rc
