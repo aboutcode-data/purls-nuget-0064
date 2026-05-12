@@ -1,3 +1,4 @@
+- pkg:nuget/BrandUp.MongoDB.Testing.Mongo2Go@10.0.8
 - pkg:nuget/BrandUp.MongoDB.Testing.Mongo2Go@3.0.3
 - pkg:nuget/BrandUp.MongoDB.Testing.Mongo2Go@3.0.5
 - pkg:nuget/BrandUp.MongoDB.Testing.Mongo2Go@3.0.6
