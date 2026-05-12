@@ -9,6 +9,7 @@
 - pkg:nuget/System.Reflection.Context@10.0.1
 - pkg:nuget/System.Reflection.Context@10.0.7
 - pkg:nuget/System.Reflection.Context@11.0.0-preview.1.26104.118
+- pkg:nuget/System.Reflection.Context@11.0.0-preview.4.26230.115
 - pkg:nuget/System.Reflection.Context@4.0.0
 - pkg:nuget/System.Reflection.Context@4.0.1
 - pkg:nuget/System.Reflection.Context@4.0.1-beta-23225

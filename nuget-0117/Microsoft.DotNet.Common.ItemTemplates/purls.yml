@@ -10,7 +10,10 @@
 - pkg:nuget/Microsoft.DotNet.Common.ItemTemplates@10.0.100-rc.2.25502.107
 - pkg:nuget/Microsoft.DotNet.Common.ItemTemplates@10.0.101
 - pkg:nuget/Microsoft.DotNet.Common.ItemTemplates@10.0.107
+- pkg:nuget/Microsoft.DotNet.Common.ItemTemplates@10.0.108
 - pkg:nuget/Microsoft.DotNet.Common.ItemTemplates@10.0.203
+- pkg:nuget/Microsoft.DotNet.Common.ItemTemplates@10.0.204
+- pkg:nuget/Microsoft.DotNet.Common.ItemTemplates@11.0.100-preview.4.26230.115
 - pkg:nuget/Microsoft.DotNet.Common.ItemTemplates@3.1.10
 - pkg:nuget/Microsoft.DotNet.Common.ItemTemplates@3.1.11
 - pkg:nuget/Microsoft.DotNet.Common.ItemTemplates@3.1.12
@@ -242,6 +245,7 @@
 - pkg:nuget/Microsoft.DotNet.Common.ItemTemplates@8.0.120
 - pkg:nuget/Microsoft.DotNet.Common.ItemTemplates@8.0.121
 - pkg:nuget/Microsoft.DotNet.Common.ItemTemplates@8.0.123
+- pkg:nuget/Microsoft.DotNet.Common.ItemTemplates@8.0.127
 - pkg:nuget/Microsoft.DotNet.Common.ItemTemplates@8.0.200
 - pkg:nuget/Microsoft.DotNet.Common.ItemTemplates@8.0.202
 - pkg:nuget/Microsoft.DotNet.Common.ItemTemplates@8.0.203

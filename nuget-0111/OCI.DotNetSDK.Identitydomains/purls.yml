@@ -43,6 +43,7 @@
 - pkg:nuget/OCI.DotNetSDK.Identitydomains@121.1.0
 - pkg:nuget/OCI.DotNetSDK.Identitydomains@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Identitydomains@130.0.0
+- pkg:nuget/OCI.DotNetSDK.Identitydomains@135.0.0
 - pkg:nuget/OCI.DotNetSDK.Identitydomains@55.0.0
 - pkg:nuget/OCI.DotNetSDK.Identitydomains@56.0.0
 - pkg:nuget/OCI.DotNetSDK.Identitydomains@56.1.0
