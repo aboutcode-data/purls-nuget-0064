@@ -1,5 +1,6 @@
 - pkg:nuget/CDCD.Charging.SqlSugar@0.0.1
 - pkg:nuget/CDCD.Charging.SqlSugar@0.0.2
+- pkg:nuget/CDCD.Charging.SqlSugar@0.12.100
 - pkg:nuget/CDCD.Charging.SqlSugar@0.12.13
 - pkg:nuget/CDCD.Charging.SqlSugar@0.12.30
 - pkg:nuget/CDCD.Charging.SqlSugar@0.12.35
@@ -27,6 +28,8 @@
 - pkg:nuget/CDCD.Charging.SqlSugar@0.12.80
 - pkg:nuget/CDCD.Charging.SqlSugar@0.12.81
 - pkg:nuget/CDCD.Charging.SqlSugar@0.12.85
+- pkg:nuget/CDCD.Charging.SqlSugar@0.12.97
+- pkg:nuget/CDCD.Charging.SqlSugar@0.12.98
 - pkg:nuget/CDCD.Charging.SqlSugar@1.0.1
 - pkg:nuget/CDCD.Charging.SqlSugar@2.0.0
 - pkg:nuget/CDCD.Charging.SqlSugar@2.0.1
