@@ -1,4 +1,5 @@
 - pkg:nuget/XD.Library.Caching.Queue@8.0.108
+- pkg:nuget/XD.Library.Caching.Queue@8.0.111
 - pkg:nuget/XD.Library.Caching.Queue@8.0.5
 - pkg:nuget/XD.Library.Caching.Queue@8.0.6
 - pkg:nuget/XD.Library.Caching.Queue@8.0.7
