@@ -1,3 +1,4 @@
+- pkg:nuget/Microsoft.AspNetCore.Diagnostics.Middleware@10.6.0
 - pkg:nuget/Microsoft.AspNetCore.Diagnostics.Middleware@8.0.0
 - pkg:nuget/Microsoft.AspNetCore.Diagnostics.Middleware@8.1.0
 - pkg:nuget/Microsoft.AspNetCore.Diagnostics.Middleware@8.10.0
