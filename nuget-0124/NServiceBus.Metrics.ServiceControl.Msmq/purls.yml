@@ -9,3 +9,4 @@
 - pkg:nuget/NServiceBus.Metrics.ServiceControl.Msmq@4.0.0-beta.2
 - pkg:nuget/NServiceBus.Metrics.ServiceControl.Msmq@4.0.0-rc.2
 - pkg:nuget/NServiceBus.Metrics.ServiceControl.Msmq@4.0.1
+- pkg:nuget/NServiceBus.Metrics.ServiceControl.Msmq@4.0.2
