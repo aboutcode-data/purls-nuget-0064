@@ -8,3 +8,5 @@
 - pkg:nuget/Indice.Features.GeoIP@8.40.0
 - pkg:nuget/Indice.Features.GeoIP@8.42.0
 - pkg:nuget/Indice.Features.GeoIP@8.47.0-rc01
+- pkg:nuget/Indice.Features.GeoIP@8.47.0-rc02
+- pkg:nuget/Indice.Features.GeoIP@8.47.0-rc03
