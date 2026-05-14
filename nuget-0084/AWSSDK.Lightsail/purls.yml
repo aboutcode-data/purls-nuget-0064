@@ -1144,6 +1144,7 @@
 - pkg:nuget/AWSSDK.Lightsail@3.7.504.60
 - pkg:nuget/AWSSDK.Lightsail@3.7.504.7
 - pkg:nuget/AWSSDK.Lightsail@3.7.505.1
+- pkg:nuget/AWSSDK.Lightsail@3.7.505.3
 - pkg:nuget/AWSSDK.Lightsail@3.7.6
 - pkg:nuget/AWSSDK.Lightsail@3.7.6.1
 - pkg:nuget/AWSSDK.Lightsail@3.7.6.2

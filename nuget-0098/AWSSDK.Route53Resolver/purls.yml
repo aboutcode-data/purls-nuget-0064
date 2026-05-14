@@ -1128,6 +1128,7 @@
 - pkg:nuget/AWSSDK.Route53Resolver@3.7.504.37
 - pkg:nuget/AWSSDK.Route53Resolver@3.7.504.38
 - pkg:nuget/AWSSDK.Route53Resolver@3.7.504.39
+- pkg:nuget/AWSSDK.Route53Resolver@3.7.504.41
 - pkg:nuget/AWSSDK.Route53Resolver@3.7.504.5
 - pkg:nuget/AWSSDK.Route53Resolver@4.0.0
 - pkg:nuget/AWSSDK.Route53Resolver@4.0.0-preview
