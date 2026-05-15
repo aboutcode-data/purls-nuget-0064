@@ -64,5 +64,6 @@
 - pkg:nuget/Zebble.Billing.Server.AppStore@1.0.67
 - pkg:nuget/Zebble.Billing.Server.AppStore@1.0.68
 - pkg:nuget/Zebble.Billing.Server.AppStore@1.0.7
+- pkg:nuget/Zebble.Billing.Server.AppStore@1.0.74
 - pkg:nuget/Zebble.Billing.Server.AppStore@1.0.8
 - pkg:nuget/Zebble.Billing.Server.AppStore@1.0.9
