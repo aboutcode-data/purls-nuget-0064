@@ -1,1 +1,2 @@
 - pkg:nuget/Anch.Testing.Database.Configuration@3.5.0
+- pkg:nuget/Anch.Testing.Database.Configuration@3.5.7
