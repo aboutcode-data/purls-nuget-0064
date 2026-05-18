@@ -109,3 +109,4 @@
 - pkg:nuget/LineTen.Integration.Tests.Framework@2.0.85
 - pkg:nuget/LineTen.Integration.Tests.Framework@2.0.9
 - pkg:nuget/LineTen.Integration.Tests.Framework@2.0.95
+- pkg:nuget/LineTen.Integration.Tests.Framework@2.0.99
