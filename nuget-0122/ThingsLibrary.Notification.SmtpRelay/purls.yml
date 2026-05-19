@@ -1,1 +1,2 @@
 - pkg:nuget/ThingsLibrary.Notification.SmtpRelay@0.5.8
+- pkg:nuget/ThingsLibrary.Notification.SmtpRelay@0.7.4
