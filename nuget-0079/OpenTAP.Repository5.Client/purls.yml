@@ -169,3 +169,5 @@
 - pkg:nuget/OpenTAP.Repository5.Client@5.9.0
 - pkg:nuget/OpenTAP.Repository5.Client@5.9.0-beta.5
 - pkg:nuget/OpenTAP.Repository5.Client@5.9.1-beta.4
+- pkg:nuget/OpenTAP.Repository5.Client@5.9.2
+- pkg:nuget/OpenTAP.Repository5.Client@5.9.2-rc.1
