@@ -66,6 +66,7 @@
 - pkg:nuget/Cratis@20.12.2
 - pkg:nuget/Cratis@20.24.10
 - pkg:nuget/Cratis@20.24.2
+- pkg:nuget/Cratis@20.27.0
 - pkg:nuget/Cratis@20.4.2
 - pkg:nuget/Cratis@20.8.2
 - pkg:nuget/Cratis@3.0.0
