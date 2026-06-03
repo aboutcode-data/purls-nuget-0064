@@ -52,6 +52,8 @@
 - pkg:nuget/Sportradar.OddsFeed.SDKCore@2.4.2
 - pkg:nuget/Sportradar.OddsFeed.SDKCore@3.0.0
 - pkg:nuget/Sportradar.OddsFeed.SDKCore@3.1.0
+- pkg:nuget/Sportradar.OddsFeed.SDKCore@3.10.0
+- pkg:nuget/Sportradar.OddsFeed.SDKCore@3.11.0
 - pkg:nuget/Sportradar.OddsFeed.SDKCore@3.2.0
 - pkg:nuget/Sportradar.OddsFeed.SDKCore@3.3.0
 - pkg:nuget/Sportradar.OddsFeed.SDKCore@3.4.0
