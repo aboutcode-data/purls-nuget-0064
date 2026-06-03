@@ -191,3 +191,4 @@
 - pkg:nuget/CyberEye.EventBusRabbitMq.Lib@2.0.7
 - pkg:nuget/CyberEye.EventBusRabbitMq.Lib@2.0.8
 - pkg:nuget/CyberEye.EventBusRabbitMq.Lib@2.0.9
+- pkg:nuget/CyberEye.EventBusRabbitMq.Lib@3.0.3
