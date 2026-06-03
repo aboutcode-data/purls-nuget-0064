@@ -35,3 +35,4 @@
 - pkg:nuget/Signals.Core@2.0.8
 - pkg:nuget/Signals.Core@2.0.9
 - pkg:nuget/Signals.Core@3.0.0
+- pkg:nuget/Signals.Core@4.0.0
