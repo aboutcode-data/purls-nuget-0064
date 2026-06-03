@@ -35,3 +35,6 @@
 - pkg:nuget/migtool@5.3.0
 - pkg:nuget/migtool@5.4.0
 - pkg:nuget/migtool@8.0.0
+- pkg:nuget/migtool@8.0.3
+- pkg:nuget/migtool@8.2.0
+- pkg:nuget/migtool@9.0.0
