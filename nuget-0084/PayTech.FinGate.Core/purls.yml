@@ -79,3 +79,5 @@
 - pkg:nuget/PayTech.FinGate.Core@1.1.3.7
 - pkg:nuget/PayTech.FinGate.Core@1.1.4.8
 - pkg:nuget/PayTech.FinGate.Core@1.1.5.1
+- pkg:nuget/PayTech.FinGate.Core@1.1.5.9
+- pkg:nuget/PayTech.FinGate.Core@1.1.6.2
