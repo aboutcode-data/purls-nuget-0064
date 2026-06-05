@@ -34,3 +34,4 @@
 - pkg:nuget/Tinyfox@6.25.7-rc1
 - pkg:nuget/Tinyfox@6.25.7-rc2
 - pkg:nuget/Tinyfox@6.25.8
+- pkg:nuget/Tinyfox@6.26.6
