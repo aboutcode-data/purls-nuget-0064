@@ -131,6 +131,7 @@
 - pkg:nuget/NBitcoin@1.0.8.7
 - pkg:nuget/NBitcoin@1.0.8.8
 - pkg:nuget/NBitcoin@1.0.8.9
+- pkg:nuget/NBitcoin@10.0.6
 - pkg:nuget/NBitcoin@2.0.0
 - pkg:nuget/NBitcoin@2.0.1
 - pkg:nuget/NBitcoin@2.0.2
