@@ -4,12 +4,14 @@
 - pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrvExtNet.Core.SDK@1.0.7066
 - pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrvExtNet.Core.SDK@1.0.7198
 - pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrvExtNet.Core.SDK@1.0.7983
+- pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrvExtNet.Core.SDK@1.1.198
 - pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrvExtNet.Core.SDK@2.0.5973
 - pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrvExtNet.Core.SDK@2.0.6955
 - pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrvExtNet.Core.SDK@2.0.7008
 - pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrvExtNet.Core.SDK@2.0.7066
 - pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrvExtNet.Core.SDK@2.0.7198
 - pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrvExtNet.Core.SDK@2.0.7983
+- pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrvExtNet.Core.SDK@2.1.198
 - pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrvExtNet.Core.SDK@3.0.5973
 - pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrvExtNet.Core.SDK@3.0.6418
 - pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrvExtNet.Core.SDK@3.0.6955
@@ -17,3 +19,4 @@
 - pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrvExtNet.Core.SDK@3.0.7066
 - pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrvExtNet.Core.SDK@3.0.7198
 - pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrvExtNet.Core.SDK@3.0.7983
+- pkg:nuget/Beckhoff.TwinCAT.HMI.TcHmiSrvExtNet.Core.SDK@3.1.198
