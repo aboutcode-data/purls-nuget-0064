@@ -64,3 +64,4 @@
 - pkg:nuget/nanoFramework.Iot.Device.Ssd13xx@1.3.87
 - pkg:nuget/nanoFramework.Iot.Device.Ssd13xx@2.0.0-preview.16
 - pkg:nuget/nanoFramework.Iot.Device.Ssd13xx@2.0.0-preview.49
+- pkg:nuget/nanoFramework.Iot.Device.Ssd13xx@2.0.0-preview.73
