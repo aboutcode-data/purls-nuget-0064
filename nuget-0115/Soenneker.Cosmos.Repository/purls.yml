@@ -7675,3 +7675,6 @@
 - pkg:nuget/Soenneker.Cosmos.Repository@4.0.7888
 - pkg:nuget/Soenneker.Cosmos.Repository@4.0.7889
 - pkg:nuget/Soenneker.Cosmos.Repository@4.0.7900
+- pkg:nuget/Soenneker.Cosmos.Repository@4.0.7902
+- pkg:nuget/Soenneker.Cosmos.Repository@4.0.7903
+- pkg:nuget/Soenneker.Cosmos.Repository@4.0.7904
