@@ -323,6 +323,7 @@
 - pkg:nuget/Sailfish@4.0.182
 - pkg:nuget/Sailfish@4.0.192
 - pkg:nuget/Sailfish@4.0.204
+- pkg:nuget/Sailfish@4.0.212
 - pkg:nuget/Sailfish@4.0.25
 - pkg:nuget/Sailfish@4.0.97
 - pkg:nuget/Sailfish@4.0.99
