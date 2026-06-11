@@ -1,5 +1,6 @@
 - pkg:nuget/FireSoft.Data.SqlClient@10.0.10
 - pkg:nuget/FireSoft.Data.SqlClient@10.0.18
+- pkg:nuget/FireSoft.Data.SqlClient@10.0.23
 - pkg:nuget/FireSoft.Data.SqlClient@6.0.1.1
 - pkg:nuget/FireSoft.Data.SqlClient@6.1.2
 - pkg:nuget/FireSoft.Data.SqlClient@6.1.3
