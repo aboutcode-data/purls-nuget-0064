@@ -350,3 +350,4 @@
 - pkg:nuget/Marten@9.5.0
 - pkg:nuget/Marten@9.6.0
 - pkg:nuget/Marten@9.7.0
+- pkg:nuget/Marten@9.7.2
