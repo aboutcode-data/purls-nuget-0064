@@ -10,3 +10,4 @@
 - pkg:nuget/LaunchDarkly.ServerSdk.Consul@4.0.0-alpha.1
 - pkg:nuget/LaunchDarkly.ServerSdk.Consul@4.0.0-alpha.2
 - pkg:nuget/LaunchDarkly.ServerSdk.Consul@5.0.0
+- pkg:nuget/LaunchDarkly.ServerSdk.Consul@5.0.1
