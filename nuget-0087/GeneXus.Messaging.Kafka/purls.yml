@@ -21,4 +21,6 @@
 - pkg:nuget/GeneXus.Messaging.Kafka@1.35.15
 - pkg:nuget/GeneXus.Messaging.Kafka@1.35.3
 - pkg:nuget/GeneXus.Messaging.Kafka@1.36.2
+- pkg:nuget/GeneXus.Messaging.Kafka@1.36.4
+- pkg:nuget/GeneXus.Messaging.Kafka@1.36.6
 - pkg:nuget/GeneXus.Messaging.Kafka@1.37.2
