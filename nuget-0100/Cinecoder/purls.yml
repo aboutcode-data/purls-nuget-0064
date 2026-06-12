@@ -366,6 +366,7 @@
 - pkg:nuget/Cinecoder@4.24.12.40151-alpha
 - pkg:nuget/Cinecoder@4.24.13.60721-alpha
 - pkg:nuget/Cinecoder@4.24.14.2779-alpha
+- pkg:nuget/Cinecoder@4.24.18.21348
 - pkg:nuget/Cinecoder@4.24.2.64343-alpha
 - pkg:nuget/Cinecoder@4.24.3.29776-alpha
 - pkg:nuget/Cinecoder@4.24.4.39209-alpha
