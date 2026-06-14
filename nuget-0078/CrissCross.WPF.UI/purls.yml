@@ -48,3 +48,4 @@
 - pkg:nuget/CrissCross.WPF.UI@2.5.3
 - pkg:nuget/CrissCross.WPF.UI@2.5.4
 - pkg:nuget/CrissCross.WPF.UI@2.6.2
+- pkg:nuget/CrissCross.WPF.UI@3.3.6
