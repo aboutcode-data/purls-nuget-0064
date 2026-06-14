@@ -2,3 +2,5 @@
 - pkg:nuget/Lightsoft.Blazor@0.0.0.1-beta2
 - pkg:nuget/Lightsoft.Blazor@0.0.0.1-beta3
 - pkg:nuget/Lightsoft.Blazor@0.0.0.1-beta4
+- pkg:nuget/Lightsoft.Blazor@1.0.0-beta2
+- pkg:nuget/Lightsoft.Blazor@1.0.0-beta3
