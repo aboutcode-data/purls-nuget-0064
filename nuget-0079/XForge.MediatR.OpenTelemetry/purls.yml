@@ -1,0 +1,4 @@
+- pkg:nuget/XForge.MediatR.OpenTelemetry@0.11.0
+- pkg:nuget/XForge.MediatR.OpenTelemetry@1.0.0
+- pkg:nuget/XForge.MediatR.OpenTelemetry@1.0.1
+- pkg:nuget/XForge.MediatR.OpenTelemetry@1.0.2
