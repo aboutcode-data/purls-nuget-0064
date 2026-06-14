@@ -1,4 +1,9 @@
 - pkg:nuget/Soenneker.Quark.Gen.Themes@4.0.111
+- pkg:nuget/Soenneker.Quark.Gen.Themes@4.0.125
+- pkg:nuget/Soenneker.Quark.Gen.Themes@4.0.127
+- pkg:nuget/Soenneker.Quark.Gen.Themes@4.0.128
+- pkg:nuget/Soenneker.Quark.Gen.Themes@4.0.129
+- pkg:nuget/Soenneker.Quark.Gen.Themes@4.0.141
 - pkg:nuget/Soenneker.Quark.Gen.Themes@4.0.22
 - pkg:nuget/Soenneker.Quark.Gen.Themes@4.0.27
 - pkg:nuget/Soenneker.Quark.Gen.Themes@4.0.36
