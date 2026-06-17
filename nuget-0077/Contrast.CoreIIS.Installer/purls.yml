@@ -109,3 +109,4 @@
 - pkg:nuget/Contrast.CoreIIS.Installer@4.5.0
 - pkg:nuget/Contrast.CoreIIS.Installer@4.5.1
 - pkg:nuget/Contrast.CoreIIS.Installer@5.0.8
+- pkg:nuget/Contrast.CoreIIS.Installer@60.1.0
