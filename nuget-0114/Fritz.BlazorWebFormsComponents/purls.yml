@@ -21,3 +21,4 @@
 - pkg:nuget/Fritz.BlazorWebFormsComponents@0.8.1
 - pkg:nuget/Fritz.BlazorWebFormsComponents@0.8.2
 - pkg:nuget/Fritz.BlazorWebFormsComponents@0.9.0
+- pkg:nuget/Fritz.BlazorWebFormsComponents@1.0.0
