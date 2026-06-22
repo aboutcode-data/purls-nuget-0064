@@ -188,3 +188,4 @@
 - pkg:nuget/DragonflySchema@1.9.1.8
 - pkg:nuget/DragonflySchema@1.9.1.9
 - pkg:nuget/DragonflySchema@2.100.2
+- pkg:nuget/DragonflySchema@2.103.1
