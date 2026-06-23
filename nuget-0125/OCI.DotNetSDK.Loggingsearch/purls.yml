@@ -51,6 +51,7 @@
 - pkg:nuget/OCI.DotNetSDK.Loggingsearch@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Loggingsearch@14.1.0
 - pkg:nuget/OCI.DotNetSDK.Loggingsearch@14.2.0
+- pkg:nuget/OCI.DotNetSDK.Loggingsearch@140.0.0
 - pkg:nuget/OCI.DotNetSDK.Loggingsearch@15.0.0
 - pkg:nuget/OCI.DotNetSDK.Loggingsearch@15.1.0
 - pkg:nuget/OCI.DotNetSDK.Loggingsearch@15.2.0

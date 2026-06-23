@@ -54,6 +54,7 @@
 - pkg:nuget/OCI.DotNetSDK.Blockchain@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Blockchain@14.1.0
 - pkg:nuget/OCI.DotNetSDK.Blockchain@14.2.0
+- pkg:nuget/OCI.DotNetSDK.Blockchain@140.0.0
 - pkg:nuget/OCI.DotNetSDK.Blockchain@15.0.0
 - pkg:nuget/OCI.DotNetSDK.Blockchain@15.1.0
 - pkg:nuget/OCI.DotNetSDK.Blockchain@15.2.0
