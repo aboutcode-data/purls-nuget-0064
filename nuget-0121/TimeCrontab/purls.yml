@@ -22,3 +22,11 @@
 - pkg:nuget/TimeCrontab@3.5.1
 - pkg:nuget/TimeCrontab@3.6.0
 - pkg:nuget/TimeCrontab@3.7.0
+- pkg:nuget/TimeCrontab@3.7.1
+- pkg:nuget/TimeCrontab@3.7.2
+- pkg:nuget/TimeCrontab@3.7.3
+- pkg:nuget/TimeCrontab@3.8.0
+- pkg:nuget/TimeCrontab@3.8.1
+- pkg:nuget/TimeCrontab@3.9.0
+- pkg:nuget/TimeCrontab@3.9.1
+- pkg:nuget/TimeCrontab@3.9.2
