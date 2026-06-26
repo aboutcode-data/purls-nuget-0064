@@ -98,3 +98,4 @@
 - pkg:nuget/ZeroInstall.DesktopIntegration@2.27.8
 - pkg:nuget/ZeroInstall.DesktopIntegration@2.28.0
 - pkg:nuget/ZeroInstall.DesktopIntegration@2.28.7
+- pkg:nuget/ZeroInstall.DesktopIntegration@2.29.1
