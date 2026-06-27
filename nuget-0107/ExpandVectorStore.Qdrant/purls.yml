@@ -1,1 +1,2 @@
 - pkg:nuget/ExpandVectorStore.Qdrant@1.0.0
+- pkg:nuget/ExpandVectorStore.Qdrant@1.0.1
