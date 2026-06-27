@@ -7,6 +7,7 @@
 - pkg:nuget/Pulumi.Containerregistry@0.0.16
 - pkg:nuget/Pulumi.Containerregistry@0.0.17
 - pkg:nuget/Pulumi.Containerregistry@0.0.18
+- pkg:nuget/Pulumi.Containerregistry@0.0.19
 - pkg:nuget/Pulumi.Containerregistry@0.0.3
 - pkg:nuget/Pulumi.Containerregistry@0.0.4
 - pkg:nuget/Pulumi.Containerregistry@0.0.5
@@ -73,3 +74,5 @@
 - pkg:nuget/Pulumi.Containerregistry@1.0.0-alpha.1758440640
 - pkg:nuget/Pulumi.Containerregistry@1.0.0-alpha.1758441168
 - pkg:nuget/Pulumi.Containerregistry@1.0.0-alpha.1782298401
+- pkg:nuget/Pulumi.Containerregistry@1.0.0-alpha.1782520043
+- pkg:nuget/Pulumi.Containerregistry@1.0.0-alpha.1782520532
