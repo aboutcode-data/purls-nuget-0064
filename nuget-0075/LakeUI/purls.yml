@@ -3,4 +3,6 @@
 - pkg:nuget/LakeUI@2.12.0
 - pkg:nuget/LakeUI@2.13.0
 - pkg:nuget/LakeUI@2.17.0
+- pkg:nuget/LakeUI@2.21.0
+- pkg:nuget/LakeUI@2.22.0
 - pkg:nuget/LakeUI@2.3.0
