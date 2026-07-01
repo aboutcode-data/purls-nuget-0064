@@ -2,6 +2,9 @@
 - pkg:nuget/Vintasoft.Imaging.Ocr.ML@10.0.12.1
 - pkg:nuget/Vintasoft.Imaging.Ocr.ML@10.0.14.1
 - pkg:nuget/Vintasoft.Imaging.Ocr.ML@10.0.8.1
+- pkg:nuget/Vintasoft.Imaging.Ocr.ML@10.1.0.1
+- pkg:nuget/Vintasoft.Imaging.Ocr.ML@10.1.1.1
+- pkg:nuget/Vintasoft.Imaging.Ocr.ML@10.1.2.1
 - pkg:nuget/Vintasoft.Imaging.Ocr.ML@7.5.0.1
 - pkg:nuget/Vintasoft.Imaging.Ocr.ML@7.5.1.1
 - pkg:nuget/Vintasoft.Imaging.Ocr.ML@7.5.10.1
