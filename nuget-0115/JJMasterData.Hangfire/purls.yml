@@ -7,3 +7,4 @@
 - pkg:nuget/JJMasterData.Hangfire@2.0.5
 - pkg:nuget/JJMasterData.Hangfire@2.0.6
 - pkg:nuget/JJMasterData.Hangfire@2.0.6-preview
+- pkg:nuget/JJMasterData.Hangfire@5.0.0-preview9
