@@ -18,3 +18,4 @@
 - pkg:nuget/Vonage.Client.Video@2.30.2
 - pkg:nuget/Vonage.Client.Video@2.31.0
 - pkg:nuget/Vonage.Client.Video@2.31.1
+- pkg:nuget/Vonage.Client.Video@2.34.1
