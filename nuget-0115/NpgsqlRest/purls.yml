@@ -63,4 +63,5 @@
 - pkg:nuget/NpgsqlRest@3.15.0
 - pkg:nuget/NpgsqlRest@3.16.0
 - pkg:nuget/NpgsqlRest@3.18.1
+- pkg:nuget/NpgsqlRest@3.19.0
 - pkg:nuget/NpgsqlRest@3.4.8
