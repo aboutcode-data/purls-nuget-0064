@@ -4,3 +4,5 @@
 - pkg:nuget/Lumeo.CodeEditor@3.5.2
 - pkg:nuget/Lumeo.CodeEditor@3.5.3
 - pkg:nuget/Lumeo.CodeEditor@3.7.1
+- pkg:nuget/Lumeo.CodeEditor@4.0.1
+- pkg:nuget/Lumeo.CodeEditor@4.0.2
