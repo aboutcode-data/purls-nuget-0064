@@ -22,6 +22,7 @@
 - pkg:nuget/Skyline.DataMiner.VisualStudioTemplates.Internal@2.0.2
 - pkg:nuget/Skyline.DataMiner.VisualStudioTemplates.Internal@2.1.0
 - pkg:nuget/Skyline.DataMiner.VisualStudioTemplates.Internal@2.10.0
+- pkg:nuget/Skyline.DataMiner.VisualStudioTemplates.Internal@2.10.2
 - pkg:nuget/Skyline.DataMiner.VisualStudioTemplates.Internal@2.2.0
 - pkg:nuget/Skyline.DataMiner.VisualStudioTemplates.Internal@2.2.1
 - pkg:nuget/Skyline.DataMiner.VisualStudioTemplates.Internal@2.2.2
