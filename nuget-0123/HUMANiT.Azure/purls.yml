@@ -57,6 +57,8 @@
 - pkg:nuget/HUMANiT.Azure@1.2.0-rc-3041
 - pkg:nuget/HUMANiT.Azure@1.2.0-rc-3045
 - pkg:nuget/HUMANiT.Azure@1.2.0-rc-3056
+- pkg:nuget/HUMANiT.Azure@10.0.0
+- pkg:nuget/HUMANiT.Azure@10.0.0-alpha-3316
 - pkg:nuget/HUMANiT.Azure@2.0.0
 - pkg:nuget/HUMANiT.Azure@2.0.0-alpha-3095
 - pkg:nuget/HUMANiT.Azure@2.0.0-alpha-3112
