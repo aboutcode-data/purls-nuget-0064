@@ -43,6 +43,7 @@
 - pkg:nuget/Robhan.CdkLib.Utils@0.0.286
 - pkg:nuget/Robhan.CdkLib.Utils@0.0.289
 - pkg:nuget/Robhan.CdkLib.Utils@0.0.29
+- pkg:nuget/Robhan.CdkLib.Utils@0.0.299
 - pkg:nuget/Robhan.CdkLib.Utils@0.0.30
 - pkg:nuget/Robhan.CdkLib.Utils@0.0.31
 - pkg:nuget/Robhan.CdkLib.Utils@0.0.32
