@@ -18,3 +18,4 @@
 - pkg:nuget/MSL.Pool@5.0.1
 - pkg:nuget/MSL.Pool@6.0.0
 - pkg:nuget/MSL.Pool@7.0.0
+- pkg:nuget/MSL.Pool@7.1.0
