@@ -12,3 +12,4 @@
 - pkg:nuget/Azure.ResourceManager.Monitor@1.4.0-beta.1
 - pkg:nuget/Azure.ResourceManager.Monitor@1.4.0-beta.2
 - pkg:nuget/Azure.ResourceManager.Monitor@1.4.0-beta.3
+- pkg:nuget/Azure.ResourceManager.Monitor@1.4.0-beta.5
