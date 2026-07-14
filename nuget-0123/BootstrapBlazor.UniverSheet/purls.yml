@@ -1,3 +1,5 @@
+- pkg:nuget/BootstrapBlazor.UniverSheet@10.0.13
+- pkg:nuget/BootstrapBlazor.UniverSheet@10.0.14
 - pkg:nuget/BootstrapBlazor.UniverSheet@9.0.0
 - pkg:nuget/BootstrapBlazor.UniverSheet@9.0.0-beta01
 - pkg:nuget/BootstrapBlazor.UniverSheet@9.0.0-beta02
