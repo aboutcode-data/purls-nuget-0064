@@ -1,4 +1,5 @@
 - pkg:nuget/Rsk.Saml.OpenIddict.AspNetCore.Identity@10.0.0
+- pkg:nuget/Rsk.Saml.OpenIddict.AspNetCore.Identity@12.0.0
 - pkg:nuget/Rsk.Saml.OpenIddict.AspNetCore.Identity@8.0.0
 - pkg:nuget/Rsk.Saml.OpenIddict.AspNetCore.Identity@8.1.0
 - pkg:nuget/Rsk.Saml.OpenIddict.AspNetCore.Identity@9.0.0
