@@ -1,2 +1,4 @@
 - pkg:nuget/Alva.ServiceKit.IdentityService@1.0.0
 - pkg:nuget/Alva.ServiceKit.IdentityService@1.0.2
+- pkg:nuget/Alva.ServiceKit.IdentityService@3.1.0
+- pkg:nuget/Alva.ServiceKit.IdentityService@3.1.1
