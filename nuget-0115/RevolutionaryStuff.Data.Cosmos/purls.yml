@@ -14,6 +14,7 @@
 - pkg:nuget/RevolutionaryStuff.Data.Cosmos@4.158.100
 - pkg:nuget/RevolutionaryStuff.Data.Cosmos@4.16.80
 - pkg:nuget/RevolutionaryStuff.Data.Cosmos@4.162.100
+- pkg:nuget/RevolutionaryStuff.Data.Cosmos@4.165.100
 - pkg:nuget/RevolutionaryStuff.Data.Cosmos@4.17.80
 - pkg:nuget/RevolutionaryStuff.Data.Cosmos@4.18.80
 - pkg:nuget/RevolutionaryStuff.Data.Cosmos@4.19.80
