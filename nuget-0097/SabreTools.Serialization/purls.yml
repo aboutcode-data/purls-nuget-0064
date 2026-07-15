@@ -56,3 +56,4 @@
 - pkg:nuget/SabreTools.Serialization@1.9.5
 - pkg:nuget/SabreTools.Serialization@1.9.6
 - pkg:nuget/SabreTools.Serialization@2.0.0
+- pkg:nuget/SabreTools.Serialization@3.0.0
