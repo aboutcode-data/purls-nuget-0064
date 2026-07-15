@@ -31,6 +31,8 @@
 - pkg:nuget/OneScriptRT@10.0.18
 - pkg:nuget/OneScriptRT@10.0.19
 - pkg:nuget/OneScriptRT@10.0.24
+- pkg:nuget/OneScriptRT@10.0.32
+- pkg:nuget/OneScriptRT@10.0.38
 - pkg:nuget/OneScriptRT@10.0.9
 - pkg:nuget/OneScriptRT@6.0.0
 - pkg:nuget/OneScriptRT@6.1.0
