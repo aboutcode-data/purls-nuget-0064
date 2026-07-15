@@ -14,3 +14,5 @@
 - pkg:nuget/Wave5.UI.Blazor@3.0.0
 - pkg:nuget/Wave5.UI.Blazor@3.0.1
 - pkg:nuget/Wave5.UI.Blazor@3.1.0
+- pkg:nuget/Wave5.UI.Blazor@3.3.1
+- pkg:nuget/Wave5.UI.Blazor@4.0.1
