@@ -16,6 +16,7 @@
 - pkg:nuget/Leosac.CredentialProvisioning.API@1.17.1
 - pkg:nuget/Leosac.CredentialProvisioning.API@1.18.0
 - pkg:nuget/Leosac.CredentialProvisioning.API@1.18.1
+- pkg:nuget/Leosac.CredentialProvisioning.API@1.23.1
 - pkg:nuget/Leosac.CredentialProvisioning.API@1.6.0
 - pkg:nuget/Leosac.CredentialProvisioning.API@1.6.1
 - pkg:nuget/Leosac.CredentialProvisioning.API@1.6.2
