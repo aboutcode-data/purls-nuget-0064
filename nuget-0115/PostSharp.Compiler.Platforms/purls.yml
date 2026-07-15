@@ -7,4 +7,5 @@
 - pkg:nuget/PostSharp.Compiler.Platforms@2025.1.7
 - pkg:nuget/PostSharp.Compiler.Platforms@2025.1.8
 - pkg:nuget/PostSharp.Compiler.Platforms@2025.1.9
+- pkg:nuget/PostSharp.Compiler.Platforms@2026.0.10
 - pkg:nuget/PostSharp.Compiler.Platforms@2026.0.4-rc
