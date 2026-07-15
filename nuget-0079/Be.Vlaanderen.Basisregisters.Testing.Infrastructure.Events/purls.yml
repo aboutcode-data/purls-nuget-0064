@@ -17,3 +17,4 @@
 - pkg:nuget/Be.Vlaanderen.Basisregisters.Testing.Infrastructure.Events@3.0.0
 - pkg:nuget/Be.Vlaanderen.Basisregisters.Testing.Infrastructure.Events@4.0.0
 - pkg:nuget/Be.Vlaanderen.Basisregisters.Testing.Infrastructure.Events@5.0.0
+- pkg:nuget/Be.Vlaanderen.Basisregisters.Testing.Infrastructure.Events@6.0.0
