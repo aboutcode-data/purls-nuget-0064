@@ -151,3 +151,4 @@
 - pkg:nuget/SyncSoft.App.RabbitMQ@4.6.0
 - pkg:nuget/SyncSoft.App.RabbitMQ@4.6.0-alpha3
 - pkg:nuget/SyncSoft.App.RabbitMQ@5.0.0-alpha3
+- pkg:nuget/SyncSoft.App.RabbitMQ@5.0.0-alpha4
