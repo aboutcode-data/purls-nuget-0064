@@ -1,4 +1,5 @@
 - pkg:nuget/Photoroom@0.0.0-dev
+- pkg:nuget/Photoroom@0.0.0-dev.31
 - pkg:nuget/Photoroom@0.0.0-dev.5
 - pkg:nuget/Photoroom@0.0.0-dev.6
 - pkg:nuget/Photoroom@0.0.0-dev.7
