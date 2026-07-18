@@ -23,6 +23,7 @@
 - pkg:nuget/Leosac.CredentialProvisioning.Core@1.2.0
 - pkg:nuget/Leosac.CredentialProvisioning.Core@1.2.1
 - pkg:nuget/Leosac.CredentialProvisioning.Core@1.23.1
+- pkg:nuget/Leosac.CredentialProvisioning.Core@1.24.0
 - pkg:nuget/Leosac.CredentialProvisioning.Core@1.4.0
 - pkg:nuget/Leosac.CredentialProvisioning.Core@1.4.1
 - pkg:nuget/Leosac.CredentialProvisioning.Core@1.4.2
