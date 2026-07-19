@@ -118,3 +118,4 @@
 - pkg:nuget/ac-library-csharp@3.9.1-atcoder1
 - pkg:nuget/ac-library-csharp@3.9.2
 - pkg:nuget/ac-library-csharp@3.9.2-atcoder1
+- pkg:nuget/ac-library-csharp@4.1.1-alpha2
