@@ -42,6 +42,7 @@
 - pkg:nuget/SDI.Integracion.ServiceBus.Constantes@37.44.1
 - pkg:nuget/SDI.Integracion.ServiceBus.Constantes@38.1.1
 - pkg:nuget/SDI.Integracion.ServiceBus.Constantes@38.1.2
+- pkg:nuget/SDI.Integracion.ServiceBus.Constantes@40.1.1
 - pkg:nuget/SDI.Integracion.ServiceBus.Constantes@5.13.1
 - pkg:nuget/SDI.Integracion.ServiceBus.Constantes@6.14.1
 - pkg:nuget/SDI.Integracion.ServiceBus.Constantes@6.14.2
