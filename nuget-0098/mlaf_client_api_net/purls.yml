@@ -1,3 +1,4 @@
 - pkg:nuget/mlaf_client_api_net@1.0.0
 - pkg:nuget/mlaf_client_api_net@1.0.1
 - pkg:nuget/mlaf_client_api_net@1.0.2
+- pkg:nuget/mlaf_client_api_net@1.1.4
