@@ -1,3 +1,5 @@
+- pkg:nuget/Piral.Blazor.DevServer@10.0.19-pre.12
+- pkg:nuget/Piral.Blazor.DevServer@10.0.19-pre.13
 - pkg:nuget/Piral.Blazor.DevServer@6.0.3
 - pkg:nuget/Piral.Blazor.DevServer@6.0.3-pre.20220629.7
 - pkg:nuget/Piral.Blazor.DevServer@6.0.3-pre.20220701.4
