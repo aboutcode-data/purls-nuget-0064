@@ -1,5 +1,6 @@
 - pkg:nuget/Indigina.Dcm.SearchEngine.Client@1.0.1
 - pkg:nuget/Indigina.Dcm.SearchEngine.Client@1.0.10
+- pkg:nuget/Indigina.Dcm.SearchEngine.Client@1.0.102
 - pkg:nuget/Indigina.Dcm.SearchEngine.Client@1.0.11
 - pkg:nuget/Indigina.Dcm.SearchEngine.Client@1.0.12
 - pkg:nuget/Indigina.Dcm.SearchEngine.Client@1.0.13
