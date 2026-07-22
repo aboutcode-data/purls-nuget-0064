@@ -55,6 +55,7 @@
 - pkg:nuget/Azure.Storage.Blobs@12.25.1
 - pkg:nuget/Azure.Storage.Blobs@12.26.0-beta.1
 - pkg:nuget/Azure.Storage.Blobs@12.3.0
+- pkg:nuget/Azure.Storage.Blobs@12.30.0-beta.1
 - pkg:nuget/Azure.Storage.Blobs@12.4.0
 - pkg:nuget/Azure.Storage.Blobs@12.4.1
 - pkg:nuget/Azure.Storage.Blobs@12.4.2
