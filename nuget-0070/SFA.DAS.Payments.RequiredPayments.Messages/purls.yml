@@ -47,3 +47,4 @@
 - pkg:nuget/SFA.DAS.Payments.RequiredPayments.Messages@2.0.13-prerelease-3
 - pkg:nuget/SFA.DAS.Payments.RequiredPayments.Messages@2.0.15
 - pkg:nuget/SFA.DAS.Payments.RequiredPayments.Messages@2.0.17-prerelease-3
+- pkg:nuget/SFA.DAS.Payments.RequiredPayments.Messages@2.0.20-prerelease-2
