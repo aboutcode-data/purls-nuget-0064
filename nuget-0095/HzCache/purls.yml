@@ -9,6 +9,7 @@
 - pkg:nuget/HzCache@0.0.12
 - pkg:nuget/HzCache@0.0.13
 - pkg:nuget/HzCache@0.0.15
+- pkg:nuget/HzCache@0.0.18-beta-1
 - pkg:nuget/HzCache@0.0.2-preview-1
 - pkg:nuget/HzCache@0.0.2-preview-2
 - pkg:nuget/HzCache@0.0.3
