@@ -1,5 +1,10 @@
 - pkg:nuget/Syncfusion.SmartTableExtractor.WinForms@33.1.45
 - pkg:nuget/Syncfusion.SmartTableExtractor.WinForms@33.1.46
+- pkg:nuget/Syncfusion.SmartTableExtractor.WinForms@33.2.10
+- pkg:nuget/Syncfusion.SmartTableExtractor.WinForms@33.2.12
 - pkg:nuget/Syncfusion.SmartTableExtractor.WinForms@33.2.3
 - pkg:nuget/Syncfusion.SmartTableExtractor.WinForms@33.2.6
 - pkg:nuget/Syncfusion.SmartTableExtractor.WinForms@33.2.7
+- pkg:nuget/Syncfusion.SmartTableExtractor.WinForms@33.2.8
+- pkg:nuget/Syncfusion.SmartTableExtractor.WinForms@34.1.31
+- pkg:nuget/Syncfusion.SmartTableExtractor.WinForms@34.1.32
