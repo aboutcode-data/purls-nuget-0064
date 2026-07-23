@@ -2,6 +2,14 @@
 - pkg:nuget/Soenneker.GitLab.HttpClients@4.0.19
 - pkg:nuget/Soenneker.GitLab.HttpClients@4.0.2
 - pkg:nuget/Soenneker.GitLab.HttpClients@4.0.22
+- pkg:nuget/Soenneker.GitLab.HttpClients@4.0.25
+- pkg:nuget/Soenneker.GitLab.HttpClients@4.0.26
 - pkg:nuget/Soenneker.GitLab.HttpClients@4.0.3
+- pkg:nuget/Soenneker.GitLab.HttpClients@4.0.31
+- pkg:nuget/Soenneker.GitLab.HttpClients@4.0.32
+- pkg:nuget/Soenneker.GitLab.HttpClients@4.0.33
+- pkg:nuget/Soenneker.GitLab.HttpClients@4.0.34
+- pkg:nuget/Soenneker.GitLab.HttpClients@4.0.44
 - pkg:nuget/Soenneker.GitLab.HttpClients@4.0.5
+- pkg:nuget/Soenneker.GitLab.HttpClients@4.0.55
 - pkg:nuget/Soenneker.GitLab.HttpClients@4.0.9
