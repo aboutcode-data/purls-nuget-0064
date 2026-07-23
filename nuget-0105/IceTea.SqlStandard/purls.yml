@@ -28,3 +28,4 @@
 - pkg:nuget/IceTea.SqlStandard@1.1.1
 - pkg:nuget/IceTea.SqlStandard@1.1.2
 - pkg:nuget/IceTea.SqlStandard@1.1.4
+- pkg:nuget/IceTea.SqlStandard@1.2.0
