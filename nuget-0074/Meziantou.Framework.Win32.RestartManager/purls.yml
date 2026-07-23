@@ -10,3 +10,4 @@
 - pkg:nuget/Meziantou.Framework.Win32.RestartManager@1.1.4
 - pkg:nuget/Meziantou.Framework.Win32.RestartManager@1.1.5
 - pkg:nuget/Meziantou.Framework.Win32.RestartManager@1.1.6
+- pkg:nuget/Meziantou.Framework.Win32.RestartManager@4.0.0
