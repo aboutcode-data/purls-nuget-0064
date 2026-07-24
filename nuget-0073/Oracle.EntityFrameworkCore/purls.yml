@@ -54,6 +54,7 @@
 - pkg:nuget/Oracle.EntityFrameworkCore@8.21.180
 - pkg:nuget/Oracle.EntityFrameworkCore@8.21.190
 - pkg:nuget/Oracle.EntityFrameworkCore@8.21.200
+- pkg:nuget/Oracle.EntityFrameworkCore@8.21.230
 - pkg:nuget/Oracle.EntityFrameworkCore@8.23.40
 - pkg:nuget/Oracle.EntityFrameworkCore@8.23.50
 - pkg:nuget/Oracle.EntityFrameworkCore@8.23.60
