@@ -18,3 +18,4 @@
 - pkg:nuget/AspectCore.Extensions.DataAnnotations@2.2.0
 - pkg:nuget/AspectCore.Extensions.DataAnnotations@2.3.0
 - pkg:nuget/AspectCore.Extensions.DataAnnotations@2.4.0
+- pkg:nuget/AspectCore.Extensions.DataAnnotations@2.6.3
