@@ -1,2 +1,4 @@
 - pkg:nuget/Nabs.Launchpad.Core.MigrationsCli@10.0.216
 - pkg:nuget/Nabs.Launchpad.Core.MigrationsCli@10.0.217
+- pkg:nuget/Nabs.Launchpad.Core.MigrationsCli@10.0.240
+- pkg:nuget/Nabs.Launchpad.Core.MigrationsCli@10.0.249
