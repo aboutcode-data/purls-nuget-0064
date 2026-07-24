@@ -17,3 +17,4 @@
 - pkg:nuget/ReindexerNet.Remote.Grpc@0.4.5.3032
 - pkg:nuget/ReindexerNet.Remote.Grpc@0.4.7.3032
 - pkg:nuget/ReindexerNet.Remote.Grpc@0.4.8.3032
+- pkg:nuget/ReindexerNet.Remote.Grpc@0.5.1.5010
