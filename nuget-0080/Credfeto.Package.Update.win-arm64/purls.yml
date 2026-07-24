@@ -78,3 +78,9 @@
 - pkg:nuget/Credfeto.Package.Update.win-arm64@1.10.218.2510-main
 - pkg:nuget/Credfeto.Package.Update.win-arm64@1.10.218.2511-package-id-casi
 - pkg:nuget/Credfeto.Package.Update.win-arm64@1.10.219.2533-main
+- pkg:nuget/Credfeto.Package.Update.win-arm64@1.10.219.2539-main
+- pkg:nuget/Credfeto.Package.Update.win-arm64@1.10.219.2540-main
+- pkg:nuget/Credfeto.Package.Update.win-arm64@1.10.219.2541-main
+- pkg:nuget/Credfeto.Package.Update.win-arm64@1.10.219.2542-main
+- pkg:nuget/Credfeto.Package.Update.win-arm64@1.10.219.2544-main
+- pkg:nuget/Credfeto.Package.Update.win-arm64@1.10.219.2545-main
