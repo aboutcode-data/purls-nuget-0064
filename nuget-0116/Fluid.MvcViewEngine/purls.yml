@@ -128,3 +128,4 @@
 - pkg:nuget/Fluid.MvcViewEngine@2.7.0
 - pkg:nuget/Fluid.MvcViewEngine@2.8.0
 - pkg:nuget/Fluid.MvcViewEngine@2.9.0
+- pkg:nuget/Fluid.MvcViewEngine@3.0.0-beta.6
