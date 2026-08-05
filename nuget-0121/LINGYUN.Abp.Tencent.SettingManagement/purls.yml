@@ -1,3 +1,4 @@
+- pkg:nuget/LINGYUN.Abp.Tencent.SettingManagement@10.4.0
 - pkg:nuget/LINGYUN.Abp.Tencent.SettingManagement@5.1.1
 - pkg:nuget/LINGYUN.Abp.Tencent.SettingManagement@5.1.3
 - pkg:nuget/LINGYUN.Abp.Tencent.SettingManagement@5.1.4
