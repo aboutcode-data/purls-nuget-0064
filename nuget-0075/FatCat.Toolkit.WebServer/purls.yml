@@ -40,6 +40,7 @@
 - pkg:nuget/FatCat.Toolkit.WebServer@1.0.34
 - pkg:nuget/FatCat.Toolkit.WebServer@1.0.341
 - pkg:nuget/FatCat.Toolkit.WebServer@1.0.343
+- pkg:nuget/FatCat.Toolkit.WebServer@1.0.344
 - pkg:nuget/FatCat.Toolkit.WebServer@1.0.35
 - pkg:nuget/FatCat.Toolkit.WebServer@1.0.36
 - pkg:nuget/FatCat.Toolkit.WebServer@1.0.37
