@@ -85,3 +85,6 @@
 - pkg:nuget/Krosoft.Extensions.Cqrs@2026.7.12.8109
 - pkg:nuget/Krosoft.Extensions.Cqrs@2026.7.12.8110
 - pkg:nuget/Krosoft.Extensions.Cqrs@2026.7.13.8146
+- pkg:nuget/Krosoft.Extensions.Cqrs@2026.7.29.8624
+- pkg:nuget/Krosoft.Extensions.Cqrs@2026.8.7.8922
+- pkg:nuget/Krosoft.Extensions.Cqrs@2026.8.7.8923
