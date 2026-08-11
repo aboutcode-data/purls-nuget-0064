@@ -53,6 +53,7 @@
 - pkg:nuget/OCI.DotNetSDK.Managementagent@14.1.0
 - pkg:nuget/OCI.DotNetSDK.Managementagent@14.2.0
 - pkg:nuget/OCI.DotNetSDK.Managementagent@140.0.0
+- pkg:nuget/OCI.DotNetSDK.Managementagent@144.1.0
 - pkg:nuget/OCI.DotNetSDK.Managementagent@15.0.0
 - pkg:nuget/OCI.DotNetSDK.Managementagent@15.1.0
 - pkg:nuget/OCI.DotNetSDK.Managementagent@15.2.0
