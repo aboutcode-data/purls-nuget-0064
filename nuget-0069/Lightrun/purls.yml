@@ -131,3 +131,4 @@
 - pkg:nuget/Lightrun@1.9.0-beta1
 - pkg:nuget/Lightrun@1.9.0-beta2
 - pkg:nuget/Lightrun@1.9.0-beta3
+- pkg:nuget/Lightrun@1.91.0
