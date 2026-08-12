@@ -871,6 +871,7 @@
 - pkg:nuget/AWSSDK.EMRContainers@4.0.100.1
 - pkg:nuget/AWSSDK.EMRContainers@4.0.101
 - pkg:nuget/AWSSDK.EMRContainers@4.0.101.1
+- pkg:nuget/AWSSDK.EMRContainers@4.0.103.1
 - pkg:nuget/AWSSDK.EMRContainers@4.0.2.16
 - pkg:nuget/AWSSDK.EMRContainers@4.0.2.18
 - pkg:nuget/AWSSDK.EMRContainers@4.0.2.19
