@@ -38,4 +38,5 @@
 - pkg:nuget/Soenneker.Libraries.Git.Linux@3.0.97
 - pkg:nuget/Soenneker.Libraries.Git.Linux@3.0.98
 - pkg:nuget/Soenneker.Libraries.Git.Linux@3.0.99
+- pkg:nuget/Soenneker.Libraries.Git.Linux@4.0.59
 - pkg:nuget/Soenneker.Libraries.Git.Linux@4.0.6
