@@ -6,3 +6,4 @@
 - pkg:nuget/RDFSharp.Extensions.Neo4j@3.21.0
 - pkg:nuget/RDFSharp.Extensions.Neo4j@3.22.0
 - pkg:nuget/RDFSharp.Extensions.Neo4j@3.23.0
+- pkg:nuget/RDFSharp.Extensions.Neo4j@4.0.0
