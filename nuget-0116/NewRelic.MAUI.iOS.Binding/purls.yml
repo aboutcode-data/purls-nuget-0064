@@ -20,3 +20,4 @@
 - pkg:nuget/NewRelic.MAUI.iOS.Binding@7.5.4.1
 - pkg:nuget/NewRelic.MAUI.iOS.Binding@7.5.5
 - pkg:nuget/NewRelic.MAUI.iOS.Binding@7.5.8
+- pkg:nuget/NewRelic.MAUI.iOS.Binding@7.7.2
