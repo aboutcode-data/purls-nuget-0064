@@ -13,3 +13,4 @@
 - pkg:nuget/Nethermind.Crypto.Bls@1.0.4-preview.23
 - pkg:nuget/Nethermind.Crypto.Bls@1.0.4-preview.25
 - pkg:nuget/Nethermind.Crypto.Bls@1.0.5
+- pkg:nuget/Nethermind.Crypto.Bls@1.1.0
