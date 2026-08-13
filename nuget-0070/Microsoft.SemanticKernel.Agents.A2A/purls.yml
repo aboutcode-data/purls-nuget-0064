@@ -8,3 +8,4 @@
 - pkg:nuget/Microsoft.SemanticKernel.Agents.A2A@1.65.0-alpha
 - pkg:nuget/Microsoft.SemanticKernel.Agents.A2A@1.68.0-alpha
 - pkg:nuget/Microsoft.SemanticKernel.Agents.A2A@1.70.0-alpha
+- pkg:nuget/Microsoft.SemanticKernel.Agents.A2A@1.79.0-alpha
