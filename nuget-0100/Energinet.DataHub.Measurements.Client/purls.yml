@@ -24,6 +24,7 @@
 - pkg:nuget/Energinet.DataHub.Measurements.Client@11.4.0
 - pkg:nuget/Energinet.DataHub.Measurements.Client@11.6.0
 - pkg:nuget/Energinet.DataHub.Measurements.Client@11.6.3
+- pkg:nuget/Energinet.DataHub.Measurements.Client@11.7.2
 - pkg:nuget/Energinet.DataHub.Measurements.Client@2.0.0
 - pkg:nuget/Energinet.DataHub.Measurements.Client@2.0.1
 - pkg:nuget/Energinet.DataHub.Measurements.Client@2.1.0
