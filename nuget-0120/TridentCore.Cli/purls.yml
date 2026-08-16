@@ -1,1 +1,9 @@
+- pkg:nuget/TridentCore.Cli@0.11.3
+- pkg:nuget/TridentCore.Cli@0.12.1
+- pkg:nuget/TridentCore.Cli@0.18.0
+- pkg:nuget/TridentCore.Cli@0.19.1
+- pkg:nuget/TridentCore.Cli@0.21.3
 - pkg:nuget/TridentCore.Cli@0.3.0
+- pkg:nuget/TridentCore.Cli@0.4.0
+- pkg:nuget/TridentCore.Cli@0.8.17
+- pkg:nuget/TridentCore.Cli@0.8.9
