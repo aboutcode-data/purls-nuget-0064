@@ -94,3 +94,4 @@
 - pkg:nuget/LM-Kit.NET.Backend.Cuda12.Windows@2026.3.4
 - pkg:nuget/LM-Kit.NET.Backend.Cuda12.Windows@2026.6.4
 - pkg:nuget/LM-Kit.NET.Backend.Cuda12.Windows@2026.8.2
+- pkg:nuget/LM-Kit.NET.Backend.Cuda12.Windows@2026.8.4
