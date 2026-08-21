@@ -16,3 +16,4 @@
 - pkg:nuget/FreshIdentity.Core@1.0.8
 - pkg:nuget/FreshIdentity.Core@1.0.9
 - pkg:nuget/FreshIdentity.Core@2.0.0-preview.0.1
+- pkg:nuget/FreshIdentity.Core@2.0.0-preview.0.3
