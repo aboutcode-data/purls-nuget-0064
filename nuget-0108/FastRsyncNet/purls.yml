@@ -18,3 +18,4 @@
 - pkg:nuget/FastRsyncNet@2.4.2
 - pkg:nuget/FastRsyncNet@2.4.3
 - pkg:nuget/FastRsyncNet@2.4.4
+- pkg:nuget/FastRsyncNet@2.5.0
