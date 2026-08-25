@@ -49,3 +49,4 @@
 - pkg:nuget/EventForging.EventStore@1.7.0
 - pkg:nuget/EventForging.EventStore@1.8.0
 - pkg:nuget/EventForging.EventStore@1.9.0
+- pkg:nuget/EventForging.EventStore@2.1.0
