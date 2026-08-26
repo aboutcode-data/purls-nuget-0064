@@ -12,6 +12,7 @@
 - pkg:nuget/Skybrud.Essentials.Umbraco@13.0.5
 - pkg:nuget/Skybrud.Essentials.Umbraco@13.0.7
 - pkg:nuget/Skybrud.Essentials.Umbraco@17.0.0-alpha003
+- pkg:nuget/Skybrud.Essentials.Umbraco@17.0.0-alpha006
 - pkg:nuget/Skybrud.Essentials.Umbraco@2.0.0-alpha001
 - pkg:nuget/Skybrud.Essentials.Umbraco@2.0.0-alpha002
 - pkg:nuget/Skybrud.Essentials.Umbraco@2.0.0-alpha003
