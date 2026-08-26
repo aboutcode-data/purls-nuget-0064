@@ -102,6 +102,7 @@
 - pkg:nuget/BrowserStack.TestAdapter@0.4.1
 - pkg:nuget/BrowserStack.TestAdapter@0.40.0
 - pkg:nuget/BrowserStack.TestAdapter@0.41.1
+- pkg:nuget/BrowserStack.TestAdapter@0.43.2
 - pkg:nuget/BrowserStack.TestAdapter@0.5.0
 - pkg:nuget/BrowserStack.TestAdapter@0.5.1
 - pkg:nuget/BrowserStack.TestAdapter@0.5.2
