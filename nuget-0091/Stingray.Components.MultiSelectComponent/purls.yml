@@ -30,3 +30,4 @@
 - pkg:nuget/Stingray.Components.MultiSelectComponent@1.0.7
 - pkg:nuget/Stingray.Components.MultiSelectComponent@1.0.8
 - pkg:nuget/Stingray.Components.MultiSelectComponent@1.0.9
+- pkg:nuget/Stingray.Components.MultiSelectComponent@2.0.0
