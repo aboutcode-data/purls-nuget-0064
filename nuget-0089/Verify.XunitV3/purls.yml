@@ -103,3 +103,4 @@
 - pkg:nuget/Verify.XunitV3@31.22.0
 - pkg:nuget/Verify.XunitV3@31.27.0
 - pkg:nuget/Verify.XunitV3@32.0.0-beta.2
+- pkg:nuget/Verify.XunitV3@33.0.0-beta.1
