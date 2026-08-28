@@ -119,3 +119,4 @@
 - pkg:nuget/Google.Apis.BigQueryReservation.v1@1.73.0.4117
 - pkg:nuget/Google.Apis.BigQueryReservation.v1@1.75.0.4197
 - pkg:nuget/Google.Apis.BigQueryReservation.v1@1.75.0.4215
+- pkg:nuget/Google.Apis.BigQueryReservation.v1@1.76.0.4248
