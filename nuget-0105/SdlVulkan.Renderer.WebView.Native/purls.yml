@@ -11,4 +11,5 @@
 - pkg:nuget/SdlVulkan.Renderer.WebView.Native@7.21.2521%2Bf5e1ed08f161b1bad601d2afc4e33219849743db
 - pkg:nuget/SdlVulkan.Renderer.WebView.Native@7.26.2701%2B47047f655cb0e1bdf6ef4f20490be68a8b79f132
 - pkg:nuget/SdlVulkan.Renderer.WebView.Native@7.29.2781%2B70fff4820aaff533b9af76b316f286b4264975fc
+- pkg:nuget/SdlVulkan.Renderer.WebView.Native@7.30.2801%2B360a86b240be261a27d718597788442945d171c8
 - pkg:nuget/SdlVulkan.Renderer.WebView.Native@7.9.2051%2Bdb197af9252e0372c3fb8c3b5351b91b2d45f146
