@@ -31,4 +31,5 @@
 - pkg:nuget/OpenDDSharp@3.310.3-beta20775
 - pkg:nuget/OpenDDSharp@3.310.3-beta20776
 - pkg:nuget/OpenDDSharp@3.330.1-beta20781
+- pkg:nuget/OpenDDSharp@3.340.1-beta20804
 - pkg:nuget/OpenDDSharp@7.0.21123.8-alpha8
