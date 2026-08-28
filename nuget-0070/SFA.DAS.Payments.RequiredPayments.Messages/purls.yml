@@ -50,3 +50,4 @@
 - pkg:nuget/SFA.DAS.Payments.RequiredPayments.Messages@2.0.20-prerelease-2
 - pkg:nuget/SFA.DAS.Payments.RequiredPayments.Messages@2.0.21
 - pkg:nuget/SFA.DAS.Payments.RequiredPayments.Messages@2.0.21-prerelease-9
+- pkg:nuget/SFA.DAS.Payments.RequiredPayments.Messages@2.0.22
