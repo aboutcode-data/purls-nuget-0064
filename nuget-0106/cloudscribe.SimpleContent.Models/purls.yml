@@ -23,6 +23,7 @@
 - pkg:nuget/cloudscribe.SimpleContent.Models@1.1.1-rc20170526
 - pkg:nuget/cloudscribe.SimpleContent.Models@1.1.1-rc20170609
 - pkg:nuget/cloudscribe.SimpleContent.Models@1.1.2
+- pkg:nuget/cloudscribe.SimpleContent.Models@10.1.0
 - pkg:nuget/cloudscribe.SimpleContent.Models@2.0.0
 - pkg:nuget/cloudscribe.SimpleContent.Models@2.0.0-preview20170725
 - pkg:nuget/cloudscribe.SimpleContent.Models@2.0.1
