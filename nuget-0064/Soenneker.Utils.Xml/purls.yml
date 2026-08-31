@@ -1089,6 +1089,8 @@
 - pkg:nuget/Soenneker.Utils.Xml@4.0.1089
 - pkg:nuget/Soenneker.Utils.Xml@4.0.1098
 - pkg:nuget/Soenneker.Utils.Xml@4.0.1122
+- pkg:nuget/Soenneker.Utils.Xml@4.0.1125
+- pkg:nuget/Soenneker.Utils.Xml@4.0.1126
 - pkg:nuget/Soenneker.Utils.Xml@4.0.962
 - pkg:nuget/Soenneker.Utils.Xml@4.0.966
 - pkg:nuget/Soenneker.Utils.Xml@4.0.977
