@@ -177,6 +177,7 @@
 - pkg:nuget/EduMS.Sdk@4.0.0
 - pkg:nuget/EduMS.Sdk@4.0.0-rc
 - pkg:nuget/EduMS.Sdk@4.0.1-rc
+- pkg:nuget/EduMS.Sdk@4.0.10
 - pkg:nuget/EduMS.Sdk@4.0.2
 - pkg:nuget/EduMS.Sdk@4.0.2-rc
 - pkg:nuget/EduMS.Sdk@4.0.3
