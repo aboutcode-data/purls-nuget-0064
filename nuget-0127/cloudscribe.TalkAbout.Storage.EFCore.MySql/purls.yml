@@ -1,6 +1,7 @@
 - pkg:nuget/cloudscribe.TalkAbout.Storage.EFCore.MySql@1.0.0
 - pkg:nuget/cloudscribe.TalkAbout.Storage.EFCore.MySql@1.0.0-beta-20190720
 - pkg:nuget/cloudscribe.TalkAbout.Storage.EFCore.MySql@1.0.0-beta-20190727
+- pkg:nuget/cloudscribe.TalkAbout.Storage.EFCore.MySql@10.1.0
 - pkg:nuget/cloudscribe.TalkAbout.Storage.EFCore.MySql@3.0.0
 - pkg:nuget/cloudscribe.TalkAbout.Storage.EFCore.MySql@3.0.0-rc20191014
 - pkg:nuget/cloudscribe.TalkAbout.Storage.EFCore.MySql@3.0.1
