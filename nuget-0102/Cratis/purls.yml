@@ -87,6 +87,7 @@
 - pkg:nuget/Cratis@21.6.0
 - pkg:nuget/Cratis@21.8.1
 - pkg:nuget/Cratis@22.1.1
+- pkg:nuget/Cratis@22.8.2
 - pkg:nuget/Cratis@3.0.0
 - pkg:nuget/Cratis@3.0.1
 - pkg:nuget/Cratis@3.1.0
