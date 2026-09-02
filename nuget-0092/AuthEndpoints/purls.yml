@@ -28,3 +28,5 @@
 - pkg:nuget/AuthEndpoints@3.0.0-alpha.5
 - pkg:nuget/AuthEndpoints@3.0.0-alpha.7
 - pkg:nuget/AuthEndpoints@3.0.0-alpha.8
+- pkg:nuget/AuthEndpoints@3.0.1
+- pkg:nuget/AuthEndpoints@3.0.3
