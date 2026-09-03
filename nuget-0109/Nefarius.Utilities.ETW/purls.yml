@@ -9,3 +9,8 @@
 - pkg:nuget/Nefarius.Utilities.ETW@1.0.0-pre008
 - pkg:nuget/Nefarius.Utilities.ETW@1.0.0-pre009
 - pkg:nuget/Nefarius.Utilities.ETW@2.0.0-pre001
+- pkg:nuget/Nefarius.Utilities.ETW@2.11.0
+- pkg:nuget/Nefarius.Utilities.ETW@2.15.0
+- pkg:nuget/Nefarius.Utilities.ETW@2.15.1
+- pkg:nuget/Nefarius.Utilities.ETW@2.18.0
+- pkg:nuget/Nefarius.Utilities.ETW@2.4.0
