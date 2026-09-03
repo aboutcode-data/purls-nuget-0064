@@ -14,3 +14,4 @@
 - pkg:nuget/Blazorise.PdfViewer@2.0.0
 - pkg:nuget/Blazorise.PdfViewer@2.0.0-preview1
 - pkg:nuget/Blazorise.PdfViewer@2.1.1
+- pkg:nuget/Blazorise.PdfViewer@2.2.2
