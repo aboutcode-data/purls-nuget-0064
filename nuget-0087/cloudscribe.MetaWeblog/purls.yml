@@ -8,6 +8,7 @@
 - pkg:nuget/cloudscribe.MetaWeblog@1.0.1-rc20160914
 - pkg:nuget/cloudscribe.MetaWeblog@1.1.0
 - pkg:nuget/cloudscribe.MetaWeblog@1.1.1
+- pkg:nuget/cloudscribe.MetaWeblog@10.1.0
 - pkg:nuget/cloudscribe.MetaWeblog@2.0.0
 - pkg:nuget/cloudscribe.MetaWeblog@2.0.0-preview20170725
 - pkg:nuget/cloudscribe.MetaWeblog@2.1.0
