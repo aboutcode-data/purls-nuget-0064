@@ -1,4 +1,5 @@
 - pkg:nuget/Diginsight.Components.Azure.Abstractions@1.0.0
+- pkg:nuget/Diginsight.Components.Azure.Abstractions@1.0.0.112
 - pkg:nuget/Diginsight.Components.Azure.Abstractions@1.0.0.36
 - pkg:nuget/Diginsight.Components.Azure.Abstractions@1.0.0.37
 - pkg:nuget/Diginsight.Components.Azure.Abstractions@1.0.0.38
