@@ -344,3 +344,4 @@
 - pkg:nuget/NukeBuildHelpers@9.0.26%2Bbuild.20260514143952.c0514f9
 - pkg:nuget/NukeBuildHelpers@9.0.32%2Bbuild.20260624130912.493ecef
 - pkg:nuget/NukeBuildHelpers@9.0.38%2Bbuild.20260727143326.183eaca
+- pkg:nuget/NukeBuildHelpers@9.0.42%2Bbuild.20260904145256.27ea39e
