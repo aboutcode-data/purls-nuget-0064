@@ -86,3 +86,4 @@
 - pkg:nuget/SkiaSharp.Vulkan.SharpVk@4.147.0-preview.3.1
 - pkg:nuget/SkiaSharp.Vulkan.SharpVk@4.148.0-rc.1.2
 - pkg:nuget/SkiaSharp.Vulkan.SharpVk@4.150.1
+- pkg:nuget/SkiaSharp.Vulkan.SharpVk@4.151.2
