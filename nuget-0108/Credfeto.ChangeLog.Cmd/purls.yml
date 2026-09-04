@@ -1225,6 +1225,7 @@
 - pkg:nuget/Credfeto.ChangeLog.Cmd@1.10.203.2532-localise-unrele
 - pkg:nuget/Credfeto.ChangeLog.Cmd@1.10.203.2533-localise-unrele
 - pkg:nuget/Credfeto.ChangeLog.Cmd@1.10.203.2534-localise-unrele
+- pkg:nuget/Credfeto.ChangeLog.Cmd@1.10.203.2547-case-insensitiv
 - pkg:nuget/Credfeto.ChangeLog.Cmd@1.10.21.534-main
 - pkg:nuget/Credfeto.ChangeLog.Cmd@1.10.21.535-main
 - pkg:nuget/Credfeto.ChangeLog.Cmd@1.10.21.536
