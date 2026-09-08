@@ -12,6 +12,7 @@
 - pkg:nuget/Microsoft.TemplateEngine.Authoring.Tasks@10.0.204
 - pkg:nuget/Microsoft.TemplateEngine.Authoring.Tasks@10.0.302
 - pkg:nuget/Microsoft.TemplateEngine.Authoring.Tasks@10.0.400
+- pkg:nuget/Microsoft.TemplateEngine.Authoring.Tasks@10.0.401
 - pkg:nuget/Microsoft.TemplateEngine.Authoring.Tasks@11.0.100-preview.1.26104.118
 - pkg:nuget/Microsoft.TemplateEngine.Authoring.Tasks@7.0.200
 - pkg:nuget/Microsoft.TemplateEngine.Authoring.Tasks@7.0.201
