@@ -9,6 +9,7 @@
 - pkg:nuget/runtime.linux-musl-arm64.Microsoft.NETCore.DotNetAppHost@10.0.0-rc.2.25502.107
 - pkg:nuget/runtime.linux-musl-arm64.Microsoft.NETCore.DotNetAppHost@10.0.1
 - pkg:nuget/runtime.linux-musl-arm64.Microsoft.NETCore.DotNetAppHost@10.0.11
+- pkg:nuget/runtime.linux-musl-arm64.Microsoft.NETCore.DotNetAppHost@10.0.12
 - pkg:nuget/runtime.linux-musl-arm64.Microsoft.NETCore.DotNetAppHost@10.0.2
 - pkg:nuget/runtime.linux-musl-arm64.Microsoft.NETCore.DotNetAppHost@10.0.3
 - pkg:nuget/runtime.linux-musl-arm64.Microsoft.NETCore.DotNetAppHost@10.0.7
@@ -190,6 +191,7 @@
 - pkg:nuget/runtime.linux-musl-arm64.Microsoft.NETCore.DotNetAppHost@8.0.20
 - pkg:nuget/runtime.linux-musl-arm64.Microsoft.NETCore.DotNetAppHost@8.0.28
 - pkg:nuget/runtime.linux-musl-arm64.Microsoft.NETCore.DotNetAppHost@8.0.3
+- pkg:nuget/runtime.linux-musl-arm64.Microsoft.NETCore.DotNetAppHost@8.0.31
 - pkg:nuget/runtime.linux-musl-arm64.Microsoft.NETCore.DotNetAppHost@8.0.4
 - pkg:nuget/runtime.linux-musl-arm64.Microsoft.NETCore.DotNetAppHost@8.0.5
 - pkg:nuget/runtime.linux-musl-arm64.Microsoft.NETCore.DotNetAppHost@8.0.6
