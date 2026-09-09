@@ -39,3 +39,5 @@
 - pkg:nuget/Cratis.Chronicle.Workbench@16.38.5
 - pkg:nuget/Cratis.Chronicle.Workbench@16.38.6
 - pkg:nuget/Cratis.Chronicle.Workbench@16.6.1
+- pkg:nuget/Cratis.Chronicle.Workbench@17.1.0
+- pkg:nuget/Cratis.Chronicle.Workbench@18.0.0
