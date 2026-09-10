@@ -161,6 +161,7 @@
 - pkg:nuget/linQsupply.UnitTesting@10.0.10
 - pkg:nuget/linQsupply.UnitTesting@10.0.11
 - pkg:nuget/linQsupply.UnitTesting@10.0.13
+- pkg:nuget/linQsupply.UnitTesting@10.0.17
 - pkg:nuget/linQsupply.UnitTesting@10.0.7
 - pkg:nuget/linQsupply.UnitTesting@8.0.0
 - pkg:nuget/linQsupply.UnitTesting@8.0.1
