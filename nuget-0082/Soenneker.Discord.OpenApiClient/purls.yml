@@ -6,3 +6,5 @@
 - pkg:nuget/Soenneker.Discord.OpenApiClient@4.0.46
 - pkg:nuget/Soenneker.Discord.OpenApiClient@4.0.50
 - pkg:nuget/Soenneker.Discord.OpenApiClient@4.0.56
+- pkg:nuget/Soenneker.Discord.OpenApiClient@4.0.64
+- pkg:nuget/Soenneker.Discord.OpenApiClient@4.0.65
