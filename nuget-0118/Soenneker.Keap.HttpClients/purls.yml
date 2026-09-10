@@ -1,3 +1,5 @@
 - pkg:nuget/Soenneker.Keap.HttpClients@4.0.13
 - pkg:nuget/Soenneker.Keap.HttpClients@4.0.25
 - pkg:nuget/Soenneker.Keap.HttpClients@4.0.30
+- pkg:nuget/Soenneker.Keap.HttpClients@4.0.42
+- pkg:nuget/Soenneker.Keap.HttpClients@4.0.43
