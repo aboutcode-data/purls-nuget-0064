@@ -1,3 +1,4 @@
 - pkg:nuget/Concierge.Auth.Client.AuthGuard@2.0.0
 - pkg:nuget/Concierge.Auth.Client.AuthGuard@3.0.0
 - pkg:nuget/Concierge.Auth.Client.AuthGuard@3.1.0
+- pkg:nuget/Concierge.Auth.Client.AuthGuard@3.1.1
