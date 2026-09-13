@@ -2941,3 +2941,5 @@
 - pkg:nuget/Soenneker.ServiceBus.Suite@4.0.3130
 - pkg:nuget/Soenneker.ServiceBus.Suite@4.0.3147
 - pkg:nuget/Soenneker.ServiceBus.Suite@4.0.3153
+- pkg:nuget/Soenneker.ServiceBus.Suite@4.0.3161
+- pkg:nuget/Soenneker.ServiceBus.Suite@4.0.3165
