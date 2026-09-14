@@ -120,3 +120,4 @@
 - pkg:nuget/ktsu.Extensions@1.5.6-pre.2
 - pkg:nuget/ktsu.Extensions@1.5.7
 - pkg:nuget/ktsu.Extensions@1.5.9-pre.2
+- pkg:nuget/ktsu.Extensions@1.6.11
