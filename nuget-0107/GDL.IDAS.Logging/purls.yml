@@ -1522,4 +1522,5 @@
 - pkg:nuget/GDL.IDAS.Logging@2026.8.27.1021
 - pkg:nuget/GDL.IDAS.Logging@2026.8.28.1023
 - pkg:nuget/GDL.IDAS.Logging@2026.8.7.1017
+- pkg:nuget/GDL.IDAS.Logging@2026.9.14.1028
 - pkg:nuget/GDL.IDAS.Logging@2099.0.0-alpha
