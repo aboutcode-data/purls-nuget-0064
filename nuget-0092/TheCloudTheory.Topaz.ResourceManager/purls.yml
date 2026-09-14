@@ -24,6 +24,7 @@
 - pkg:nuget/TheCloudTheory.Topaz.ResourceManager@1.0.99-alpha
 - pkg:nuget/TheCloudTheory.Topaz.ResourceManager@1.10.46-preview
 - pkg:nuget/TheCloudTheory.Topaz.ResourceManager@1.11.142
+- pkg:nuget/TheCloudTheory.Topaz.ResourceManager@1.11.172
 - pkg:nuget/TheCloudTheory.Topaz.ResourceManager@1.11.67
 - pkg:nuget/TheCloudTheory.Topaz.ResourceManager@1.3.7-beta
 - pkg:nuget/TheCloudTheory.Topaz.ResourceManager@1.4.34-beta
