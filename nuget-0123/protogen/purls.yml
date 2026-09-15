@@ -22,3 +22,4 @@
 - pkg:nuget/protogen@3.2.52
 - pkg:nuget/protogen@3.2.8
 - pkg:nuget/protogen@3.4.19
+- pkg:nuget/protogen@3.4.29
