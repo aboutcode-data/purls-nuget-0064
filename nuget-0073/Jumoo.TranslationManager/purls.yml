@@ -96,6 +96,7 @@
 - pkg:nuget/Jumoo.TranslationManager@17.7.1
 - pkg:nuget/Jumoo.TranslationManager@17.9.0-alpha01
 - pkg:nuget/Jumoo.TranslationManager@17.9.0-alpha02
+- pkg:nuget/Jumoo.TranslationManager@17.9.1
 - pkg:nuget/Jumoo.TranslationManager@18.0.0
 - pkg:nuget/Jumoo.TranslationManager@18.1.1
 - pkg:nuget/Jumoo.TranslationManager@18.2.1
