@@ -107,6 +107,7 @@
 - pkg:nuget/ModelEditorSDK@2.3.5
 - pkg:nuget/ModelEditorSDK@2.3.6
 - pkg:nuget/ModelEditorSDK@2.3.7
+- pkg:nuget/ModelEditorSDK@2.34.1
 - pkg:nuget/ModelEditorSDK@2.4.0
 - pkg:nuget/ModelEditorSDK@2.4.1
 - pkg:nuget/ModelEditorSDK@2.5.0
