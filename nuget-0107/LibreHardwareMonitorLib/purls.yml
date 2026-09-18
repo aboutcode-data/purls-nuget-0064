@@ -519,3 +519,5 @@
 - pkg:nuget/LibreHardwareMonitorLib@0.9.7-pre726
 - pkg:nuget/LibreHardwareMonitorLib@0.9.7-pre727
 - pkg:nuget/LibreHardwareMonitorLib@0.9.7-pre728
+- pkg:nuget/LibreHardwareMonitorLib@0.9.7-pre740
+- pkg:nuget/LibreHardwareMonitorLib@0.9.7-pre741
