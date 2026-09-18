@@ -18,6 +18,7 @@
 - pkg:nuget/Soenneker.GitLab.OpenApiClientUtil@4.0.220
 - pkg:nuget/Soenneker.GitLab.OpenApiClientUtil@4.0.23
 - pkg:nuget/Soenneker.GitLab.OpenApiClientUtil@4.0.238
+- pkg:nuget/Soenneker.GitLab.OpenApiClientUtil@4.0.239
 - pkg:nuget/Soenneker.GitLab.OpenApiClientUtil@4.0.24
 - pkg:nuget/Soenneker.GitLab.OpenApiClientUtil@4.0.3
 - pkg:nuget/Soenneker.GitLab.OpenApiClientUtil@4.0.4
