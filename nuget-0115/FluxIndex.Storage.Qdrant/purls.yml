@@ -10,6 +10,7 @@
 - pkg:nuget/FluxIndex.Storage.Qdrant@0.35.0
 - pkg:nuget/FluxIndex.Storage.Qdrant@0.44.0
 - pkg:nuget/FluxIndex.Storage.Qdrant@0.44.5
+- pkg:nuget/FluxIndex.Storage.Qdrant@0.46.1
 - pkg:nuget/FluxIndex.Storage.Qdrant@0.5.4
 - pkg:nuget/FluxIndex.Storage.Qdrant@0.5.8
 - pkg:nuget/FluxIndex.Storage.Qdrant@0.8.0
