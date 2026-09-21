@@ -35,5 +35,6 @@
 - pkg:nuget/MessagePack.Generator@2.5.192
 - pkg:nuget/MessagePack.Generator@2.5.198
 - pkg:nuget/MessagePack.Generator@2.5.205
+- pkg:nuget/MessagePack.Generator@2.5.303
 - pkg:nuget/MessagePack.Generator@2.5.64-alpha
 - pkg:nuget/MessagePack.Generator@2.5.94
