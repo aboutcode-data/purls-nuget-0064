@@ -109,5 +109,8 @@
 - pkg:nuget/ElevenLabs@1.0.2-dev.75
 - pkg:nuget/ElevenLabs@1.0.2-dev.80
 - pkg:nuget/ElevenLabs@1.0.3
+- pkg:nuget/ElevenLabs@1.0.9-dev.14
+- pkg:nuget/ElevenLabs@1.0.9-dev.18
+- pkg:nuget/ElevenLabs@1.0.9-dev.20
 - pkg:nuget/ElevenLabs@1.0.9-dev.3
 - pkg:nuget/ElevenLabs@1.0.9-dev.4
