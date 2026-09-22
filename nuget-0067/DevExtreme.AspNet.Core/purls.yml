@@ -4,6 +4,7 @@
 - pkg:nuget/DevExtreme.AspNet.Core@25.1.12
 - pkg:nuget/DevExtreme.AspNet.Core@25.1.6
 - pkg:nuget/DevExtreme.AspNet.Core@25.1.7
+- pkg:nuget/DevExtreme.AspNet.Core@25.2.10
 - pkg:nuget/DevExtreme.AspNet.Core@25.2.6
 - pkg:nuget/DevExtreme.AspNet.Core@26.1.2-beta
 - pkg:nuget/DevExtreme.AspNet.Core@26.1.3
