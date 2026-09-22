@@ -35,4 +35,5 @@
 - pkg:nuget/nanoFramework.Iot.Device.Dac63004@1.0.73
 - pkg:nuget/nanoFramework.Iot.Device.Dac63004@1.0.77
 - pkg:nuget/nanoFramework.Iot.Device.Dac63004@1.0.89
+- pkg:nuget/nanoFramework.Iot.Device.Dac63004@2.0.0-preview.121
 - pkg:nuget/nanoFramework.Iot.Device.Dac63004@2.0.0-preview.73
