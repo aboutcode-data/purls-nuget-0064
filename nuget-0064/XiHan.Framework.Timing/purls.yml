@@ -2,3 +2,6 @@
 - pkg:nuget/XiHan.Framework.Timing@2.3.2-preview
 - pkg:nuget/XiHan.Framework.Timing@2.3.5
 - pkg:nuget/XiHan.Framework.Timing@3.10.0
+- pkg:nuget/XiHan.Framework.Timing@3.11.1
+- pkg:nuget/XiHan.Framework.Timing@4.0.0
+- pkg:nuget/XiHan.Framework.Timing@4.4.0
