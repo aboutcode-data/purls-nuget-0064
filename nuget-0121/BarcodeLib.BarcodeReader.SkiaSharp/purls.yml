@@ -27,5 +27,6 @@
 - pkg:nuget/BarcodeLib.BarcodeReader.SkiaSharp@7.0.0.9
 - pkg:nuget/BarcodeLib.BarcodeReader.SkiaSharp@8.0.0.1
 - pkg:nuget/BarcodeLib.BarcodeReader.SkiaSharp@8.0.0.12
+- pkg:nuget/BarcodeLib.BarcodeReader.SkiaSharp@8.0.0.26
 - pkg:nuget/BarcodeLib.BarcodeReader.SkiaSharp@8.0.0.7
 - pkg:nuget/BarcodeLib.BarcodeReader.SkiaSharp@8.0.0.9
