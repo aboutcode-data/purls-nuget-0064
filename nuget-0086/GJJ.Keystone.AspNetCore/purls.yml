@@ -14,3 +14,4 @@
 - pkg:nuget/GJJ.Keystone.AspNetCore@4.3.7
 - pkg:nuget/GJJ.Keystone.AspNetCore@5.1.2
 - pkg:nuget/GJJ.Keystone.AspNetCore@5.1.3
+- pkg:nuget/GJJ.Keystone.AspNetCore@5.1.4
