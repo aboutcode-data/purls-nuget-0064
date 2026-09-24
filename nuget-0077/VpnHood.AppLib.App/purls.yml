@@ -71,3 +71,4 @@
 - pkg:nuget/VpnHood.AppLib.App@7.9.810-prerelease
 - pkg:nuget/VpnHood.AppLib.App@7.9.812
 - pkg:nuget/VpnHood.AppLib.App@8.1.840
+- pkg:nuget/VpnHood.AppLib.App@8.2.852
