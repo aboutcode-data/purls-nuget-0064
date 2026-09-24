@@ -54,6 +54,7 @@
 - pkg:nuget/CampaignAgent.MessageContracts@1.0.55
 - pkg:nuget/CampaignAgent.MessageContracts@1.0.56
 - pkg:nuget/CampaignAgent.MessageContracts@1.0.57
+- pkg:nuget/CampaignAgent.MessageContracts@1.0.577
 - pkg:nuget/CampaignAgent.MessageContracts@1.0.58
 - pkg:nuget/CampaignAgent.MessageContracts@1.0.59
 - pkg:nuget/CampaignAgent.MessageContracts@1.0.6
