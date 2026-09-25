@@ -115,4 +115,5 @@
 - pkg:nuget/Soenneker.Extensions.ServiceCollection@4.0.262
 - pkg:nuget/Soenneker.Extensions.ServiceCollection@4.0.269
 - pkg:nuget/Soenneker.Extensions.ServiceCollection@4.0.270
+- pkg:nuget/Soenneker.Extensions.ServiceCollection@4.0.275
 - pkg:nuget/Soenneker.Extensions.ServiceCollection@4.0.94
