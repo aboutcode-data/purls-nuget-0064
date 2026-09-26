@@ -14,3 +14,4 @@
 - pkg:nuget/CK.Testing.SqlServerEngine@31.0.2
 - pkg:nuget/CK.Testing.SqlServerEngine@32.1.1
 - pkg:nuget/CK.Testing.SqlServerEngine@33.0.0
+- pkg:nuget/CK.Testing.SqlServerEngine@33.1.1
