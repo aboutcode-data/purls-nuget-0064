@@ -5,6 +5,7 @@
 - pkg:nuget/Soenneker.Make.HttpClients@4.0.117
 - pkg:nuget/Soenneker.Make.HttpClients@4.0.129
 - pkg:nuget/Soenneker.Make.HttpClients@4.0.133
+- pkg:nuget/Soenneker.Make.HttpClients@4.0.137
 - pkg:nuget/Soenneker.Make.HttpClients@4.0.3
 - pkg:nuget/Soenneker.Make.HttpClients@4.0.31
 - pkg:nuget/Soenneker.Make.HttpClients@4.0.50
