@@ -16,3 +16,4 @@
 - pkg:nuget/Soenneker.Deduplication.Bounded@4.0.86
 - pkg:nuget/Soenneker.Deduplication.Bounded@4.0.9
 - pkg:nuget/Soenneker.Deduplication.Bounded@4.0.95
+- pkg:nuget/Soenneker.Deduplication.Bounded@4.0.97
