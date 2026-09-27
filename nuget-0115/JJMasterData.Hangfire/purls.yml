@@ -8,3 +8,9 @@
 - pkg:nuget/JJMasterData.Hangfire@2.0.6
 - pkg:nuget/JJMasterData.Hangfire@2.0.6-preview
 - pkg:nuget/JJMasterData.Hangfire@5.0.0-preview9
+- pkg:nuget/JJMasterData.Hangfire@5.0.0-rc.10
+- pkg:nuget/JJMasterData.Hangfire@5.0.0-rc.14
+- pkg:nuget/JJMasterData.Hangfire@5.0.0-rc.20
+- pkg:nuget/JJMasterData.Hangfire@5.0.0-rc.9
+- pkg:nuget/JJMasterData.Hangfire@5.0.1-rc.360.538
+- pkg:nuget/JJMasterData.Hangfire@5.0.1-rc.360.541
