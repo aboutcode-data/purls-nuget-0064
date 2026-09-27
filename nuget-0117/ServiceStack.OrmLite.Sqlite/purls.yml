@@ -1,4 +1,5 @@
 - pkg:nuget/ServiceStack.OrmLite.Sqlite@10.0.0
+- pkg:nuget/ServiceStack.OrmLite.Sqlite@10.2.0
 - pkg:nuget/ServiceStack.OrmLite.Sqlite@4.5.10
 - pkg:nuget/ServiceStack.OrmLite.Sqlite@4.5.12
 - pkg:nuget/ServiceStack.OrmLite.Sqlite@4.5.14
