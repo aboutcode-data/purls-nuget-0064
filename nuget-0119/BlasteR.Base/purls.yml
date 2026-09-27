@@ -18,3 +18,5 @@
 - pkg:nuget/BlasteR.Base@1.2.5
 - pkg:nuget/BlasteR.Base@2.0.0-alpha
 - pkg:nuget/BlasteR.Base@2.0.0-alpha.2
+- pkg:nuget/BlasteR.Base@2.1.0
+- pkg:nuget/BlasteR.Base@2.1.1
