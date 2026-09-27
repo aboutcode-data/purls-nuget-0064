@@ -1,1 +1,3 @@
+- pkg:nuget/LondonFhirService.Providers.FHIR.STU3.DiscoveryDataService@0.11.0
+- pkg:nuget/LondonFhirService.Providers.FHIR.STU3.DiscoveryDataService@0.12.0
 - pkg:nuget/LondonFhirService.Providers.FHIR.STU3.DiscoveryDataService@0.7.0
