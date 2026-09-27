@@ -1,4 +1,7 @@
 - pkg:nuget/Teknosol.Domain.Entities@1.0.10
 - pkg:nuget/Teknosol.Domain.Entities@1.1.0
 - pkg:nuget/Teknosol.Domain.Entities@1.1.12
+- pkg:nuget/Teknosol.Domain.Entities@1.1.24
+- pkg:nuget/Teknosol.Domain.Entities@1.1.35
+- pkg:nuget/Teknosol.Domain.Entities@1.1.40
 - pkg:nuget/Teknosol.Domain.Entities@1.1.7
