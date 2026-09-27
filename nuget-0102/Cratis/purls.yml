@@ -92,6 +92,8 @@
 - pkg:nuget/Cratis@22.16.1
 - pkg:nuget/Cratis@22.19.2
 - pkg:nuget/Cratis@22.22.0
+- pkg:nuget/Cratis@22.23.6
+- pkg:nuget/Cratis@22.28.0
 - pkg:nuget/Cratis@22.8.2
 - pkg:nuget/Cratis@3.0.0
 - pkg:nuget/Cratis@3.0.1
