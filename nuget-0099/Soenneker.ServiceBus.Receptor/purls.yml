@@ -1993,3 +1993,5 @@
 - pkg:nuget/Soenneker.ServiceBus.Receptor@4.0.2023
 - pkg:nuget/Soenneker.ServiceBus.Receptor@4.0.2026
 - pkg:nuget/Soenneker.ServiceBus.Receptor@4.0.2036
+- pkg:nuget/Soenneker.ServiceBus.Receptor@4.0.2073
+- pkg:nuget/Soenneker.ServiceBus.Receptor@4.0.2074
