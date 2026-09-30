@@ -1118,6 +1118,7 @@
 - pkg:nuget/ActualChat.Core@2.21.209-alpha-ge8e5197c9b
 - pkg:nuget/ActualChat.Core@2.21.295-alpha-g93bb570c08
 - pkg:nuget/ActualChat.Core@2.21.302-alpha-g8d787eea71
+- pkg:nuget/ActualChat.Core@2.21.375
 - pkg:nuget/ActualChat.Core@2.21.70-alpha-g9261ff2e2e
 - pkg:nuget/ActualChat.Core@2.21.9-alpha-gd4fa333db1
 - pkg:nuget/ActualChat.Core@2.22.123-alpha-g5843ede515
