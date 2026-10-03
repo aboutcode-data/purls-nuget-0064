@@ -1,0 +1,2 @@
+- pkg:nuget/go.crypto.fips140@1.24.13.2
+- pkg:nuget/go.crypto.fips140@1.24.13.3
