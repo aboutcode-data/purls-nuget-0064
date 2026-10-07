@@ -430,3 +430,5 @@
 - pkg:nuget/Orchestra.Shell.Ribbon.Fluent@7.2.3-beta0001
 - pkg:nuget/Orchestra.Shell.Ribbon.Fluent@8.0.0-alpha0146
 - pkg:nuget/Orchestra.Shell.Ribbon.Fluent@8.0.0-alpha0198
+- pkg:nuget/Orchestra.Shell.Ribbon.Fluent@8.1.2
+- pkg:nuget/Orchestra.Shell.Ribbon.Fluent@8.2.0-alpha0001
