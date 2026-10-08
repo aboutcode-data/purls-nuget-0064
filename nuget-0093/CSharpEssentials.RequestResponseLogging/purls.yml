@@ -17,3 +17,5 @@
 - pkg:nuget/CSharpEssentials.RequestResponseLogging@3.0.7
 - pkg:nuget/CSharpEssentials.RequestResponseLogging@3.1.0
 - pkg:nuget/CSharpEssentials.RequestResponseLogging@4.1.0
+- pkg:nuget/CSharpEssentials.RequestResponseLogging@5.2.1
+- pkg:nuget/CSharpEssentials.RequestResponseLogging@6.0.0
