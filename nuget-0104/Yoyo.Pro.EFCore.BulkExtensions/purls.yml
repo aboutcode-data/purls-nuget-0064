@@ -1,4 +1,5 @@
 - pkg:nuget/Yoyo.Pro.EFCore.BulkExtensions@10.3.2
+- pkg:nuget/Yoyo.Pro.EFCore.BulkExtensions@10.5.5
 - pkg:nuget/Yoyo.Pro.EFCore.BulkExtensions@7.3.0.16
 - pkg:nuget/Yoyo.Pro.EFCore.BulkExtensions@7.3.0.17
 - pkg:nuget/Yoyo.Pro.EFCore.BulkExtensions@7.3.0.18
