@@ -24,4 +24,8 @@
 - pkg:nuget/Sbroenne.ExcelMcp.McpServer@1.8.58
 - pkg:nuget/Sbroenne.ExcelMcp.McpServer@1.8.69
 - pkg:nuget/Sbroenne.ExcelMcp.McpServer@2.0.0
+- pkg:nuget/Sbroenne.ExcelMcp.McpServer@2.0.10
+- pkg:nuget/Sbroenne.ExcelMcp.McpServer@2.0.14
 - pkg:nuget/Sbroenne.ExcelMcp.McpServer@2.0.4
+- pkg:nuget/Sbroenne.ExcelMcp.McpServer@2.0.6
+- pkg:nuget/Sbroenne.ExcelMcp.McpServer@2.2.2
