@@ -3,3 +3,5 @@
 - pkg:nuget/DevExpress.Scheduler.CoreDesktop.de@25.2.7
 - pkg:nuget/DevExpress.Scheduler.CoreDesktop.de@25.2.8
 - pkg:nuget/DevExpress.Scheduler.CoreDesktop.de@26.1.3
+- pkg:nuget/DevExpress.Scheduler.CoreDesktop.de@26.1.5-pre-26241
+- pkg:nuget/DevExpress.Scheduler.CoreDesktop.de@26.1.5-pre-26248
