@@ -31,3 +31,4 @@
 - pkg:nuget/NetCoreForce.Models@4.1.0-Beta
 - pkg:nuget/NetCoreForce.Models@5.0.0
 - pkg:nuget/NetCoreForce.Models@5.0.0-Beta
+- pkg:nuget/NetCoreForce.Models@6.1.0
