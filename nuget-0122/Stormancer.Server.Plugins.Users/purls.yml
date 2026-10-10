@@ -59,6 +59,7 @@
 - pkg:nuget/Stormancer.Server.Plugins.Users@10.0.2.6-pre
 - pkg:nuget/Stormancer.Server.Plugins.Users@10.0.2.9-pre
 - pkg:nuget/Stormancer.Server.Plugins.Users@10.0.3-pre
+- pkg:nuget/Stormancer.Server.Plugins.Users@10.0.3.12-pre
 - pkg:nuget/Stormancer.Server.Plugins.Users@10.0.3.2-pre
 - pkg:nuget/Stormancer.Server.Plugins.Users@10.0.3.3-pre
 - pkg:nuget/Stormancer.Server.Plugins.Users@2.0.0-pre
