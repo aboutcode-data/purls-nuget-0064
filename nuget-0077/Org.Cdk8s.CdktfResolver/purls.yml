@@ -130,6 +130,7 @@
 - pkg:nuget/Org.Cdk8s.CdktfResolver@0.0.3
 - pkg:nuget/Org.Cdk8s.CdktfResolver@0.0.30
 - pkg:nuget/Org.Cdk8s.CdktfResolver@0.0.31
+- pkg:nuget/Org.Cdk8s.CdktfResolver@0.0.310
 - pkg:nuget/Org.Cdk8s.CdktfResolver@0.0.32
 - pkg:nuget/Org.Cdk8s.CdktfResolver@0.0.33
 - pkg:nuget/Org.Cdk8s.CdktfResolver@0.0.34
