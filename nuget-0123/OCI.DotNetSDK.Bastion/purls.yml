@@ -47,6 +47,7 @@
 - pkg:nuget/OCI.DotNetSDK.Bastion@135.0.0
 - pkg:nuget/OCI.DotNetSDK.Bastion@140.0.0
 - pkg:nuget/OCI.DotNetSDK.Bastion@144.1.0
+- pkg:nuget/OCI.DotNetSDK.Bastion@149.0.0
 - pkg:nuget/OCI.DotNetSDK.Bastion@19.0.0
 - pkg:nuget/OCI.DotNetSDK.Bastion@19.1.0
 - pkg:nuget/OCI.DotNetSDK.Bastion@19.2.0
