@@ -272,6 +272,8 @@
 - pkg:nuget/Pulumi.Venafi@1.13.0-alpha.1774890582
 - pkg:nuget/Pulumi.Venafi@1.13.0-alpha.1776322919
 - pkg:nuget/Pulumi.Venafi@1.13.0-alpha.1778743628
+- pkg:nuget/Pulumi.Venafi@1.13.3
+- pkg:nuget/Pulumi.Venafi@1.13.3-alpha.1791911759
 - pkg:nuget/Pulumi.Venafi@1.14.0-alpha.1782374071
 - pkg:nuget/Pulumi.Venafi@1.14.0-alpha.1783064897
 - pkg:nuget/Pulumi.Venafi@1.14.0-alpha.1783585443
