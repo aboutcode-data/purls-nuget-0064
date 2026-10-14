@@ -91,4 +91,5 @@
 - pkg:nuget/Chickensoft.Serialization.Godot@0.8.7
 - pkg:nuget/Chickensoft.Serialization.Godot@0.8.8
 - pkg:nuget/Chickensoft.Serialization.Godot@0.8.9
+- pkg:nuget/Chickensoft.Serialization.Godot@0.9.11
 - pkg:nuget/Chickensoft.Serialization.Godot@0.9.6
