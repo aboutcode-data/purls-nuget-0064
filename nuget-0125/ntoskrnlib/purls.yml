@@ -1,1 +1,3 @@
 - pkg:nuget/ntoskrnlib@0.3.11
+- pkg:nuget/ntoskrnlib@0.3.23
+- pkg:nuget/ntoskrnlib@0.3.30
