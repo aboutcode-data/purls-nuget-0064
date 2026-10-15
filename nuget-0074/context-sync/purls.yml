@@ -27,6 +27,7 @@
 - pkg:nuget/context-sync@1.0.1377
 - pkg:nuget/context-sync@1.0.1383
 - pkg:nuget/context-sync@1.0.1405
+- pkg:nuget/context-sync@1.0.1524
 - pkg:nuget/context-sync@1.0.382
 - pkg:nuget/context-sync@1.0.387
 - pkg:nuget/context-sync@1.0.397
