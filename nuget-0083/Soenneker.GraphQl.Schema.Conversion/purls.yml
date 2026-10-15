@@ -12,3 +12,4 @@
 - pkg:nuget/Soenneker.GraphQl.Schema.Conversion@4.0.75
 - pkg:nuget/Soenneker.GraphQl.Schema.Conversion@4.0.8
 - pkg:nuget/Soenneker.GraphQl.Schema.Conversion@4.0.82
+- pkg:nuget/Soenneker.GraphQl.Schema.Conversion@4.0.86
