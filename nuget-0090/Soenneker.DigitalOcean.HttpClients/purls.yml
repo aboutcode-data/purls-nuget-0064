@@ -11,3 +11,7 @@
 - pkg:nuget/Soenneker.DigitalOcean.HttpClients@4.0.60
 - pkg:nuget/Soenneker.DigitalOcean.HttpClients@4.0.62
 - pkg:nuget/Soenneker.DigitalOcean.HttpClients@4.0.7
+- pkg:nuget/Soenneker.DigitalOcean.HttpClients@4.0.79
+- pkg:nuget/Soenneker.DigitalOcean.HttpClients@4.0.80
+- pkg:nuget/Soenneker.DigitalOcean.HttpClients@4.0.82
+- pkg:nuget/Soenneker.DigitalOcean.HttpClients@4.0.83
