@@ -1,4 +1,15 @@
+- pkg:nuget/OBasePostgreDB@26.10.21
+- pkg:nuget/OBasePostgreDB@26.10.23
+- pkg:nuget/OBasePostgreDB@26.10.25
+- pkg:nuget/OBasePostgreDB@26.10.31
+- pkg:nuget/OBasePostgreDB@26.10.35
 - pkg:nuget/OBasePostgreDB@26.6.26
 - pkg:nuget/OBasePostgreDB@26.6.28
 - pkg:nuget/OBasePostgreDB@26.6.34
 - pkg:nuget/OBasePostgreDB@26.6.6
+- pkg:nuget/OBasePostgreDB@26.8.17
+- pkg:nuget/OBasePostgreDB@26.8.27
+- pkg:nuget/OBasePostgreDB@26.8.28
+- pkg:nuget/OBasePostgreDB@26.9.11
+- pkg:nuget/OBasePostgreDB@26.9.21
+- pkg:nuget/OBasePostgreDB@26.9.29
