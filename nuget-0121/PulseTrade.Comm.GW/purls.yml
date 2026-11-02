@@ -1,2 +1,6 @@
 - pkg:nuget/PulseTrade.Comm.GW@1.0.0-beta2
 - pkg:nuget/PulseTrade.Comm.GW@1.0.0-beta3
+- pkg:nuget/PulseTrade.Comm.GW@1.0.0-beta6
+- pkg:nuget/PulseTrade.Comm.GW@1.0.17
+- pkg:nuget/PulseTrade.Comm.GW@1.0.2
+- pkg:nuget/PulseTrade.Comm.GW@1.0.4
