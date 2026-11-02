@@ -340,3 +340,8 @@
 - pkg:nuget/Kifa.Tools.FileUtil@5.7.6
 - pkg:nuget/Kifa.Tools.FileUtil@5.7.7
 - pkg:nuget/Kifa.Tools.FileUtil@5.7.9
+- pkg:nuget/Kifa.Tools.FileUtil@7.1.0
+- pkg:nuget/Kifa.Tools.FileUtil@7.1.1
+- pkg:nuget/Kifa.Tools.FileUtil@7.1.5
+- pkg:nuget/Kifa.Tools.FileUtil@8.1.6
+- pkg:nuget/Kifa.Tools.FileUtil@8.1.7
