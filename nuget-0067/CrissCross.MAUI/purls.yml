@@ -55,3 +55,4 @@
 - pkg:nuget/CrissCross.MAUI@2.5.3
 - pkg:nuget/CrissCross.MAUI@2.5.4
 - pkg:nuget/CrissCross.MAUI@2.6.2
+- pkg:nuget/CrissCross.MAUI@5.0.2
