@@ -411,3 +411,5 @@
 - pkg:nuget/Pulumi.CloudInit@1.7.0-alpha.1780987363
 - pkg:nuget/Pulumi.CloudInit@1.7.0-alpha.1781593702
 - pkg:nuget/Pulumi.CloudInit@1.7.0-alpha.1782716154
+- pkg:nuget/Pulumi.CloudInit@1.7.0-alpha.1792647110
+- pkg:nuget/Pulumi.CloudInit@1.7.0-alpha.1793280767
