@@ -23,3 +23,6 @@
 - pkg:nuget/Prowl.Quill@2.8.5
 - pkg:nuget/Prowl.Quill@2.8.6
 - pkg:nuget/Prowl.Quill@3.2.1
+- pkg:nuget/Prowl.Quill@3.6.8
+- pkg:nuget/Prowl.Quill@3.8.2
+- pkg:nuget/Prowl.Quill@3.8.5
