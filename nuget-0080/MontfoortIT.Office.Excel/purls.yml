@@ -2,6 +2,7 @@
 - pkg:nuget/MontfoortIT.Office.Excel@1.2.0
 - pkg:nuget/MontfoortIT.Office.Excel@1.2.1
 - pkg:nuget/MontfoortIT.Office.Excel@1.2.2
+- pkg:nuget/MontfoortIT.Office.Excel@10.0.1
 - pkg:nuget/MontfoortIT.Office.Excel@8.0.0
 - pkg:nuget/MontfoortIT.Office.Excel@8.0.1
 - pkg:nuget/MontfoortIT.Office.Excel@8.0.2

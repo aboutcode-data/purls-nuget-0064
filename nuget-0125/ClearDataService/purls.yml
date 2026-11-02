@@ -13,3 +13,5 @@
 - pkg:nuget/ClearDataService@3.0.0-preview8
 - pkg:nuget/ClearDataService@3.0.0-preview9
 - pkg:nuget/ClearDataService@3.0.1
+- pkg:nuget/ClearDataService@6.0.1
+- pkg:nuget/ClearDataService@6.0.3
