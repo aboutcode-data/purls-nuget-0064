@@ -1,3 +1,10 @@
+- pkg:nuget/Soenneker.DNSimple.Suite@11.0.1886
+- pkg:nuget/Soenneker.DNSimple.Suite@11.0.1891
+- pkg:nuget/Soenneker.DNSimple.Suite@11.0.1897
+- pkg:nuget/Soenneker.DNSimple.Suite@11.0.1898
+- pkg:nuget/Soenneker.DNSimple.Suite@11.0.1914
+- pkg:nuget/Soenneker.DNSimple.Suite@11.0.1921
+- pkg:nuget/Soenneker.DNSimple.Suite@11.0.1922
 - pkg:nuget/Soenneker.DNSimple.Suite@3.0.1
 - pkg:nuget/Soenneker.DNSimple.Suite@3.0.10
 - pkg:nuget/Soenneker.DNSimple.Suite@3.0.100
