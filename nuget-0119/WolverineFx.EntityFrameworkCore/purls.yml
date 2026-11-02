@@ -188,4 +188,6 @@
 - pkg:nuget/WolverineFx.EntityFrameworkCore@6.41.0
 - pkg:nuget/WolverineFx.EntityFrameworkCore@6.44.0
 - pkg:nuget/WolverineFx.EntityFrameworkCore@6.48.2
+- pkg:nuget/WolverineFx.EntityFrameworkCore@6.51.2
+- pkg:nuget/WolverineFx.EntityFrameworkCore@6.55.1
 - pkg:nuget/WolverineFx.EntityFrameworkCore@6.7.0
