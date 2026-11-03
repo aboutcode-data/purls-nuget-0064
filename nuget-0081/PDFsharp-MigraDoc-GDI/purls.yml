@@ -15,3 +15,5 @@
 - pkg:nuget/PDFsharp-MigraDoc-GDI@6.2.0-preview-2
 - pkg:nuget/PDFsharp-MigraDoc-GDI@6.2.0-preview-3
 - pkg:nuget/PDFsharp-MigraDoc-GDI@6.2.1
+- pkg:nuget/PDFsharp-MigraDoc-GDI@6.5.0
+- pkg:nuget/PDFsharp-MigraDoc-GDI@7.0.0-preview-2
