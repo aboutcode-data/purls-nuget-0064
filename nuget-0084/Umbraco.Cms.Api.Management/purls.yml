@@ -63,3 +63,6 @@
 - pkg:nuget/Umbraco.Cms.Api.Management@17.3.0-rc3
 - pkg:nuget/Umbraco.Cms.Api.Management@17.4.0-rc
 - pkg:nuget/Umbraco.Cms.Api.Management@17.5.0
+- pkg:nuget/Umbraco.Cms.Api.Management@17.8.0
+- pkg:nuget/Umbraco.Cms.Api.Management@18.3.0
+- pkg:nuget/Umbraco.Cms.Api.Management@19.0.0-beta1
