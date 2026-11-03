@@ -1,6 +1,7 @@
 - pkg:nuget/Arshid.Aspire.ApiDocs.Extensions@1.0.0
 - pkg:nuget/Arshid.Aspire.ApiDocs.Extensions@1.0.1
 - pkg:nuget/Arshid.Aspire.ApiDocs.Extensions@1.0.2
+- pkg:nuget/Arshid.Aspire.ApiDocs.Extensions@13.4.6.1
 - pkg:nuget/Arshid.Aspire.ApiDocs.Extensions@9.1.0
 - pkg:nuget/Arshid.Aspire.ApiDocs.Extensions@9.2.0.2
 - pkg:nuget/Arshid.Aspire.ApiDocs.Extensions@9.3.0.1
