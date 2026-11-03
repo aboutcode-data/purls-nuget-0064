@@ -303,6 +303,9 @@
 - pkg:nuget/Soenneker.Blob.Delete@11.0.3153
 - pkg:nuget/Soenneker.Blob.Delete@11.0.3154
 - pkg:nuget/Soenneker.Blob.Delete@11.0.3163
+- pkg:nuget/Soenneker.Blob.Delete@11.0.3166
+- pkg:nuget/Soenneker.Blob.Delete@11.0.3167
+- pkg:nuget/Soenneker.Blob.Delete@11.0.3170
 - pkg:nuget/Soenneker.Blob.Delete@2.0.1
 - pkg:nuget/Soenneker.Blob.Delete@2.0.2
 - pkg:nuget/Soenneker.Blob.Delete@2.0.3
