@@ -152,6 +152,7 @@
 - pkg:nuget/Soenneker.Blob.Client@1.0.98
 - pkg:nuget/Soenneker.Blob.Client@1.0.99
 - pkg:nuget/Soenneker.Blob.Client@11.0.2263
+- pkg:nuget/Soenneker.Blob.Client@11.0.2267
 - pkg:nuget/Soenneker.Blob.Client@2.0.1
 - pkg:nuget/Soenneker.Blob.Client@2.0.154
 - pkg:nuget/Soenneker.Blob.Client@2.0.155
