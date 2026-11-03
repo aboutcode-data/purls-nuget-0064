@@ -153,6 +153,7 @@
 - pkg:nuget/BccCode.Core.Api.Client@0.0.2004-beta
 - pkg:nuget/BccCode.Core.Api.Client@0.0.2007
 - pkg:nuget/BccCode.Core.Api.Client@0.0.2007-beta
+- pkg:nuget/BccCode.Core.Api.Client@0.0.2044-beta
 - pkg:nuget/BccCode.Core.Api.Client@0.0.584
 - pkg:nuget/BccCode.Core.Api.Client@0.0.585
 - pkg:nuget/BccCode.Core.Api.Client@0.0.768
