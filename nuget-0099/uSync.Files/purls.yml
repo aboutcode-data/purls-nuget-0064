@@ -49,6 +49,7 @@
 - pkg:nuget/uSync.Files@13.2.0
 - pkg:nuget/uSync.Files@13.2.1
 - pkg:nuget/uSync.Files@13.2.2
+- pkg:nuget/uSync.Files@13.4.0-final
 - pkg:nuget/uSync.Files@14.0.0-preview001
 - pkg:nuget/uSync.Files@14.2.0
 - pkg:nuget/uSync.Files@14.2.1
