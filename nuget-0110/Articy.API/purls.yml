@@ -17,3 +17,6 @@
 - pkg:nuget/Articy.API@4.3.3
 - pkg:nuget/Articy.API@4.3.7
 - pkg:nuget/Articy.API@4.3.8
+- pkg:nuget/Articy.API@4.4.0
+- pkg:nuget/Articy.API@4.4.0-fix1
+- pkg:nuget/Articy.API@4.4.0.1
