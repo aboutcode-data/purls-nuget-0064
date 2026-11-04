@@ -19,6 +19,10 @@
 - pkg:nuget/Krosoft.Extensions.Events.Identity@2025.9.17.3061
 - pkg:nuget/Krosoft.Extensions.Events.Identity@2025.9.18.3261
 - pkg:nuget/Krosoft.Extensions.Events.Identity@2026.1.20.5207
+- pkg:nuget/Krosoft.Extensions.Events.Identity@2026.10.16.11676
+- pkg:nuget/Krosoft.Extensions.Events.Identity@2026.10.3.10998
+- pkg:nuget/Krosoft.Extensions.Events.Identity@2026.11.2.12416
+- pkg:nuget/Krosoft.Extensions.Events.Identity@2026.11.2.12470
 - pkg:nuget/Krosoft.Extensions.Events.Identity@2026.3.28.6274
 - pkg:nuget/Krosoft.Extensions.Events.Identity@2026.4.23.6985
 - pkg:nuget/Krosoft.Extensions.Events.Identity@2026.5.28.7428
