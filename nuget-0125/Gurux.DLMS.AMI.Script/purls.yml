@@ -57,3 +57,6 @@
 - pkg:nuget/Gurux.DLMS.AMI.Script@4.0.2404.401
 - pkg:nuget/Gurux.DLMS.AMI.Script@4.0.2404.501
 - pkg:nuget/Gurux.DLMS.AMI.Script@4.0.2604.202
+- pkg:nuget/Gurux.DLMS.AMI.Script@4.1.2610.2702
+- pkg:nuget/Gurux.DLMS.AMI.Script@4.1.2610.2901
+- pkg:nuget/Gurux.DLMS.AMI.Script@4.1.2610.3001
