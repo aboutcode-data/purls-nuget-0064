@@ -182,6 +182,7 @@
 - pkg:nuget/RestSrvr@3.0.2104-alpha
 - pkg:nuget/RestSrvr@3.0.2113
 - pkg:nuget/RestSrvr@3.0.2124
+- pkg:nuget/RestSrvr@3.0.2125
 - pkg:nuget/RestSrvr@3.0.480-alpha
 - pkg:nuget/RestSrvr@3.0.540-alpha
 - pkg:nuget/RestSrvr@3.0.600-alpha
