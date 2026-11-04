@@ -51,4 +51,5 @@
 - pkg:nuget/QuanTAlib@0.7.5
 - pkg:nuget/QuanTAlib@0.7.6
 - pkg:nuget/QuanTAlib@0.7.9
+- pkg:nuget/QuanTAlib@0.8.12
 - pkg:nuget/QuanTAlib@1.0.0
