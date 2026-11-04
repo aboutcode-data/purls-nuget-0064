@@ -1,3 +1,4 @@
+- pkg:nuget/Soenneker.Middlewares.LocalIpAddress@11.0.83
 - pkg:nuget/Soenneker.Middlewares.LocalIpAddress@3.0.10
 - pkg:nuget/Soenneker.Middlewares.LocalIpAddress@3.0.11
 - pkg:nuget/Soenneker.Middlewares.LocalIpAddress@3.0.12
@@ -51,3 +52,4 @@
 - pkg:nuget/Soenneker.Middlewares.LocalIpAddress@4.0.61
 - pkg:nuget/Soenneker.Middlewares.LocalIpAddress@4.0.64
 - pkg:nuget/Soenneker.Middlewares.LocalIpAddress@4.0.72
+- pkg:nuget/Soenneker.Middlewares.LocalIpAddress@4.0.75
