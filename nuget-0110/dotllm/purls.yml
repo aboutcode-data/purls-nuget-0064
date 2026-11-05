@@ -47,3 +47,5 @@
 - pkg:nuget/dotllm@0.3.0-dev.3753
 - pkg:nuget/dotllm@0.3.0-dev.3759
 - pkg:nuget/dotllm@0.3.0-dev.3762
+- pkg:nuget/dotllm@0.3.0-dev.3776
+- pkg:nuget/dotllm@0.3.0-dev.3795
