@@ -23,5 +23,6 @@
 - pkg:nuget/ClangSharpPInvokeGenerator@20.1.2.1
 - pkg:nuget/ClangSharpPInvokeGenerator@20.1.2.2
 - pkg:nuget/ClangSharpPInvokeGenerator@20.1.2.3
+- pkg:nuget/ClangSharpPInvokeGenerator@22.1.8
 - pkg:nuget/ClangSharpPInvokeGenerator@8.0.0-beta
 - pkg:nuget/ClangSharpPInvokeGenerator@9.0.0-beta
