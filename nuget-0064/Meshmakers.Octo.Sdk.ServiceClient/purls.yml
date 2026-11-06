@@ -535,3 +535,4 @@
 - pkg:nuget/Meshmakers.Octo.Sdk.ServiceClient@3.5.34
 - pkg:nuget/Meshmakers.Octo.Sdk.ServiceClient@3.5.49
 - pkg:nuget/Meshmakers.Octo.Sdk.ServiceClient@3.5.5
+- pkg:nuget/Meshmakers.Octo.Sdk.ServiceClient@3.5.64
