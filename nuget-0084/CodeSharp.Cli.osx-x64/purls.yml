@@ -7,6 +7,8 @@
 - pkg:nuget/CodeSharp.Cli.osx-x64@0.12.22
 - pkg:nuget/CodeSharp.Cli.osx-x64@0.12.23
 - pkg:nuget/CodeSharp.Cli.osx-x64@0.12.3
+- pkg:nuget/CodeSharp.Cli.osx-x64@0.12.31
+- pkg:nuget/CodeSharp.Cli.osx-x64@0.12.33
 - pkg:nuget/CodeSharp.Cli.osx-x64@0.9.20
 - pkg:nuget/CodeSharp.Cli.osx-x64@0.9.21
 - pkg:nuget/CodeSharp.Cli.osx-x64@0.9.22
