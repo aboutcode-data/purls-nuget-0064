@@ -1,6 +1,7 @@
 - pkg:nuget/Soenneker.Cloudflare.Workers@11.0.588
 - pkg:nuget/Soenneker.Cloudflare.Workers@11.0.592
 - pkg:nuget/Soenneker.Cloudflare.Workers@11.0.597
+- pkg:nuget/Soenneker.Cloudflare.Workers@11.0.612
 - pkg:nuget/Soenneker.Cloudflare.Workers@3.0.1
 - pkg:nuget/Soenneker.Cloudflare.Workers@3.0.10
 - pkg:nuget/Soenneker.Cloudflare.Workers@3.0.100
