@@ -7,6 +7,7 @@
 - pkg:nuget/Microsoft.WindowsDesktop.App.Ref@10.0.0-preview.7.25380.108
 - pkg:nuget/Microsoft.WindowsDesktop.App.Ref@10.0.0-rc.1.25451.107
 - pkg:nuget/Microsoft.WindowsDesktop.App.Ref@10.0.1
+- pkg:nuget/Microsoft.WindowsDesktop.App.Ref@10.0.15
 - pkg:nuget/Microsoft.WindowsDesktop.App.Ref@10.0.7
 - pkg:nuget/Microsoft.WindowsDesktop.App.Ref@10.0.8
 - pkg:nuget/Microsoft.WindowsDesktop.App.Ref@11.0.0-preview.1.26104.118
@@ -136,6 +137,7 @@
 - pkg:nuget/Microsoft.WindowsDesktop.App.Ref@8.0.31
 - pkg:nuget/Microsoft.WindowsDesktop.App.Ref@8.0.32
 - pkg:nuget/Microsoft.WindowsDesktop.App.Ref@8.0.33
+- pkg:nuget/Microsoft.WindowsDesktop.App.Ref@8.0.34
 - pkg:nuget/Microsoft.WindowsDesktop.App.Ref@8.0.4
 - pkg:nuget/Microsoft.WindowsDesktop.App.Ref@8.0.5
 - pkg:nuget/Microsoft.WindowsDesktop.App.Ref@8.0.6
