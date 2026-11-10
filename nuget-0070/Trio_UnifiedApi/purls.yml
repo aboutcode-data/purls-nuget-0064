@@ -22,3 +22,4 @@
 - pkg:nuget/Trio_UnifiedApi@1.2.0-rc1%2B7724805a
 - pkg:nuget/Trio_UnifiedApi@1.2.0-rc2%2B5cea533d
 - pkg:nuget/Trio_UnifiedApi@1.2.0-rc3%2Baf9bdf17
+- pkg:nuget/Trio_UnifiedApi@1.3.0
