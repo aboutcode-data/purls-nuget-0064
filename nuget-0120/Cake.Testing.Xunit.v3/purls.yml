@@ -1,1 +1,2 @@
 - pkg:nuget/Cake.Testing.Xunit.v3@6.0.0
+- pkg:nuget/Cake.Testing.Xunit.v3@7.0.0
