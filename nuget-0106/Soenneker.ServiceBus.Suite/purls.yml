@@ -287,6 +287,8 @@
 - pkg:nuget/Soenneker.ServiceBus.Suite@11.0.3231
 - pkg:nuget/Soenneker.ServiceBus.Suite@11.0.3242
 - pkg:nuget/Soenneker.ServiceBus.Suite@11.0.3256
+- pkg:nuget/Soenneker.ServiceBus.Suite@11.0.3259
+- pkg:nuget/Soenneker.ServiceBus.Suite@11.0.3261
 - pkg:nuget/Soenneker.ServiceBus.Suite@2.0.1
 - pkg:nuget/Soenneker.ServiceBus.Suite@2.0.2
 - pkg:nuget/Soenneker.ServiceBus.Suite@2.0.288
