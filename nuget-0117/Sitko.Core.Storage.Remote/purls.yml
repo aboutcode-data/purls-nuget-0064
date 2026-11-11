@@ -173,6 +173,8 @@
 - pkg:nuget/Sitko.Core.Storage.Remote@12.0.0
 - pkg:nuget/Sitko.Core.Storage.Remote@13.0.0-beta.1
 - pkg:nuget/Sitko.Core.Storage.Remote@13.0.0-beta.2
+- pkg:nuget/Sitko.Core.Storage.Remote@13.1.1
+- pkg:nuget/Sitko.Core.Storage.Remote@13.1.2
 - pkg:nuget/Sitko.Core.Storage.Remote@9.0.0
 - pkg:nuget/Sitko.Core.Storage.Remote@9.0.0-beta.10
 - pkg:nuget/Sitko.Core.Storage.Remote@9.0.0-beta.11
