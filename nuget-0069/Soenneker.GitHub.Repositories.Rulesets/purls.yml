@@ -4,6 +4,9 @@
 - pkg:nuget/Soenneker.GitHub.Repositories.Rulesets@11.0.1733
 - pkg:nuget/Soenneker.GitHub.Repositories.Rulesets@11.0.1743
 - pkg:nuget/Soenneker.GitHub.Repositories.Rulesets@11.0.1744
+- pkg:nuget/Soenneker.GitHub.Repositories.Rulesets@11.0.1746
+- pkg:nuget/Soenneker.GitHub.Repositories.Rulesets@11.0.1747
+- pkg:nuget/Soenneker.GitHub.Repositories.Rulesets@11.0.1748
 - pkg:nuget/Soenneker.GitHub.Repositories.Rulesets@3.0.1
 - pkg:nuget/Soenneker.GitHub.Repositories.Rulesets@3.0.10
 - pkg:nuget/Soenneker.GitHub.Repositories.Rulesets@3.0.100
