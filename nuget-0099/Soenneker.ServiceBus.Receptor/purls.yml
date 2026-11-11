@@ -212,6 +212,7 @@
 - pkg:nuget/Soenneker.ServiceBus.Receptor@1.0.99
 - pkg:nuget/Soenneker.ServiceBus.Receptor@11.0.2101
 - pkg:nuget/Soenneker.ServiceBus.Receptor@11.0.2105
+- pkg:nuget/Soenneker.ServiceBus.Receptor@11.0.2108
 - pkg:nuget/Soenneker.ServiceBus.Receptor@2.0.1
 - pkg:nuget/Soenneker.ServiceBus.Receptor@2.0.2
 - pkg:nuget/Soenneker.ServiceBus.Receptor@2.0.213
