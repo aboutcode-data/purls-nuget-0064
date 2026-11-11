@@ -296,6 +296,7 @@
 - pkg:nuget/Soenneker.Utils.BackgroundQueue@1.0.99
 - pkg:nuget/Soenneker.Utils.BackgroundQueue@11.0.2545
 - pkg:nuget/Soenneker.Utils.BackgroundQueue@11.0.2550
+- pkg:nuget/Soenneker.Utils.BackgroundQueue@11.0.2551
 - pkg:nuget/Soenneker.Utils.BackgroundQueue@2.0.1
 - pkg:nuget/Soenneker.Utils.BackgroundQueue@2.0.10
 - pkg:nuget/Soenneker.Utils.BackgroundQueue@2.0.11
