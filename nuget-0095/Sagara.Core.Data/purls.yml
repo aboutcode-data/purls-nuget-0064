@@ -76,4 +76,5 @@
 - pkg:nuget/Sagara.Core.Data@5.9.17
 - pkg:nuget/Sagara.Core.Data@5.9.2
 - pkg:nuget/Sagara.Core.Data@5.9.9
+- pkg:nuget/Sagara.Core.Data@6.0.0
 - pkg:nuget/Sagara.Core.Data@6.0.0-preview.17
