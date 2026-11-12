@@ -7,6 +7,7 @@
 - pkg:nuget/CodeSharp.Cli@0.12.3
 - pkg:nuget/CodeSharp.Cli@0.12.31
 - pkg:nuget/CodeSharp.Cli@0.12.33
+- pkg:nuget/CodeSharp.Cli@0.12.36
 - pkg:nuget/CodeSharp.Cli@0.9.20
 - pkg:nuget/CodeSharp.Cli@0.9.21
 - pkg:nuget/CodeSharp.Cli@0.9.22
