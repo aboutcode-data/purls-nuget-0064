@@ -1,4 +1,6 @@
 - pkg:nuget/Soenneker.Playwrights.Crawler@11.0.356
+- pkg:nuget/Soenneker.Playwrights.Crawler@11.0.365
+- pkg:nuget/Soenneker.Playwrights.Crawler@11.0.366
 - pkg:nuget/Soenneker.Playwrights.Crawler@4.0.1
 - pkg:nuget/Soenneker.Playwrights.Crawler@4.0.108
 - pkg:nuget/Soenneker.Playwrights.Crawler@4.0.121
