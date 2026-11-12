@@ -1,4 +1,6 @@
 - pkg:nuget/Soenneker.Extensions.Strings.Jwt@11.0.284
+- pkg:nuget/Soenneker.Extensions.Strings.Jwt@11.0.292
+- pkg:nuget/Soenneker.Extensions.Strings.Jwt@11.0.293
 - pkg:nuget/Soenneker.Extensions.Strings.Jwt@3.0.1
 - pkg:nuget/Soenneker.Extensions.Strings.Jwt@3.0.10
 - pkg:nuget/Soenneker.Extensions.Strings.Jwt@3.0.11
