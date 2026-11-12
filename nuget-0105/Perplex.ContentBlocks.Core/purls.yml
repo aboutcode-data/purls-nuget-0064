@@ -34,3 +34,4 @@
 - pkg:nuget/Perplex.ContentBlocks.Core@2.1.8
 - pkg:nuget/Perplex.ContentBlocks.Core@2.1.9
 - pkg:nuget/Perplex.ContentBlocks.Core@3.0.0
+- pkg:nuget/Perplex.ContentBlocks.Core@4.0.5
