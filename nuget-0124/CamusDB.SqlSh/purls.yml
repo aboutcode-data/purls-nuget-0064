@@ -8,6 +8,10 @@
 - pkg:nuget/CamusDB.SqlSh@0.0.5
 - pkg:nuget/CamusDB.SqlSh@0.0.7
 - pkg:nuget/CamusDB.SqlSh@0.0.8
+- pkg:nuget/CamusDB.SqlSh@0.10.0
+- pkg:nuget/CamusDB.SqlSh@0.10.1
+- pkg:nuget/CamusDB.SqlSh@0.11.1
+- pkg:nuget/CamusDB.SqlSh@0.17.2
 - pkg:nuget/CamusDB.SqlSh@0.4.2
 - pkg:nuget/CamusDB.SqlSh@0.5.7
 - pkg:nuget/CamusDB.SqlSh@0.5.8
