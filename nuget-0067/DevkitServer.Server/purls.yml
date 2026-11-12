@@ -36,6 +36,7 @@
 - pkg:nuget/DevkitServer.Server@0.0.41-server
 - pkg:nuget/DevkitServer.Server@0.0.42-server
 - pkg:nuget/DevkitServer.Server@0.0.43-server
+- pkg:nuget/DevkitServer.Server@0.0.47-server
 - pkg:nuget/DevkitServer.Server@0.0.5-server
 - pkg:nuget/DevkitServer.Server@0.0.6-server
 - pkg:nuget/DevkitServer.Server@0.0.7-server
