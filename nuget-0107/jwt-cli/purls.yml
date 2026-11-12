@@ -21,7 +21,10 @@
 - pkg:nuget/jwt-cli@0.1.35
 - pkg:nuget/jwt-cli@0.1.393
 - pkg:nuget/jwt-cli@0.1.42-preview
+- pkg:nuget/jwt-cli@0.1.427
 - pkg:nuget/jwt-cli@0.1.43-preview
+- pkg:nuget/jwt-cli@0.1.432
+- pkg:nuget/jwt-cli@0.1.433
 - pkg:nuget/jwt-cli@0.1.45
 - pkg:nuget/jwt-cli@0.1.46-preview
 - pkg:nuget/jwt-cli@0.1.47-preview
