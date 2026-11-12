@@ -7,3 +7,6 @@
 - pkg:nuget/RedMist.TimingCommon@1.1.0
 - pkg:nuget/RedMist.TimingCommon@1.1.2
 - pkg:nuget/RedMist.TimingCommon@1.1.3
+- pkg:nuget/RedMist.TimingCommon@1.17.1
+- pkg:nuget/RedMist.TimingCommon@1.19.2
+- pkg:nuget/RedMist.TimingCommon@1.5.1
