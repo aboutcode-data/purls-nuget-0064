@@ -31,3 +31,5 @@
 - pkg:nuget/Meziantou.Framework.NuGetPackageValidation.Tool@1.0.8
 - pkg:nuget/Meziantou.Framework.NuGetPackageValidation.Tool@1.0.9
 - pkg:nuget/Meziantou.Framework.NuGetPackageValidation.Tool@2.0.0
+- pkg:nuget/Meziantou.Framework.NuGetPackageValidation.Tool@2.0.15
+- pkg:nuget/Meziantou.Framework.NuGetPackageValidation.Tool@2.0.18
