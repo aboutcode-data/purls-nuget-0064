@@ -21,3 +21,5 @@
 - pkg:nuget/Tooark.Entities@2.1.9
 - pkg:nuget/Tooark.Entities@2.3.0
 - pkg:nuget/Tooark.Entities@3.2.0
+- pkg:nuget/Tooark.Entities@4.6.0
+- pkg:nuget/Tooark.Entities@4.7.3
