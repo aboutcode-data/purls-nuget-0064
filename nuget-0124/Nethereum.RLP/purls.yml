@@ -76,3 +76,4 @@
 - pkg:nuget/Nethereum.RLP@4.8.0
 - pkg:nuget/Nethereum.RLP@4.9.0
 - pkg:nuget/Nethereum.RLP@5.0.0
+- pkg:nuget/Nethereum.RLP@7.1.0

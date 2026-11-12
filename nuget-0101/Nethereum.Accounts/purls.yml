@@ -61,3 +61,4 @@
 - pkg:nuget/Nethereum.Accounts@4.8.0
 - pkg:nuget/Nethereum.Accounts@4.9.0
 - pkg:nuget/Nethereum.Accounts@5.0.0
+- pkg:nuget/Nethereum.Accounts@7.1.0
