@@ -2,6 +2,8 @@
 - pkg:nuget/Soenneker.Cloudflare.Downloader@11.0.457
 - pkg:nuget/Soenneker.Cloudflare.Downloader@11.0.462
 - pkg:nuget/Soenneker.Cloudflare.Downloader@11.0.463
+- pkg:nuget/Soenneker.Cloudflare.Downloader@11.0.468
+- pkg:nuget/Soenneker.Cloudflare.Downloader@11.0.471
 - pkg:nuget/Soenneker.Cloudflare.Downloader@3.0.1
 - pkg:nuget/Soenneker.Cloudflare.Downloader@3.0.10
 - pkg:nuget/Soenneker.Cloudflare.Downloader@3.0.11
