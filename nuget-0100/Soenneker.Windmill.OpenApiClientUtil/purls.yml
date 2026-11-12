@@ -4,6 +4,8 @@
 - pkg:nuget/Soenneker.Windmill.OpenApiClientUtil@11.0.250
 - pkg:nuget/Soenneker.Windmill.OpenApiClientUtil@11.0.259
 - pkg:nuget/Soenneker.Windmill.OpenApiClientUtil@11.0.269
+- pkg:nuget/Soenneker.Windmill.OpenApiClientUtil@11.0.273
+- pkg:nuget/Soenneker.Windmill.OpenApiClientUtil@11.0.275
 - pkg:nuget/Soenneker.Windmill.OpenApiClientUtil@4.0.11
 - pkg:nuget/Soenneker.Windmill.OpenApiClientUtil@4.0.124
 - pkg:nuget/Soenneker.Windmill.OpenApiClientUtil@4.0.137
