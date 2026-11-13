@@ -2,6 +2,7 @@
 - pkg:nuget/DubUrl.Schema.Documents@0.101.3
 - pkg:nuget/DubUrl.Schema.Documents@0.104.0
 - pkg:nuget/DubUrl.Schema.Documents@0.105.0
+- pkg:nuget/DubUrl.Schema.Documents@0.106.0
 - pkg:nuget/DubUrl.Schema.Documents@0.34.0
 - pkg:nuget/DubUrl.Schema.Documents@0.35.0
 - pkg:nuget/DubUrl.Schema.Documents@0.36.0
