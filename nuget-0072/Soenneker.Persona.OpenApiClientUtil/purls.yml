@@ -1,3 +1,10 @@
+- pkg:nuget/Soenneker.Persona.OpenApiClientUtil@11.0.271
+- pkg:nuget/Soenneker.Persona.OpenApiClientUtil@11.0.272
+- pkg:nuget/Soenneker.Persona.OpenApiClientUtil@11.0.274
+- pkg:nuget/Soenneker.Persona.OpenApiClientUtil@11.0.278
+- pkg:nuget/Soenneker.Persona.OpenApiClientUtil@11.0.283
+- pkg:nuget/Soenneker.Persona.OpenApiClientUtil@11.0.289
+- pkg:nuget/Soenneker.Persona.OpenApiClientUtil@11.0.301
 - pkg:nuget/Soenneker.Persona.OpenApiClientUtil@4.0.114
 - pkg:nuget/Soenneker.Persona.OpenApiClientUtil@4.0.128
 - pkg:nuget/Soenneker.Persona.OpenApiClientUtil@4.0.133
