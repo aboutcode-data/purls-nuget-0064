@@ -1,4 +1,5 @@
 - pkg:nuget/ZhileTime.Hope.InvoiceManagement.Installer@11.1.0
+- pkg:nuget/ZhileTime.Hope.InvoiceManagement.Installer@12.0.0
 - pkg:nuget/ZhileTime.Hope.InvoiceManagement.Installer@3.5.0
 - pkg:nuget/ZhileTime.Hope.InvoiceManagement.Installer@3.6.0
 - pkg:nuget/ZhileTime.Hope.InvoiceManagement.Installer@3.6.1
