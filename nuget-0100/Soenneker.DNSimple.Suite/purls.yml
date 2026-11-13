@@ -8,6 +8,8 @@
 - pkg:nuget/Soenneker.DNSimple.Suite@11.0.1924
 - pkg:nuget/Soenneker.DNSimple.Suite@11.0.1929
 - pkg:nuget/Soenneker.DNSimple.Suite@11.0.1932
+- pkg:nuget/Soenneker.DNSimple.Suite@11.0.1949
+- pkg:nuget/Soenneker.DNSimple.Suite@11.0.1950
 - pkg:nuget/Soenneker.DNSimple.Suite@3.0.1
 - pkg:nuget/Soenneker.DNSimple.Suite@3.0.10
 - pkg:nuget/Soenneker.DNSimple.Suite@3.0.100
