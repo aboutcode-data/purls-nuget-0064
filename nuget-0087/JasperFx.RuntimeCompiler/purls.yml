@@ -55,3 +55,4 @@
 - pkg:nuget/JasperFx.RuntimeCompiler@4.0.0-beta-1
 - pkg:nuget/JasperFx.RuntimeCompiler@4.0.0-beta-2
 - pkg:nuget/JasperFx.RuntimeCompiler@4.0.0-beta-3
+- pkg:nuget/JasperFx.RuntimeCompiler@6.0.0
