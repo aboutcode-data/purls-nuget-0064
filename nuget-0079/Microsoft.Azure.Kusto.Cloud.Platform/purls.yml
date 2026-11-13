@@ -39,6 +39,7 @@
 - pkg:nuget/Microsoft.Azure.Kusto.Cloud.Platform@13.0.2
 - pkg:nuget/Microsoft.Azure.Kusto.Cloud.Platform@14.0.0
 - pkg:nuget/Microsoft.Azure.Kusto.Cloud.Platform@14.0.1
+- pkg:nuget/Microsoft.Azure.Kusto.Cloud.Platform@14.2.4
 - pkg:nuget/Microsoft.Azure.Kusto.Cloud.Platform@7.0.0-preview
 - pkg:nuget/Microsoft.Azure.Kusto.Cloud.Platform@7.0.1-preview
 - pkg:nuget/Microsoft.Azure.Kusto.Cloud.Platform@7.1.0
