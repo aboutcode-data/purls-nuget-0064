@@ -34,6 +34,7 @@
 - pkg:nuget/ZhileTime.Hope.AspNetCore.Mvc.UI.Packages@1.8.5
 - pkg:nuget/ZhileTime.Hope.AspNetCore.Mvc.UI.Packages@11.1.0
 - pkg:nuget/ZhileTime.Hope.AspNetCore.Mvc.UI.Packages@11.4.0
+- pkg:nuget/ZhileTime.Hope.AspNetCore.Mvc.UI.Packages@12.0.0
 - pkg:nuget/ZhileTime.Hope.AspNetCore.Mvc.UI.Packages@2.1.0
 - pkg:nuget/ZhileTime.Hope.AspNetCore.Mvc.UI.Packages@2.2.0
 - pkg:nuget/ZhileTime.Hope.AspNetCore.Mvc.UI.Packages@2.2.1
