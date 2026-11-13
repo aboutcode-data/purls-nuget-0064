@@ -3,3 +3,4 @@
 - pkg:nuget/iTool.MyDatabase.Lucene@4.0.20-idbgrid.20261111.1
 - pkg:nuget/iTool.MyDatabase.Lucene@4.0.20-idbgrid.20261111.2
 - pkg:nuget/iTool.MyDatabase.Lucene@4.0.22-idbmem.20261111.1
+- pkg:nuget/iTool.MyDatabase.Lucene@4.0.30-idbanalyze.20261112.6
