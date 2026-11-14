@@ -1,7 +1,15 @@
 - pkg:nuget/NetAgents.Analyzers@26.10.13.8288
 - pkg:nuget/NetAgents.Analyzers@26.10.13.8484
 - pkg:nuget/NetAgents.Analyzers@26.10.13.8829
+- pkg:nuget/NetAgents.Analyzers@26.10.30.6264
 - pkg:nuget/NetAgents.Analyzers@26.10.9.6517
+- pkg:nuget/NetAgents.Analyzers@26.11.12.3529
+- pkg:nuget/NetAgents.Analyzers@26.11.12.4219
+- pkg:nuget/NetAgents.Analyzers@26.11.12.9959
+- pkg:nuget/NetAgents.Analyzers@26.11.13.1077
+- pkg:nuget/NetAgents.Analyzers@26.11.13.3130
+- pkg:nuget/NetAgents.Analyzers@26.11.13.3216
+- pkg:nuget/NetAgents.Analyzers@26.11.13.3279
 - pkg:nuget/NetAgents.Analyzers@26.9.11.8802
 - pkg:nuget/NetAgents.Analyzers@26.9.12.9249
 - pkg:nuget/NetAgents.Analyzers@26.9.14.3262
