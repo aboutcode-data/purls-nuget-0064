@@ -1,2 +1,5 @@
 - pkg:nuget/MiniFox@6.0.0
 - pkg:nuget/MiniFox@8.0.0
+- pkg:nuget/MiniFox@8.1.5
+- pkg:nuget/MiniFox@8.1.8
+- pkg:nuget/MiniFox@8.2.5
