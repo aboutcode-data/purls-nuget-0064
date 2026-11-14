@@ -58,3 +58,4 @@
 - pkg:nuget/IbanNet.FluentValidation@5.8.0
 - pkg:nuget/IbanNet.FluentValidation@5.8.1
 - pkg:nuget/IbanNet.FluentValidation@5.9.0
+- pkg:nuget/IbanNet.FluentValidation@6.2.1
