@@ -3,4 +3,8 @@
 - pkg:nuget/Umbraco.AI.Web.StaticAssets@1.4.1
 - pkg:nuget/Umbraco.AI.Web.StaticAssets@1.5.0
 - pkg:nuget/Umbraco.AI.Web.StaticAssets@1.7.0
+- pkg:nuget/Umbraco.AI.Web.StaticAssets@17.6.1
 - pkg:nuget/Umbraco.AI.Web.StaticAssets@18.0.0
+- pkg:nuget/Umbraco.AI.Web.StaticAssets@18.4.0-rc.4
+- pkg:nuget/Umbraco.AI.Web.StaticAssets@18.6.1
+- pkg:nuget/Umbraco.AI.Web.StaticAssets@19.0.0-rc.1
