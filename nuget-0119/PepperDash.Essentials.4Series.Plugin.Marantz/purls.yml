@@ -29,3 +29,4 @@
 - pkg:nuget/PepperDash.Essentials.4Series.Plugin.Marantz@1.0.3
 - pkg:nuget/PepperDash.Essentials.4Series.Plugin.Marantz@1.0.3-UpdateEssentials.1
 - pkg:nuget/PepperDash.Essentials.4Series.Plugin.Marantz@1.1.0-fix-surround-mode-name.4
+- pkg:nuget/PepperDash.Essentials.4Series.Plugin.Marantz@1.3.0-feature-add-mock-device.6
