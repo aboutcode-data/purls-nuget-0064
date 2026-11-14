@@ -12,3 +12,4 @@
 - pkg:nuget/CachingFramework.Redis.NewtonsoftJson@15.0.1
 - pkg:nuget/CachingFramework.Redis.NewtonsoftJson@15.0.2
 - pkg:nuget/CachingFramework.Redis.NewtonsoftJson@16.0.0
+- pkg:nuget/CachingFramework.Redis.NewtonsoftJson@18.0.0
