@@ -1,5 +1,7 @@
 - pkg:nuget/Solhigson.Framework.Core@10.0.15
 - pkg:nuget/Solhigson.Framework.Core@10.0.8
+- pkg:nuget/Solhigson.Framework.Core@10.10.0
+- pkg:nuget/Solhigson.Framework.Core@10.19.0
 - pkg:nuget/Solhigson.Framework.Core@8.0.15
 - pkg:nuget/Solhigson.Framework.Core@8.0.16
 - pkg:nuget/Solhigson.Framework.Core@8.0.17
@@ -79,6 +81,7 @@
 - pkg:nuget/Solhigson.Framework.Core@8.16.41
 - pkg:nuget/Solhigson.Framework.Core@8.16.43
 - pkg:nuget/Solhigson.Framework.Core@8.16.44
+- pkg:nuget/Solhigson.Framework.Core@8.16.47
 - pkg:nuget/Solhigson.Framework.Core@8.16.5
 - pkg:nuget/Solhigson.Framework.Core@8.16.6
 - pkg:nuget/Solhigson.Framework.Core@8.16.7
