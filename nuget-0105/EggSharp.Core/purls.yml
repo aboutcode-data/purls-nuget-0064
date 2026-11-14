@@ -1,0 +1,5 @@
+- pkg:nuget/EggSharp.Core@12.0.0
+- pkg:nuget/EggSharp.Core@13.0.0
+- pkg:nuget/EggSharp.Core@14.0.0
+- pkg:nuget/EggSharp.Core@27.0.0
+- pkg:nuget/EggSharp.Core@9.0.0
