@@ -24,3 +24,4 @@
 - pkg:nuget/Cistern.ValueLinq@0.1.7
 - pkg:nuget/Cistern.ValueLinq@0.1.8
 - pkg:nuget/Cistern.ValueLinq@0.1.9
+- pkg:nuget/Cistern.ValueLinq@1.0.0-preview.1
