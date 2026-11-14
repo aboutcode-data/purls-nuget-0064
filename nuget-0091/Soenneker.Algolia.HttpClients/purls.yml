@@ -1,3 +1,7 @@
+- pkg:nuget/Soenneker.Algolia.HttpClients@11.0.164
+- pkg:nuget/Soenneker.Algolia.HttpClients@11.0.171
+- pkg:nuget/Soenneker.Algolia.HttpClients@11.0.172
+- pkg:nuget/Soenneker.Algolia.HttpClients@11.0.174
 - pkg:nuget/Soenneker.Algolia.HttpClients@4.0.105
 - pkg:nuget/Soenneker.Algolia.HttpClients@4.0.107
 - pkg:nuget/Soenneker.Algolia.HttpClients@4.0.110
