@@ -44,6 +44,8 @@
 - pkg:nuget/Nitrocid.Analyzers@0.1.0.79
 - pkg:nuget/Nitrocid.Analyzers@0.1.0.85
 - pkg:nuget/Nitrocid.Analyzers@0.1.0.86
+- pkg:nuget/Nitrocid.Analyzers@0.1.0.89
+- pkg:nuget/Nitrocid.Analyzers@0.1.0.91
 - pkg:nuget/Nitrocid.Analyzers@0.1.1
 - pkg:nuget/Nitrocid.Analyzers@0.1.1.1
 - pkg:nuget/Nitrocid.Analyzers@0.1.1.10
@@ -108,4 +110,6 @@
 - pkg:nuget/Nitrocid.Analyzers@0.2.0-beta
 - pkg:nuget/Nitrocid.Analyzers@0.2.0.12
 - pkg:nuget/Nitrocid.Analyzers@0.2.0.18
+- pkg:nuget/Nitrocid.Analyzers@0.2.0.21
+- pkg:nuget/Nitrocid.Analyzers@0.2.0.22
 - pkg:nuget/Nitrocid.Analyzers@0.2.0.7
