@@ -9,3 +9,5 @@
 - pkg:nuget/JGUZDV.Extensions.Logging@1.2.8
 - pkg:nuget/JGUZDV.Extensions.Logging@1.2.9
 - pkg:nuget/JGUZDV.Extensions.Logging@1.3.0
+- pkg:nuget/JGUZDV.Extensions.Logging@2.0.0
+- pkg:nuget/JGUZDV.Extensions.Logging@2.0.1
