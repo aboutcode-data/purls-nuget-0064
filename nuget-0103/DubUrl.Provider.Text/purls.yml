@@ -8,3 +8,4 @@
 - pkg:nuget/DubUrl.Provider.Text@0.55.0
 - pkg:nuget/DubUrl.Provider.Text@0.56.0
 - pkg:nuget/DubUrl.Provider.Text@0.64.0
+- pkg:nuget/DubUrl.Provider.Text@0.69.1
