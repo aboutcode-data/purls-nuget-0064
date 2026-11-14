@@ -5,6 +5,7 @@
 - pkg:nuget/ParserCodeGenerator.Api@0.0.14
 - pkg:nuget/ParserCodeGenerator.Api@0.0.15
 - pkg:nuget/ParserCodeGenerator.Api@0.0.16
+- pkg:nuget/ParserCodeGenerator.Api@0.0.20
 - pkg:nuget/ParserCodeGenerator.Api@0.0.6
 - pkg:nuget/ParserCodeGenerator.Api@0.0.7
 - pkg:nuget/ParserCodeGenerator.Api@0.0.8
