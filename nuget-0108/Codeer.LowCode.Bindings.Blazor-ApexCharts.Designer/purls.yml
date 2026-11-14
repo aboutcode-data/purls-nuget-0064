@@ -4,6 +4,8 @@
 - pkg:nuget/Codeer.LowCode.Bindings.Blazor-ApexCharts.Designer@0.17.0
 - pkg:nuget/Codeer.LowCode.Bindings.Blazor-ApexCharts.Designer@0.18.0
 - pkg:nuget/Codeer.LowCode.Bindings.Blazor-ApexCharts.Designer@0.19.0
+- pkg:nuget/Codeer.LowCode.Bindings.Blazor-ApexCharts.Designer@0.28.0
+- pkg:nuget/Codeer.LowCode.Bindings.Blazor-ApexCharts.Designer@0.28.1
 - pkg:nuget/Codeer.LowCode.Bindings.Blazor-ApexCharts.Designer@0.6.0
 - pkg:nuget/Codeer.LowCode.Bindings.Blazor-ApexCharts.Designer@0.7.0
 - pkg:nuget/Codeer.LowCode.Bindings.Blazor-ApexCharts.Designer@0.8.0
