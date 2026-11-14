@@ -1,0 +1,5 @@
+- pkg:nuget/DicomObjects.Core.Maui@10.0.2.7-preview
+- pkg:nuget/DicomObjects.Core.Maui@10.0.5.3
+- pkg:nuget/DicomObjects.Core.Maui@10.0.5.6-preview
+- pkg:nuget/DicomObjects.Core.Maui@10.0.6.5-preview
+- pkg:nuget/DicomObjects.Core.Maui@10.0.7
