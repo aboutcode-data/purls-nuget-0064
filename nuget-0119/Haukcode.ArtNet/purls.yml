@@ -56,3 +56,5 @@
 - pkg:nuget/Haukcode.ArtNet@4.0.92
 - pkg:nuget/Haukcode.ArtNet@4.0.93
 - pkg:nuget/Haukcode.ArtNet@4.0.94
+- pkg:nuget/Haukcode.ArtNet@5.0.135
+- pkg:nuget/Haukcode.ArtNet@5.0.136
