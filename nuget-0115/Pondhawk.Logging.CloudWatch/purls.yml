@@ -1,0 +1,6 @@
+- pkg:nuget/Pondhawk.Logging.CloudWatch@1.0.21
+- pkg:nuget/Pondhawk.Logging.CloudWatch@1.0.23
+- pkg:nuget/Pondhawk.Logging.CloudWatch@1.0.28
+- pkg:nuget/Pondhawk.Logging.CloudWatch@1.1.37
+- pkg:nuget/Pondhawk.Logging.CloudWatch@1.2.62
+- pkg:nuget/Pondhawk.Logging.CloudWatch@4.0.82
