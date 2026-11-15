@@ -11,6 +11,7 @@
 - pkg:nuget/NetAgents.Analyzers@26.11.13.3216
 - pkg:nuget/NetAgents.Analyzers@26.11.13.3279
 - pkg:nuget/NetAgents.Analyzers@26.11.14.7153
+- pkg:nuget/NetAgents.Analyzers@26.11.15.4281
 - pkg:nuget/NetAgents.Analyzers@26.9.11.8802
 - pkg:nuget/NetAgents.Analyzers@26.9.12.9249
 - pkg:nuget/NetAgents.Analyzers@26.9.14.3262
