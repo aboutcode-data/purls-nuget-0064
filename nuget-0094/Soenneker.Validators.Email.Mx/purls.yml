@@ -6,6 +6,7 @@
 - pkg:nuget/Soenneker.Validators.Email.Mx@11.0.2832
 - pkg:nuget/Soenneker.Validators.Email.Mx@11.0.2833
 - pkg:nuget/Soenneker.Validators.Email.Mx@11.0.2835
+- pkg:nuget/Soenneker.Validators.Email.Mx@11.0.2839
 - pkg:nuget/Soenneker.Validators.Email.Mx@2.1.1
 - pkg:nuget/Soenneker.Validators.Email.Mx@2.1.10
 - pkg:nuget/Soenneker.Validators.Email.Mx@2.1.100
