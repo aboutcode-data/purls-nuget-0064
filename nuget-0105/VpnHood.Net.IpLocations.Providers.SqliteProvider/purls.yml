@@ -1,2 +1,3 @@
 - pkg:nuget/VpnHood.Net.IpLocations.Providers.SqliteProvider@8.2.852
 - pkg:nuget/VpnHood.Net.IpLocations.Providers.SqliteProvider@9.0.855
+- pkg:nuget/VpnHood.Net.IpLocations.Providers.SqliteProvider@9.1.875
