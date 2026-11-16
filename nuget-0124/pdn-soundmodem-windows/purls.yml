@@ -1,4 +1,5 @@
 - pkg:nuget/pdn-soundmodem-windows@0.106.0
+- pkg:nuget/pdn-soundmodem-windows@0.109.0
 - pkg:nuget/pdn-soundmodem-windows@0.81.0
 - pkg:nuget/pdn-soundmodem-windows@0.87.2
 - pkg:nuget/pdn-soundmodem-windows@0.90.0
