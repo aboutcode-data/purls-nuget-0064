@@ -121,3 +121,5 @@
 - pkg:nuget/Credfeto.Package.Update.win-arm64@1.10.219.2848-main
 - pkg:nuget/Credfeto.Package.Update.win-arm64@1.10.219.2854-main
 - pkg:nuget/Credfeto.Package.Update.win-arm64@1.10.219.2855-main
+- pkg:nuget/Credfeto.Package.Update.win-arm64@1.10.219.2863-main
+- pkg:nuget/Credfeto.Package.Update.win-arm64@1.10.219.2864-main
