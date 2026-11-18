@@ -9,6 +9,8 @@
 - pkg:nuget/Oqtane.Server@10.2.0
 - pkg:nuget/Oqtane.Server@10.3.0
 - pkg:nuget/Oqtane.Server@10.3.1
+- pkg:nuget/Oqtane.Server@10.3.2
+- pkg:nuget/Oqtane.Server@11.0.0
 - pkg:nuget/Oqtane.Server@2.0.0
 - pkg:nuget/Oqtane.Server@2.0.1
 - pkg:nuget/Oqtane.Server@2.0.2
