@@ -60,6 +60,7 @@
 - pkg:nuget/OCI.DotNetSDK.Apigateway@15.0.0
 - pkg:nuget/OCI.DotNetSDK.Apigateway@15.1.0
 - pkg:nuget/OCI.DotNetSDK.Apigateway@15.2.0
+- pkg:nuget/OCI.DotNetSDK.Apigateway@151.0.0
 - pkg:nuget/OCI.DotNetSDK.Apigateway@16.0.0
 - pkg:nuget/OCI.DotNetSDK.Apigateway@17.0.0
 - pkg:nuget/OCI.DotNetSDK.Apigateway@17.1.0
