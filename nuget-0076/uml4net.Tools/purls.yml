@@ -28,3 +28,5 @@
 - pkg:nuget/uml4net.Tools@7.0.1
 - pkg:nuget/uml4net.Tools@8.0.0
 - pkg:nuget/uml4net.Tools@8.0.1
+- pkg:nuget/uml4net.Tools@9.1.0
+- pkg:nuget/uml4net.Tools@9.2.0

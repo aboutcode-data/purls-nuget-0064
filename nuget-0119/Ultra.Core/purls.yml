@@ -10,3 +10,5 @@
 - pkg:nuget/Ultra.Core@2.0.0
 - pkg:nuget/Ultra.Core@2.0.1
 - pkg:nuget/Ultra.Core@2.0.2
+- pkg:nuget/Ultra.Core@3.5.0
+- pkg:nuget/Ultra.Core@4.3.0
