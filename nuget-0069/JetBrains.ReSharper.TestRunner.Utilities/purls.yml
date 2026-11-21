@@ -8,6 +8,7 @@
 - pkg:nuget/JetBrains.ReSharper.TestRunner.Utilities@2.14.1.15
 - pkg:nuget/JetBrains.ReSharper.TestRunner.Utilities@2.16.1.15
 - pkg:nuget/JetBrains.ReSharper.TestRunner.Utilities@2.16.1.16
+- pkg:nuget/JetBrains.ReSharper.TestRunner.Utilities@2.16.1.18
 - pkg:nuget/JetBrains.ReSharper.TestRunner.Utilities@2.2.1.6
 - pkg:nuget/JetBrains.ReSharper.TestRunner.Utilities@2.6.1.6
 - pkg:nuget/JetBrains.ReSharper.TestRunner.Utilities@2.6.1.7
