@@ -3,3 +3,4 @@
 - pkg:nuget/ECMAScript.Vue.Devtools@0.25.0
 - pkg:nuget/ECMAScript.Vue.Devtools@0.27.0
 - pkg:nuget/ECMAScript.Vue.Devtools@1.0.0
+- pkg:nuget/ECMAScript.Vue.Devtools@2.1.0-preview.5
