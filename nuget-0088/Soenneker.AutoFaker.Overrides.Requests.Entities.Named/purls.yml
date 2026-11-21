@@ -1,5 +1,6 @@
 - pkg:nuget/Soenneker.AutoFaker.Overrides.Requests.Entities.Named@11.0.420
 - pkg:nuget/Soenneker.AutoFaker.Overrides.Requests.Entities.Named@11.0.421
+- pkg:nuget/Soenneker.AutoFaker.Overrides.Requests.Entities.Named@11.0.442
 - pkg:nuget/Soenneker.AutoFaker.Overrides.Requests.Entities.Named@3.0.1
 - pkg:nuget/Soenneker.AutoFaker.Overrides.Requests.Entities.Named@3.0.10
 - pkg:nuget/Soenneker.AutoFaker.Overrides.Requests.Entities.Named@3.0.100
