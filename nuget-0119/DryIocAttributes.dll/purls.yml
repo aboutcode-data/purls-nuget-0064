@@ -85,4 +85,5 @@
 - pkg:nuget/DryIocAttributes.dll@6.0.1
 - pkg:nuget/DryIocAttributes.dll@6.1.0
 - pkg:nuget/DryIocAttributes.dll@7.0.0
+- pkg:nuget/DryIocAttributes.dll@8.0.0
 - pkg:nuget/DryIocAttributes.dll@8.0.0-preview-01
