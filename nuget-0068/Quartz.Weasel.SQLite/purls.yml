@@ -1,2 +1,3 @@
 - pkg:nuget/Quartz.Weasel.SQLite@4.3.0
 - pkg:nuget/Quartz.Weasel.SQLite@4.5.0
+- pkg:nuget/Quartz.Weasel.SQLite@4.8.1
