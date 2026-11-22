@@ -22,6 +22,7 @@
 - pkg:nuget/Sundew.CommandLine@10.0.12%2B36b513e9b2
 - pkg:nuget/Sundew.CommandLine@10.0.13%2B6092fe0b9f
 - pkg:nuget/Sundew.CommandLine@10.0.14%2Bde34730edb
+- pkg:nuget/Sundew.CommandLine@10.0.19%2B59d223fd34
 - pkg:nuget/Sundew.CommandLine@10.0.2%2Bbfd8124687
 - pkg:nuget/Sundew.CommandLine@10.0.2-u20230416-224316-ci%2Bbfd8124687
 - pkg:nuget/Sundew.CommandLine@10.0.3%2Bfa0dc29277
