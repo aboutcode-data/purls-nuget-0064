@@ -78,6 +78,7 @@
 - pkg:nuget/Marten@1.5.3
 - pkg:nuget/Marten@10.0.0-alpha.1
 - pkg:nuget/Marten@10.0.0-alpha.5
+- pkg:nuget/Marten@10.0.0-rc.3
 - pkg:nuget/Marten@2.0.0
 - pkg:nuget/Marten@2.0.0-alpha-50651
 - pkg:nuget/Marten@2.0.0-alpha-51133
