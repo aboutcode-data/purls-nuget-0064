@@ -1,0 +1,5 @@
+- pkg:nuget/Webority.Payments.Stripe@0.38.1
+- pkg:nuget/Webority.Payments.Stripe@0.42.0
+- pkg:nuget/Webority.Payments.Stripe@0.43.0
+- pkg:nuget/Webority.Payments.Stripe@0.45.0
+- pkg:nuget/Webority.Payments.Stripe@0.45.1
