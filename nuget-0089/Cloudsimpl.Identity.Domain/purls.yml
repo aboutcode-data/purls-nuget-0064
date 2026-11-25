@@ -21,3 +21,5 @@
 - pkg:nuget/Cloudsimpl.Identity.Domain@4.0.18
 - pkg:nuget/Cloudsimpl.Identity.Domain@4.0.7
 - pkg:nuget/Cloudsimpl.Identity.Domain@4.0.9
+- pkg:nuget/Cloudsimpl.Identity.Domain@7.0.10
+- pkg:nuget/Cloudsimpl.Identity.Domain@7.0.7
