@@ -27,3 +27,5 @@
 - pkg:nuget/Presentation.Web.Notifications@10.0.117-preview.0.1
 - pkg:nuget/Presentation.Web.Notifications@10.0.118
 - pkg:nuget/Presentation.Web.Notifications@10.0.123
+- pkg:nuget/Presentation.Web.Notifications@10.0.129
+- pkg:nuget/Presentation.Web.Notifications@10.0.130
