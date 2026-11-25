@@ -1,5 +1,7 @@
 - pkg:nuget/Webority.Email.Abstractions@0.101.0
 - pkg:nuget/Webority.Email.Abstractions@0.101.1
+- pkg:nuget/Webority.Email.Abstractions@0.101.3
+- pkg:nuget/Webority.Email.Abstractions@0.102.2
 - pkg:nuget/Webority.Email.Abstractions@0.94.0
 - pkg:nuget/Webority.Email.Abstractions@0.96.0
 - pkg:nuget/Webority.Email.Abstractions@0.98.0
