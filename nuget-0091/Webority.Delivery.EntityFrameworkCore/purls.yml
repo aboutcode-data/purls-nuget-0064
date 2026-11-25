@@ -20,3 +20,4 @@
 - pkg:nuget/Webority.Delivery.EntityFrameworkCore@0.66.0
 - pkg:nuget/Webority.Delivery.EntityFrameworkCore@0.70.0
 - pkg:nuget/Webority.Delivery.EntityFrameworkCore@0.70.1
+- pkg:nuget/Webority.Delivery.EntityFrameworkCore@0.70.3
