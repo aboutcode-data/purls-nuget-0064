@@ -32,3 +32,4 @@
 - pkg:nuget/Cdklabs.CdkCicdWrapper@1.1.0
 - pkg:nuget/Cdklabs.CdkCicdWrapper@1.1.1
 - pkg:nuget/Cdklabs.CdkCicdWrapper@1.2.0
+- pkg:nuget/Cdklabs.CdkCicdWrapper@2.8.0
