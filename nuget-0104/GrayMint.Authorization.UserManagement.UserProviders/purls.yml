@@ -73,3 +73,4 @@
 - pkg:nuget/GrayMint.Authorization.UserManagement.UserProviders@3.2.206
 - pkg:nuget/GrayMint.Authorization.UserManagement.UserProviders@3.2.210
 - pkg:nuget/GrayMint.Authorization.UserManagement.UserProviders@4.0.2
+- pkg:nuget/GrayMint.Authorization.UserManagement.UserProviders@4.0.4
