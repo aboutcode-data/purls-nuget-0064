@@ -61,3 +61,4 @@
 - pkg:nuget/KokoroSharp@0.6.2
 - pkg:nuget/KokoroSharp@0.7.0
 - pkg:nuget/KokoroSharp@0.8.0
+- pkg:nuget/KokoroSharp@0.8.5
