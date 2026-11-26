@@ -1,3 +1,5 @@
+- pkg:nuget/Soenneker.Libraries.Git.Linux@11.0.158
+- pkg:nuget/Soenneker.Libraries.Git.Linux@11.0.176
 - pkg:nuget/Soenneker.Libraries.Git.Linux@3.0.100
 - pkg:nuget/Soenneker.Libraries.Git.Linux@3.0.104
 - pkg:nuget/Soenneker.Libraries.Git.Linux@3.0.130
