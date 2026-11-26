@@ -11,3 +11,7 @@
 - pkg:nuget/RimWorks.RimLogging@2.5.0
 - pkg:nuget/RimWorks.RimLogging@2.6.0
 - pkg:nuget/RimWorks.RimLogging@2.7.0
+- pkg:nuget/RimWorks.RimLogging@3.2.0
+- pkg:nuget/RimWorks.RimLogging@4.3.1
+- pkg:nuget/RimWorks.RimLogging@4.3.2
+- pkg:nuget/RimWorks.RimLogging@4.4.0
