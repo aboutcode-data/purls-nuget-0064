@@ -1,0 +1,14 @@
+- pkg:nuget/Cratis.Orleans.Storage@0.2.0
+- pkg:nuget/Cratis.Orleans.Storage@0.3.0
+- pkg:nuget/Cratis.Orleans.Storage@1.14.0
+- pkg:nuget/Cratis.Orleans.Storage@1.15.2
+- pkg:nuget/Cratis.Orleans.Storage@1.25.0
+- pkg:nuget/Cratis.Orleans.Storage@1.27.1
+- pkg:nuget/Cratis.Orleans.Storage@1.27.2
+- pkg:nuget/Cratis.Orleans.Storage@1.28.3
+- pkg:nuget/Cratis.Orleans.Storage@1.31.0
+- pkg:nuget/Cratis.Orleans.Storage@1.32.2
+- pkg:nuget/Cratis.Orleans.Storage@1.32.3
+- pkg:nuget/Cratis.Orleans.Storage@1.33.1
+- pkg:nuget/Cratis.Orleans.Storage@1.34.1
+- pkg:nuget/Cratis.Orleans.Storage@1.4.1
