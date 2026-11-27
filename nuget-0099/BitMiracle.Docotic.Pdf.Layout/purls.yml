@@ -1,3 +1,4 @@
+- pkg:nuget/BitMiracle.Docotic.Pdf.Layout@10.0.20842-dev
 - pkg:nuget/BitMiracle.Docotic.Pdf.Layout@8.8.15100-dev
 - pkg:nuget/BitMiracle.Docotic.Pdf.Layout@8.8.15155-dev
 - pkg:nuget/BitMiracle.Docotic.Pdf.Layout@8.8.15182-dev
