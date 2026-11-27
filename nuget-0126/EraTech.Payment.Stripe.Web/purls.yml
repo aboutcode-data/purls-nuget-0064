@@ -1,3 +1,5 @@
 - pkg:nuget/EraTech.Payment.Stripe.Web@2.2.27
 - pkg:nuget/EraTech.Payment.Stripe.Web@2.2.30
+- pkg:nuget/EraTech.Payment.Stripe.Web@2.2.39
+- pkg:nuget/EraTech.Payment.Stripe.Web@2.2.45
 - pkg:nuget/EraTech.Payment.Stripe.Web@2.2.6
