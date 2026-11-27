@@ -1,5 +1,6 @@
 - pkg:nuget/C1.Win.Schedule@10.0.20261.779
 - pkg:nuget/C1.Win.Schedule@10.0.20261.813
+- pkg:nuget/C1.Win.Schedule@11.0.20262.845
 - pkg:nuget/C1.Win.Schedule@5.0.20213.532-beta
 - pkg:nuget/C1.Win.Schedule@5.0.20213.537-beta
 - pkg:nuget/C1.Win.Schedule@5.0.20221.548
