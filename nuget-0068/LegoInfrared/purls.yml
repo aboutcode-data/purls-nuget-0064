@@ -14,3 +14,4 @@
 - pkg:nuget/LegoInfrared@0.7.0%2B1
 - pkg:nuget/LegoInfrared@0.8.0%2B1
 - pkg:nuget/LegoInfrared@0.9.0%2B1
+- pkg:nuget/LegoInfrared@1.0.0
