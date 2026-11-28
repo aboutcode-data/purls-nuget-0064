@@ -1,0 +1,16 @@
+- pkg:nuget/Webority.Azure.KeyVault@0.29.0
+- pkg:nuget/Webority.Azure.KeyVault@0.30.0
+- pkg:nuget/Webority.Azure.KeyVault@0.30.1
+- pkg:nuget/Webority.Azure.KeyVault@0.31.14
+- pkg:nuget/Webority.Azure.KeyVault@0.31.2
+- pkg:nuget/Webority.Azure.KeyVault@0.33.0
+- pkg:nuget/Webority.Azure.KeyVault@0.33.2
+- pkg:nuget/Webority.Azure.KeyVault@0.35.2
+- pkg:nuget/Webority.Azure.KeyVault@0.39.1
+- pkg:nuget/Webority.Azure.KeyVault@0.40.8
+- pkg:nuget/Webority.Azure.KeyVault@0.42.0
+- pkg:nuget/Webority.Azure.KeyVault@0.43.0
+- pkg:nuget/Webority.Azure.KeyVault@0.46.1
+- pkg:nuget/Webority.Azure.KeyVault@0.47.1
+- pkg:nuget/Webority.Azure.KeyVault@0.47.2
+- pkg:nuget/Webority.Azure.KeyVault@0.51.0

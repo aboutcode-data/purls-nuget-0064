@@ -25,6 +25,7 @@
 - pkg:nuget/Soenneker.Librarian.Kv@11.0.255
 - pkg:nuget/Soenneker.Librarian.Kv@11.0.263
 - pkg:nuget/Soenneker.Librarian.Kv@11.0.264
+- pkg:nuget/Soenneker.Librarian.Kv@11.0.272
 - pkg:nuget/Soenneker.Librarian.Kv@4.0.100
 - pkg:nuget/Soenneker.Librarian.Kv@4.0.108
 - pkg:nuget/Soenneker.Librarian.Kv@4.0.57
