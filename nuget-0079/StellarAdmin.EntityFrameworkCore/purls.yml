@@ -1,4 +1,5 @@
 - pkg:nuget/StellarAdmin.EntityFrameworkCore@0.10.0
+- pkg:nuget/StellarAdmin.EntityFrameworkCore@0.105.0
 - pkg:nuget/StellarAdmin.EntityFrameworkCore@0.11.0
 - pkg:nuget/StellarAdmin.EntityFrameworkCore@0.12.0
 - pkg:nuget/StellarAdmin.EntityFrameworkCore@0.13.0
