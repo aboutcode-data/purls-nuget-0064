@@ -7,3 +7,5 @@
 - pkg:nuget/Ewl.Sqlite@86.0.0-pr00565
 - pkg:nuget/Ewl.Sqlite@86.0.0-pr00567
 - pkg:nuget/Ewl.Sqlite@87.0.0-pr00571
+- pkg:nuget/Ewl.Sqlite@87.0.0-pr00572
+- pkg:nuget/Ewl.Sqlite@87.0.0-pr00574
