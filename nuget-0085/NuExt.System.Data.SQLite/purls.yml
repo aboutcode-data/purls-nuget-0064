@@ -13,3 +13,6 @@
 - pkg:nuget/NuExt.System.Data.SQLite@0.3.2
 - pkg:nuget/NuExt.System.Data.SQLite@0.3.3
 - pkg:nuget/NuExt.System.Data.SQLite@0.5.2
+- pkg:nuget/NuExt.System.Data.SQLite@0.8.0
+- pkg:nuget/NuExt.System.Data.SQLite@0.8.1
+- pkg:nuget/NuExt.System.Data.SQLite@0.8.9
