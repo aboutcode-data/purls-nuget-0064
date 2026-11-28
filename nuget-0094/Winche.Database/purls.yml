@@ -1,3 +1,4 @@
 - pkg:nuget/Winche.Database@10.2.0
 - pkg:nuget/Winche.Database@10.3.0
+- pkg:nuget/Winche.Database@12.0.0
 - pkg:nuget/Winche.Database@8.0.0
