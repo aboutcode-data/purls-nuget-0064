@@ -3,4 +3,9 @@
 - pkg:nuget/TKWF.Ext.Permissions.Abstractions@0.2.1-preview.0.22
 - pkg:nuget/TKWF.Ext.Permissions.Abstractions@0.2.1-preview.0.31
 - pkg:nuget/TKWF.Ext.Permissions.Abstractions@0.2.1-preview.0.6
+- pkg:nuget/TKWF.Ext.Permissions.Abstractions@0.2.2-preview.0.124
+- pkg:nuget/TKWF.Ext.Permissions.Abstractions@0.2.2-preview.0.149
+- pkg:nuget/TKWF.Ext.Permissions.Abstractions@0.2.2-preview.0.260
+- pkg:nuget/TKWF.Ext.Permissions.Abstractions@0.2.2-preview.0.261
 - pkg:nuget/TKWF.Ext.Permissions.Abstractions@0.2.2-preview.0.60
+- pkg:nuget/TKWF.Ext.Permissions.Abstractions@0.2.3-preview.0.3
