@@ -1,3 +1,7 @@
+- pkg:nuget/OrfeasZ.Cdktn.digitalocean.digitalocean@2.101.1.1
+- pkg:nuget/OrfeasZ.Cdktn.digitalocean.digitalocean@2.103.0.1
+- pkg:nuget/OrfeasZ.Cdktn.digitalocean.digitalocean@2.105.0.1
+- pkg:nuget/OrfeasZ.Cdktn.digitalocean.digitalocean@2.107.0.1
 - pkg:nuget/OrfeasZ.Cdktn.digitalocean.digitalocean@2.85.1.2
 - pkg:nuget/OrfeasZ.Cdktn.digitalocean.digitalocean@2.86.0.1
 - pkg:nuget/OrfeasZ.Cdktn.digitalocean.digitalocean@2.90.0.1
