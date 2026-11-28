@@ -16,5 +16,6 @@
 - pkg:nuget/EncySoftware.CAMIPC.Helper.Net@2.0.3%2B874fbde4dc4dbcb96b2eb5904f8f0dcab2515fd3
 - pkg:nuget/EncySoftware.CAMIPC.Helper.Net@2.0.8%2B71139413e2b534eb844bccb84805b7effb9863a2
 - pkg:nuget/EncySoftware.CAMIPC.Helper.Net@3.0.1-rc.12%2B756134d8f3e7c74d858059314d45cca4ab449d98
+- pkg:nuget/EncySoftware.CAMIPC.Helper.Net@3.0.12%2Ba1aec24499a631fba7277a6c0fd3a5e4d4c78031
 - pkg:nuget/EncySoftware.CAMIPC.Helper.Net@3.0.2
 - pkg:nuget/EncySoftware.CAMIPC.Helper.Net@3.0.6%2B9d19e08920adf4fdb48e8af213cd9f57badef280
