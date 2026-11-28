@@ -3,3 +3,4 @@
 - pkg:nuget/CSharpEssentials.Resilience@6.0.0
 - pkg:nuget/CSharpEssentials.Resilience@6.3.0
 - pkg:nuget/CSharpEssentials.Resilience@7.0.0
+- pkg:nuget/CSharpEssentials.Resilience@9.0.0

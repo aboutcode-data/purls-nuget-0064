@@ -16,3 +16,4 @@
 - pkg:nuget/CSharpEssentials.Time@6.3.0
 - pkg:nuget/CSharpEssentials.Time@6.5.0
 - pkg:nuget/CSharpEssentials.Time@7.0.0
+- pkg:nuget/CSharpEssentials.Time@9.0.0
