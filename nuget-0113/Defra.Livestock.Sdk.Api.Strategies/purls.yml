@@ -2,11 +2,17 @@
 - pkg:nuget/Defra.Livestock.Sdk.Api.Strategies@0.0.1-lreg-41-alpha.10.6
 - pkg:nuget/Defra.Livestock.Sdk.Api.Strategies@0.0.10
 - pkg:nuget/Defra.Livestock.Sdk.Api.Strategies@0.0.11-LREG-XX-alpha.1.63
+- pkg:nuget/Defra.Livestock.Sdk.Api.Strategies@0.0.13
 - pkg:nuget/Defra.Livestock.Sdk.Api.Strategies@0.0.13-lreg-909-alpha.17.84
+- pkg:nuget/Defra.Livestock.Sdk.Api.Strategies@0.0.13-lreg-909-alpha.21.88
+- pkg:nuget/Defra.Livestock.Sdk.Api.Strategies@0.0.13-lreg-909-alpha.22.89
+- pkg:nuget/Defra.Livestock.Sdk.Api.Strategies@0.0.13-lreg-909-alpha.24.5
 - pkg:nuget/Defra.Livestock.Sdk.Api.Strategies@0.0.13-lreg-909-alpha.3.70
 - pkg:nuget/Defra.Livestock.Sdk.Api.Strategies@0.0.13-lreg-909-alpha.4.71
 - pkg:nuget/Defra.Livestock.Sdk.Api.Strategies@0.0.13-lreg-909-alpha.7.74
 - pkg:nuget/Defra.Livestock.Sdk.Api.Strategies@0.0.13-lreg-909-alpha.8.75
+- pkg:nuget/Defra.Livestock.Sdk.Api.Strategies@0.0.14
+- pkg:nuget/Defra.Livestock.Sdk.Api.Strategies@0.0.14-lreg-980-alpha.2.101
 - pkg:nuget/Defra.Livestock.Sdk.Api.Strategies@0.0.3
 - pkg:nuget/Defra.Livestock.Sdk.Api.Strategies@0.0.3-lreg-127-alpha.1.13
 - pkg:nuget/Defra.Livestock.Sdk.Api.Strategies@0.0.3-lreg-127-alpha.1.21
